@@ -1,0 +1,193 @@
+@charset "utf-8";
+
+/*
+*	Layout Styles
+*
+*	5-1.	Containers
+*	5-2.	Double Column Layout
+*	5-3.	Single Column Layout
+*/
+
+/*-------------------------------------------------------------------
+
+	5-1.	Containers
+
+-------------------------------------------------------------------*/
+
+div#header{
+	margin: 0 auto;
+	width: 800px;
+	padding-bottom: 15px;
+}
+
+div#footerLink {
+	margin: 0 auto;
+	background-color:#e2e2e2;
+	line-height: 30px;
+	background-color:#ededed;
+	border-top:#666 1px solid;
+}
+
+div#footer {
+	margin: 0 auto;
+	background-repeat:repeat-x;
+	height: 35px;
+	background-color: #444;
+}
+
+
+div#links {
+	border-top:#aaa 1px solid;
+	width: 800px;
+	padding-top: 10px;
+	font-size: 85%;
+}
+
+
+
+.center_object { text-align:center; margin: 20px 0 0; }
+/*ボタンここから*/
+#submit {
+	display:block;
+	width: 201px;
+	height: 35px;
+	margin-left:220px;
+	padding:0;
+	border:0;
+	background: url(../images/recruit/bt_entry.png) 0 -35px no-repeat ;
+	text-indent:-9898px;
+	font-size: 0px;
+	line-height: 0px;
+	cursor:pointer;
+}
+#submit:hover,
+#submit:focus {
+	background: url(../images/recruit/bt_entry.png) 0 0 no-repeat ;
+}
+/*ここまで*/
+
+
+/*-------------------------------------------------------------------
+
+	5-3.	Single Column Layout
+
+-------------------------------------------------------------------*/
+
+.terms       { margin: 15px auto; padding: 10px; border: #ccc 2px solid; }
+.terms ol    { margin: 0 40px; }
+.terms ol li { list-style-type: decimal; padding-bottom:15px;}
+.terms ol.inner_list  { margin-bottom:15px; }
+.terms ol li.in      { list-style-type: decimal; padding-bottom: 0;}
+.terms ol li.in2     { list-style-type:disc; padding-bottom: 0;}
+.terms ol li.in_none { list-style-type:none; padding-bottom: 0;}
+
+/*「同意して次へ進む」ボタンここから*/
+.agreenext {
+	margin: 0 auto;
+	width: 171px;
+	height: 35px;
+	border:0;
+	background: url(../images/recruit/bt_agreenext.png) 0 -35px no-repeat ;
+	text-indent:-9898px;
+	cursor:pointer;
+}
+.agreenext:hover,
+.agreenext:focus {
+	background: url(../images/recruit/bt_agreenext.png) 0 0 no-repeat ;
+}
+/*ここまで*/
+
+/*「採用情報トップへ」ボタンここから*/
+.backtotop {
+	margin: 0 auto;
+	width: 171px;
+	height: 35px;
+	border:0;
+	background: url(../images/recruit/bt_backtotop.png) 0 -35px no-repeat ;
+	text-indent:-9898px;
+	cursor:pointer;
+}
+.backtotop:hover,
+.backtotop:focus {
+	background: url(../images/recruit/bt_backtotop.png) 0 0 no-repeat ;
+}
+/*ここまで*/
+
+
+/*フォーム*/
+.table_form       { margin: 15px auto; border-top: #bcb1ca 1px solid; border-right: #bcb1ca 1px solid; border-left: #bcb1ca 1px solid;}
+.table_form dl    { font-size:116%;}
+.table_form dl dt { float:left; margin-right:10px; padding:10px; width:150px; clear:both; }
+.table_form dl dd { display: block; padding:10px 10px 10px 180px; background: url(../images/recruit/bg_form.png) 0 0 repeat-y; border-bottom:#bcb1ca 1px solid; }
+.2line            { display:block; height:40px;} 
+.form_width       { display: block; width: 140px; float:left; }
+
+
+/*「送信内容確認」ボタンここから*/
+#form_bt_prev {
+	margin: 0 auto;
+	display:block;
+	width: 171px;
+	height: 35px;
+	padding:0;
+	border:0;
+	background: url(../images/recruit/bt_prev.png) 0 -35px no-repeat ;
+	text-indent:-9898px;
+	font-size: 0px;
+	line-height: 0px;
+	cursor:pointer;
+}
+#form_bt_prev:hover,
+#form_bt_prev:focus {
+	background: url(../images/recruit/bt_prev.png) 0 0 no-repeat ;
+}
+/*ここまで*/
+
+/*「修正する」ボタンここから*/
+#form_bt_back {
+	width: 171px;
+	height: 35px;
+	margin-right:20px;
+	background: url(../images/recruit/bt_back.png) 0 -35px no-repeat ;
+	text-indent:-9898px;
+	font-size: 0px;
+	cursor:pointer;
+	border: none;
+}
+#form_bt_back:hover,
+#form_bt_back:focus {
+	background: url(../images/recruit/bt_back.png) 0 0 no-repeat ;
+}
+/*ここまで*/
+
+/*「この内容で送信する」ボタンここから*/
+#form_bt_submit {
+	width: 171px;
+	height: 35px;
+	background: url(../images/recruit/bt_submit.png) 0 -35px no-repeat ;
+	text-indent:-9898px;
+	font-size: 0px;
+	cursor:pointer;
+	border: none;
+}
+	
+#form_bt_submit:hover,
+#form_bt_submit:focus {
+	background: url(../images/recruit/bt_submit.png) 0 0 no-repeat;
+}
+/*ここまで*/
+
+/*「同意して次へ進む」ボタン２ここから*/
+#form_bt_agreenext {
+	width: 171px;
+	height: 35px;
+	background: url(../images/recruit/bt_agreenext.png) 0 -35px no-repeat ;
+	text-indent:-9898px;
+	font-size: 0px;
+	cursor:pointer;
+	border: none;
+}
+#form_bt_agreenext:hover,
+#form_bt_agreenext:focus {
+	background: url(../images/recruit/bt_agreenext.png) 0 0 no-repeat ;
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>Oricom 交通媒体情報</title>
+    <link>http://www.oricom.co.jp/transit_info/index.html</link>
+    <description></description>
+    <language>ja</language>
+
+    <item>
+        <title>JR東京駅八重洲中央口　照明付き柱ポスター広告　東京ブライトピラー</title>
+        <link>http://www.oricom.co.jp/transit_info/2009/02/jr.html</link>
+        <description><![CDATA[<img border="0" width="320" height="229" src="http://www.oricom.co.jp/transit_info/090219.jpg"/><br />
+        1週間で約6０万人が利用する東京駅八重洲中央口。その改札付近に隣接する丸柱21本。]]></description>
+    </item>
+    <item>
+        <title>東京メトロ丸の内線　ホームドアシート広告</title>
+        <link>http://www.oricom.co.jp/transit_info/2009/01/post-3.html</link>
+        <description><![CDATA[<img border="0" width="320" height="240" src="http://www.oricom.co.jp/transit_info/platformdoor.jpg"/><br />
+        東京メトロの丸の内線と副都心線に設置されたホームドア。]]></description>
+    </item>
+    <item>
+        <title>メトロビジョン</title>
+        <link>http://www.oricom.co.jp/transit_info/2008/12/post-2.html</link>
+        <description><![CDATA[<img border="0" width="320" height="210" src="http://www.oricom.co.jp/transit_info/img/081127-02.jpg"/><br />
+        今年開業した副都心線と有楽町線を走る新型車両（全体の一部）に搭載された、東京メトロ初の車内映像媒体です。]]></description>
+    </item>
+    <item>
+        <title>ＪＲ秋葉原駅　新規イベントスペース</title>
+        <link>http://www.oricom.co.jp/transit_info/2008/12/post-1.html</link>
+        <description><![CDATA[<img border="0" width="320" height="240" src="http://www.oricom.co.jp/transit_info/img/081126-02.jpg"/><br />
+        JR秋葉原駅には今まで常設のイベントスペースが販売されておりませんでした。ニーズに応え、今回新たに設定されましたのでお知らせいたします。 ]]></description>
+    </item>
+    <item>
+        <title>東京メトロ　自動改札ステッカー広告</title>
+        <link>http://www.oricom.co.jp/transit_info/2008/12/post.html</link>
+        <description><![CDATA[<img border="0" width="283" height="213" src="http://www.oricom.co.jp/transit_info/img/081127-01.jpg"/><br />
+        東京メトロの主要22駅をPICK　UPしてコンパクトにまとめました。 自動改札は毎日の通勤・通学の中で接触するため、高い反復効果が期待できます。]]></description>
+    </item>
+
+    </channel>
+</rss>

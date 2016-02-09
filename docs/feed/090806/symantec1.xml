@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>①セキュリティ全体像</title>
+        <link>http://www.itmedia.co.jp/enterprise/</link>
+        <description><![CDATA[<img border="0" src="https://jp-businessstore.symantec.com/qq2/symantec/cmn/h1_logo.gif"/><br />
+        この部分は記事内容が入ります。この部分は記事内容が入ります。]]></description>
+    </item>
+    <item>
+        <title>②総合型セキュリティの必要性</title>
+        <link>http://www.itmedia.co.jp/enterprise/</link>
+        <description><![CDATA[<img border="0" src="https://jp-businessstore.symantec.com/qq2/symantec/cmn/h1_logo.gif"/><br />
+        この部分は記事内容が入ります。この部分は記事内容が入ります。]]></description>
+    </item>
+    <item>
+        <title>③エンドポイント管理</title>
+        <link>http://www.itmedia.co.jp/enterprise/</link>
+        <description><![CDATA[<img border="0" src="https://jp-businessstore.symantec.com/qq2/symantec/cmn/h1_logo.gif"/><br />
+        この部分は記事内容が入ります。この部分は記事内容が入ります。]]></description>
+    </item>
+    <item>
+        <title>④情報漏えい防止</title>
+        <link>http://www.itmedia.co.jp/enterprise/</link>
+        <description><![CDATA[<img border="0" src="https://jp-businessstore.symantec.com/qq2/symantec/cmn/h1_logo.gif"/><br />
+        この部分は記事内容が入ります。この部分は記事内容が入ります。]]></description>
+    </item>
+
+    </channel>
+</rss>

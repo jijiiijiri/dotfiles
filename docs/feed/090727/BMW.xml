@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demodemo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>全ての道に、あらゆる時に。</title>
+        <link>http://www.bmw.co.jp/jp/ja/newvehicles/x3/x3/2006/introduction.html</link>
+        <description><![CDATA[<img border="0" src="http://www.rssad.jp/feed/img/BMW_X3.gif"/><br />
+        今なら「BMWX3の30日モニター」をプレゼント]]></description>
+    </item>
+    <item>
+        <title>姿は、全てを語る。</title>
+        <link>http://www.bmw.co.jp/jp/ja/newvehicles/x5/x5/2006/introduction.html</link>
+        <description><![CDATA[<img border="0" src="http://www.rssad.jp/feed/img/BMW_X5.gif"/><br />
+        躍動している。たとえ静止していても。BMW X5]]></description>
+    </item>
+    <item>
+        <title>クーペがクーペを超えていく。</title>
+        <link>http://www.demodemo.com</link>
+        <description><![CDATA[<img border="0" src="http://www.rssad.jp/feed/img/BMW_X6.gif"/><br />
+        BMW X6-世界初のスポーツ・アクティビティ・クーペ]]></description>
+    </item>
+    <item>
+        <title>BMWクイズキャンペーン</title>
+        <link>http://www.demodemo.com</link>
+        <description><![CDATA[<img border="0" src="http://www.bmw.co.jp/jp/ja/_teaserpool/small_standard/request_ssl/img/green_support_27.jpg"/><br />
+        今なら、クイズに挑戦して、BMW 1ヶ月モニター体験をプレゼント。]]></description>
+    </item>
+
+    </channel>
+</rss>

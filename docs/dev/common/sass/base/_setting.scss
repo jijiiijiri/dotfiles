@@ -1,0 +1,122 @@
+
+//Media Query指定
+
+$width-wide-pc: 1600px; //画面の大きいPC
+$width-tab: 800px; //タブレット
+$width-sp: 480px; //スマホ
+
+@mixin wide-pc {
+  //$width-wide-pc（1600px）以上の場合
+  @media (min-width: $width-wide-pc) {
+    @content;
+  }
+}
+
+// 1つの要素にtab-spを使う場合は単独で使う事
+@mixin tab-sp {
+  //width-tab（768px）以下の場合
+  @media (max-width: $width-tab) {
+    @content;
+  }
+}
+
+@mixin tab {
+  //$width-sp（481px）〜$width-tab（768px）の場合
+  @media (min-width: $width-sp + 1) and (max-width: ($width-tab)) {
+    @content;
+  }
+}
+
+@mixin sp {
+  //$width-sp（480px）以下の場合
+  @media (max-width: ($width-sp)) {
+    @content;
+  }
+}
+
+
+
+
+//２倍サイズのデザインをそのままの数値で入力出来るmixin
+
+$design-width: 2000;
+
+@mixin width( $original-width ){
+width: ( $original-width / $design-width ) * 100%;
+}
+
+@mixin height( $original-height ){
+height: ( $original-height / 2 / 10 ) + rem;
+}
+
+@mixin top( $pos-top ){
+top: ( $pos-top / 2 / 10 ) + rem;
+}
+
+@mixin right( $pos-right ){
+right: ( $pos-right / $design-width ) * 100%;
+}
+
+@mixin left( $pos-left ){
+left: ( $pos-left / $design-width ) * 100%;
+}
+
+@mixin bottom( $pos-bottom ){
+bottom: ( $pos-bottom / 2 / 10 ) + rem;
+}
+
+@mixin m-top( $m-top ){
+margin-top: ( $m-top / 2 / 10 ) + rem;
+}
+
+@mixin m-right( $m-right ){
+margin-right: ( $m-right / $design-width ) * 100%;
+}
+
+@mixin m-bottom( $m-bottom ){
+margin-bottom: ( $m-bottom / 2 / 10 ) + rem;
+}
+
+@mixin m-left( $m-left ){
+margin-left: ( $m-left / $design-width ) * 100%;
+}
+
+@mixin p-top( $p-top ){
+padding-top: ( $p-top / 2 / 10 ) + rem;
+}
+
+@mixin p-right( $p-right ){
+padding-right: ( $p-right / $design-width ) * 100%;
+}
+
+@mixin p-bottom( $p-bottom ){
+padding-bottom: ( $p-bottom / 2 / 10 ) + rem;
+}
+
+@mixin p-left( $p-left ){
+padding-left: ( $p-left / $design-width ) * 100%;
+}
+
+//center
+
+@mixin xy-center {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+@mixin y-center {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@mixin x-center {
+    top: 0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
+}

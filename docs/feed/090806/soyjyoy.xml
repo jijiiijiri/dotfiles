@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>カロリーが低い</title>
+        <link>http://www.otsuka.co.jp/soy/product/question.html</link>
+        <description><![CDATA[<img border="0" src="http://www.otsuka.co.jp/soy/images/common/logo_soyjoy.gif"/><br />
+        SOYJOYはこの満足度で○○カロリー。]]></description>
+    </item>
+    <item>
+        <title>低、GI。</title>
+        <link>http://www.otsuka.co.jp/soy/gi.html</link>
+        <description><![CDATA[<img border="0" src="http://www.otsuka.co.jp/soy/images/common/logo_soyjoy.gif"/><br />
+        糖質の吸収が穏やかな低GI。詳しくはこちら。]]></description>
+    </item>
+    <item>
+        <title>素材由来の栄養をおいしく</title>
+        <link>http://www.otsuka.co.jp/soy/product/bake.html</link>
+        <description><![CDATA[<img border="0" src="http://www.otsuka.co.jp/soy/images/common/logo_soyjoy.gif"/><br />
+        どんな素材を使っているかは、こちらで知ってください。]]></description>
+    </item>
+    <item>
+        <title>噛み応えがあり満足度が高い</title>
+        <link>http://www.otsuka.co.jp/soy/product/bake.html</link>
+        <description><![CDATA[<img border="0" src="http://www.otsuka.co.jp/soy/images/common/logo_soyjoy.gif"/><br />
+        満足度が高いヒミツとは？]]></description>
+    </item>
+
+    </channel>
+</rss>

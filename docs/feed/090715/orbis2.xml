@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>フットクールリフレッシュ</title>
+        <link>http://www.orbis.co.jp/small/1557010/</link>
+        <description><![CDATA[<img border="0" src="http://www.orbis.co.jp/Cms/Small/1557010/Images/1557010_80.jpg"/><br />
+        脚の疲れやだるさが気になったらシュッ！足元にクールな爽快感を運ぶリフレッシュスプレー]]></description>
+    </item>
+    <item>
+        <title>シトラスコラーゲン（シトラスミックス味）</title>
+        <link>http://www.orbis.co.jp/small/2601010/</link>
+        <description><![CDATA[<img border="0" src="http://www.orbis.co.jp/Cms/Small/2601010/Images/2601010_80.jpg"/><br />
+        弾むようなハリを求める方に コラーゲンを手軽においしくたっぷり補給]]></description>
+    </item>
+    <item>
+        <title>ソフトサニタリーショーツ　ジャストウエスト</title>
+        <link>http://www.orbis.co.jp/small/3402010/</link>
+        <description><![CDATA[<img border="0" src="http://www.orbis.co.jp/Cms/Small/3402010/Images/3402010_80.jpg"/><br />
+        生理中の不快感をショーツでケア お腹も脚口も苦しくないジャストウエスト]]></description>
+    </item>
+    <item>
+        <title>ストラップレス・マカロン</title>
+        <link>http://www.orbis.co.jp/small/3208040/</link>
+        <description><![CDATA[<img border="0" src="http://www.orbis.co.jp/Cms/Small/3208040/Images/3208040_80.jpg"/><br />
+        軽やかに、優しく、丸胸キープ！ 動いてもしっかりフィットするストラップレス]]></description>
+    </item>
+
+    </channel>
+</rss>

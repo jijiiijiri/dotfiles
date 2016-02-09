@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>CCBパリ：口コミで人気ランキング</title>
+    <link>http://www.ccb-paris.jp/_jp/_jp/topavis/index.aspx</link>
+    <description></description>
+    <language>ja</language>
+
+    <item>
+        <title>イドラソース ローション</title>
+        <link><![CDATA[http://www.ccb-paris.jp/_jp/_jp/Skincare/index_prod.aspx?prdcode=P8196641&CatCode=G0_01^G1_01_20^G2_01_20_30&]]></link>
+        <description><![CDATA[<img border="0" width="120" height="120" src="http://www.ccb-paris.jp/img/common/product/Segment/P8196641_segment.jpg"/><br />
+        ふっくらと肌を整えて、次のお手入れのなじみを良くする化粧水。]]></description>
+    </item>
+    <item>
+        <title>ユイル エクストラ デマキアン</title>
+        <link><![CDATA[http://www.ccb-paris.jp/_jp/_jp/skincare/index_prod.aspx?prdcode=P8201671&CatCode=G0_01&]]></link>
+        <description><![CDATA[<img border="0" width="120" height="120" src="http://www.ccb-paris.jp/img/common/product/Segment/P8201671_segment.jpg"/><br />
+        ダブル洗顔不要、いっきに快適、しなやかに洗い上げる、さらさらオイル。]]></description>
+    </item>
+    <item>
+        <title>b.パーフェクト! フェイス パウダー</title>
+        <link><![CDATA[http://www.ccb-paris.jp/_jp/_jp/makeup/index_prod.aspx?prdcode=P8165951&CatCode=G0_05^G1_05_10^G2_05_10_40&]]></link>
+        <description><![CDATA[<img border="0" width="120" height="120" src="http://www.ccb-paris.jp/img/common/product/Segment/P8165951_segment.jpg"/><br />
+        ふわっと、つややか、繊細な質感を演出。リキッドファンデーションの仕上がりを高めるフェイスパウダー。]]></description>
+    </item>
+    <item>
+        <title>エクスフォリエイティング</title>
+        <link><![CDATA[http://www.ccb-paris.jp/_jp/_jp/bodycare/index_prod.aspx?prdcode=P8157381&CatCode=G0_02^G1_02_20^G2_02_20_10&]]></link>
+        <description><![CDATA[<img border="0" width="120" height="120" src="http://www.ccb-paris.jp/img/common/product/Segment/P8157381_segment.jpg"/><br />
+        毎日使える、ミネラルソルトのふわふわスクラブ。]]></description>
+    </item>
+    <item>
+        <title>リニュー ナイトクリーム</title>
+        <link><![CDATA[http://www.ccb-paris.jp/_jp/_jp/haircare/index_prod.aspx?prdcode=P8220071&CatCode=G0_10^G1_10_40&/]]></link>
+        <description><![CDATA[<img border="0" width="120" height="120" src="http://www.ccb-paris.jp/img/common/product/Segment/P8220071_segment.jpg"/><br />
+        ふんわり柔らかな質感をもたらす、夜用トリートメントヘアクリーム。]]></description>
+    </item>
+
+    </channel>
+</rss>

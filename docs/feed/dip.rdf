@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:lang="ja"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://www.hatarako.net/">
+<title>はたらこねっと</title>
+<link>http://www.hatarako.net/</link>
+<description>派遣のお仕事・派遣会社情報が満載！＜日本最大級の派遣情報サイト＞</description>
+<dc:language>ja</dc:language>
+<dc:date>2009-04-08T00:00:00+09:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.rssmaker.jp/" />
+<items>
+
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.hatarako.net/jobDetail.do?param1=9358653&amp;topics=h_bestx1" />
+  <rdf:li rdf:resource="http://www.hatarako.net/jobDetail.do?param1=9731398&amp;topics=h_bestx1" />
+  <rdf:li rdf:resource="http://www.hatarako.net/jobDetail.do?param1=9787019&amp;topics=h_bestx1" />
+  <rdf:li rdf:resource="http://www.hatarako.net/jobDetail.do?param1=9724582&amp;topics=h_bestx1" />
+  <rdf:li rdf:resource="http://www.hatarako.net/jobDetail.do?param1=9792969&amp;topics=h_bestx1" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.hatarako.net/jobDetail.do?param1=9358653&amp;topics=h_bestx1">
+<title>【マスコミ・テレビ局】NHK国際放送ディレクター《英語必須》</title>
+<link>http://www.hatarako.net/jobDetail.do?param1=9358653&amp;topics=h_bestx1</link>
+<description>【海外向け放送】ＮＨＫが海外向けの放送を拡充する事にともないニュース番組のディレクターを大量募集します！！非常に環境の良い職場ですので、英語ができるディレクション経験者の方はぜひご応募下さい！</description>
+<dc:date>2009-04-08T00:00:00+09:00</dc:date>
+</item>
+
+<item rdf:about="http://www.hatarako.net/jobDetail.do?param1=9731398&amp;topics=h_bestx1">
+<title>【3ヶ月後には正社員！】大手・洋菓子ブランドでの広報事務</title>
+<link>http://www.hatarako.net/jobDetail.do?param1=9731398&amp;topics=h_bestx1</link>
+
+<description>経験を活かす！サンシャイン６０の大手洋菓子ブランドで正社員になろう！全国でチェーン展開している洋菓子ブランド！商品を知ってもらいたい！沢山の人に食べてもらいたい！そんな気持ちを形にするお仕事です。</description>
+<dc:date>2009-04-08T00:00:00+09:00</dc:date>
+</item>
+
+<item rdf:about="http://www.hatarako.net/jobDetail.do?param1=9787019&amp;topics=h_bestx1">
+<title>旅行関連会社で予約・発券業務【10：30スタート】</title>
+<link>http://www.hatarako.net/jobDetail.do?param1=9787019&amp;topics=h_bestx1</link>
+<description>駅から近く通勤に便利な職場です。３～６ヶ月の派遣期間終了後、正社員登用を予定しております。</description>
+<dc:date>2009-04-06T00:00:00+09:00</dc:date>
+</item>
+
+<item rdf:about="http://www.hatarako.net/jobDetail.do?param1=9724582&amp;topics=h_bestx1">
+<title>【新浦安】経験が活かせる！東レ本社での1次QC業務！</title>
+<link>http://www.hatarako.net/jobDetail.do?param1=9724582&amp;topics=h_bestx1</link>
+<description>＜＜東レ第２本社で専門職の募集です！＞＞医薬品の開発に関わる部署で、1次ＱＣの募集です。落ち着いた環境で、知識・スキルを活かして働きたい方にピッタリ！カフェテリアもありオフィス環境良好！</description>
+<dc:date>2009-04-05T00:00:00+09:00</dc:date>
+</item>
+
+<item rdf:about="http://www.hatarako.net/jobDetail.do?param1=9792969&amp;topics=h_bestx1">
+<title>時給2200円●女性向けサービスサイトの改修【期間限定】</title>
+<link>http://www.hatarako.net/jobDetail.do?param1=9792969&amp;topics=h_bestx1</link>
+
+<description>朝ゆっくりめの１０時スタート！服装自由で駅からも近く便利です。◆３ヶ月から半年のプロジェクトになります。</description>
+<dc:date>2009-04-04T00:00:00+09:00</dc:date>
+</item>
+
+</rdf:RDF>

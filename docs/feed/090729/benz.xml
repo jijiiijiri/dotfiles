@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title> 新型Eクラス発売記念</title>
+        <link>http://www.mbfj.co.jp/news/e_395.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.mercedes-benz.co.jp/passenger/car_lineup/e-class/media/bnr_newEFinance_70x40.jpg"/><br />
+        スペシャルファイナンスプラン 詳しくはこちら]]></description>
+    </item>
+    <item>
+        <title>E-Class Coupe' スペシャルサイト</title>
+        <link>http://special.mercedes-benz.co.jp/E-Class/main.html#/coupe</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.mercedes-benz.co.jp/passenger/car_lineup/e-class/media/bnr_coupe_70x40.jpg"/><br />
+        詳しくはこちら]]></description>
+    </item>
+    <item>
+        <title> CLS 350 Grand Edition登場</title>
+        <link>http://mercedes-amg.jp/new-e63amg_reserve/index.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.mercedes-benz.co.jp/passenger/car_lineup/cls-class/media/special_cls70x40.jpg"/><br />
+        詳しくはこちら]]></description>
+    </item>
+    <item>
+        <title>* 2009年7月1日～12月31日</title>
+        <link>http://www.mercedes-benz.co.jp/news/campaign/campaign_08.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src=""/><br />
+        メルセデス・ベンツ生誕の地へ“ドイツの旅ご優待キャンペーン”]]></description>
+    </item>
+
+
+    </channel>
+</rss>

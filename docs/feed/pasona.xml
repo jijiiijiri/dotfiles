@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>本気の転職はパソナキャリア</title>
+    <link>http://www.pasonacareer.jp/</link>
+    <description>転職のプロが求人情報の紹介から面接対策まで無料支援</description>
+    <language>ja</language>
+
+    <item>
+        <title>ご存知ですか？非公開求人</title>
+        <link>http://www.pasonacareer.jp/contents/301003.html</link>
+        <description><![CDATA[<img border="0" width="138" height="116" src="http://www.pasonacareer.jp/images/closed_top.gif"/><br />
+        求人情報の約80％は一般のサイトでは検索できない非公開の求人情報です]]></description>
+    </item>
+    <item>
+        <title>求人増加傾向！MR求人特集</title>
+        <link>http://www.pasonacareer.jp/contents/1101003.html</link>
+        <description><![CDATA[<img border="0" width="65" height="76" src="http://www.pasonacareer.jp/images/fig_lead_005.jpg"/><br />
+        先発品メーカー、ジェネリックメーカー、CSOなどMR求人が増加傾向！]]></description>
+    </item>
+    <item>
+        <title>企画・マーケティングの求人特集</title>
+        <link>http://www.pasonacareer.jp/contents/1101025.html</link>
+        <description><![CDATA[<img border="0" width="65" height="76" src="http://www.pasonacareer.jp/images/fig_lead_178.jpg"/><br />
+        世の中に影響を与える、企画・マーケティングの仕事！]]></description>
+    </item>
+    <item>
+        <title>治験モニター求人特集</title>
+        <link>http://www.pasonacareer.jp/contents/1101014.html</link>
+        <description><![CDATA[<img border="0" width="65" height="76" src="http://www.pasonacareer.jp/images/fig_lead_056.jpg"/><br />
+        新しいキャリアの選択肢！治験モニター職]]></description>
+    </item>
+    <item>
+        <title>重要な役割を担う！回路設計求人特集</title>
+        <link>http://www.pasonacareer.jp/contents/1101010.html</link>
+        <description><![CDATA[<img border="0" width="65" height="76" src="http://www.pasonacareer.jp/images/fig_lead_121.jpg"/><br />
+        開発力の強化！回路設計は重要なポジション]]></description>
+    </item>
+
+    </channel>
+</rss>

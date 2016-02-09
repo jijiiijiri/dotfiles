@@ -1,0 +1,96 @@
+#member {
+    .member-list {
+        margin-top: 5%;
+        margin-bottom: 7%;
+        li {
+            float: left;
+            width: 19%;
+            margin: 2% .5%;
+            text-align: center;
+            @include tab {
+                width: 24%;
+                margin-top: 1%;
+                margin-bottom: 0;
+            }
+            @include sp {
+                width: 49%;
+            }
+            a {
+                position: relative;
+                display: block;
+                width: 100%;
+                height: 0;
+                padding-top: 100%;
+                transition: all .2s;
+                text-align: center;
+                text-decoration: none;
+                opacity: 1;
+                color: #649d45;
+                &:hover {
+                    transition: all .2s;
+                    opacity: .7;
+                }
+                .member-name {
+                    font-size: 250%;
+                    position: absolute;
+                    top: 45%;
+                    left: 0;
+                    width: 54%;
+                    text-align: center;
+                    letter-spacing: -.1rem;
+                    @include tab-sp {
+                        font-size: 220%;
+                        letter-spacing: -.1rem;
+                    }
+                    &.long-letters {
+                        font-size: 210%;
+                        top: 46%;
+                        @include tab-sp {
+                            font-size: 180%;
+                        }
+                    }
+                }
+            }
+            .img-kae {
+                background: url(/culture/img/member/index_img_kae.png) no-repeat;
+                background-size: contain;
+            }
+            .img-jun {
+                background: url(/culture/img/member/index_img_jun.png) no-repeat;
+                background-size: contain;
+            }
+            .img-akira {
+                background: url(/culture/img/member/index_img_akira.png) no-repeat;
+                background-size: contain;
+            }
+            .img-masaki {
+                background: url(/culture/img/member/index_img_masaki.png) no-repeat;
+                background-size: contain;
+            }
+            .img-takahiro {
+                background: url(/culture/img/member/index_img_takahiro.png) no-repeat;
+                background-size: contain;
+            }
+            .img-hiroki {
+                background: url(/culture/img/member/index_img_hiroki.png) no-repeat;
+                background-size: contain;
+            }
+            .img-masatoshi {
+                background: url(/culture/img/member/index_img_masatoshi.png) no-repeat;
+                background-size: contain;
+            }
+            .img-yosuke {
+                background: url(/culture/img/member/index_img_yosuke.png) no-repeat;
+                background-size: contain;
+            }
+            .img-sae {
+                background: url(/culture/img/member/index_img_sae.png) no-repeat;
+                background-size: contain;
+            }
+            .img-hideyuki {
+                background: url(/culture/img/member/index_img_hideyuki.png) no-repeat;
+                background-size: contain;
+            }
+        }
+    }
+}

@@ -1,0 +1,204 @@
+@charset "utf-8";
+/*____________________________
+
+  # netage BaseTemplateCSS
+  # update 2007.01.25
+  # use by rssads mp common_decoration.css
+  ____________________________*/
+	 
+
+/*--------------------------------
+全レイアウト共通 (ページ固有のものは定義しない)
+-----------------------------------*/
+
+/*見出し要素*/
+
+div#centerbox h1{
+margin:0px 0px 10px 0px;
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+div#centerbox h2{
+margin:20px 0px 0px 0px;
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+div#centerbox h3{
+margin:0px 15px 10px 15px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+border-bottom:#CCCCCC 1px solid;
+font-size:12px;
+}
+
+div#centerbox h4{
+margin:0px 10px 10px;
+padding:0px 0px 0px 0px;
+color:#666;
+font-size:10px;
+}
+
+div#centerbox h5 {
+margin:0px 0px 0px 0px;
+padding:0px 0px 0px 10px;
+}
+
+
+
+
+/* ブロック要素 */
+
+#wrapp{ 
+width:100%;
+float:left;
+}
+
+.boxTM {
+	padding:0px 0px 10px 0px;
+	left: auto;
+}
+
+#toPageTop{
+text-align:right;
+}
+
+p{
+margin:0px 10px 0px 10px; /*　上　右　下　左 */
+line-height:180%;
+}
+
+div#toPageTop p{
+margin:20px 0px 20px 0px; /*　上　右　下　左 */
+padding:0px 20px 0px 0px; /*　上　右　下　左 */
+font-size:12px;
+}
+
+.h1explain{
+font-size:12px;
+margin:0px 15px 15px 15px; /*　上　右　下　左 */
+line-height:140%;
+}
+
+.h2explain{
+font-size:12px;
+margin:20px 0px 10px 10px; /*　上　右　下　左 */
+line-height:140%;
+}
+
+div#centerbox ul{
+margin:0px 0px 0px 20px; /*　上　右　下　左 */
+font-size:12px; /*w_op,w_nn7,w_ff*/
+}
+
+div#centerbox li{
+padding:0px 0px 5px 0px; /*　上　右　下　左 */
+}
+
+
+/* インライン要素 */
+
+.loginNameColor{
+color:#FF6600;
+}
+
+
+/* 汎用 */
+
+.error{
+color:#FF3333;
+}
+
+.annotation{
+color:#666666;
+font-size:10px;
+}
+
+.explain {
+font-size:10px;
+color:#555555;
+line-height:140%;
+}
+
+.value {
+text-align:right;
+}
+
+.stats{
+text-align:center;
+}
+
+.activate{
+color:#006600;
+font-weight:bold;
+text-align:center;
+}
+
+.important{
+color:#FF3300;
+font-weight:bold;
+}
+
+.importantLarge{
+color:#FF3300;
+font-size:16px;
+font-weight:bold;
+}
+
+.clear{
+clear:both;
+}
+
+
+/* カラー */
+
+.orange {
+color:#FF6600;
+}
+
+.blue {
+color:#003366;
+}
+
+
+/* 揃え */
+
+.center{
+	text-align:left;
+	line-height:140%;
+	margin:0px 0px 0px 0px; /*　上　右　下　左 */
+	padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+.left{
+text-align:left;
+line-height:140%;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+.right{
+text-align:right;
+line-height:140%;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+.Fcenter{
+float:center;
+line-height:140%;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+.Fleft{
+float:left;
+line-height:140%;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+.Fright{
+float:right;
+line-height:140%;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}

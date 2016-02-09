@@ -1,0 +1,883 @@
+@charset "UTF-8";
+@media screen and (min-width: 801px) {
+
+/* ------------------ main ------------------ */
+
+html{
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	background-image: url(bg2.png);
+	background-repeat: repeat;
+	background-size: 10%;
+    line-height:1.6;
+}
+
+h1{
+	margin: 0;
+	padding: 0;
+}
+
+.main_wrapper{
+	width: 990px;
+	margin: auto auto;
+}
+
+.main_head{
+	position: relative;
+}
+
+.main_head4{
+	position: relative;
+}
+
+
+.main_title{
+	width: 100%;
+	position: absolute;	
+	top:10px;
+	left: 0;
+}
+
+.title_img{
+	width: 339px;
+	float: left;
+}
+
+.fblikebox{
+	float: right;
+}
+
+.fblikebox2{
+	float: right;
+}
+
+.main_img{
+	width: 100%;
+	display: block;
+}
+
+.main_box{
+	background-color: #ffffff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	/* box-shadow */
+	box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	-webkit-box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	-moz-box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+}
+
+.sub_box{
+	background-color: #ffffff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	/* box-shadow */
+	box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	-webkit-box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	-moz-box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	margin-top: 40px;
+}
+
+.main_box h1{
+	background-color: #3c9938;
+	padding: 8px;
+	padding-left: 15px;
+	margin-bottom: 20px;
+	font-size: 1.4em;
+	font-weight: normal;
+	color: #ffffff;
+	/* border-radius */
+	border-radius:5px 5px 0px 0px;
+	-webkit-border-radius:5px 5px 0px 0px;
+	-moz-border-radius:5px 5px 0px 0px;
+}
+
+.sub_box h1{
+	background-color: #23b395	;
+	padding: 8px;
+	padding-left: 15px;
+	margin-bottom: 20px;
+	font-size: 1.4em;
+	font-weight: normal;
+	color: #ffffff;
+	/* border-radius */
+	border-radius:5px 5px 0px 0px;
+	-webkit-border-radius:5px 5px 0px 0px;
+	-moz-border-radius:5px 5px 0px 0px;
+}
+
+.box_inner{
+	padding: 25px;
+	border-bottom: #dddddd 1px dotted;
+}
+
+.job_img{
+	float: left;
+	width: 300px;
+	border:#68b266 5px solid;
+	margin-right: 30px;
+}
+
+.job_detail{
+	float: left;
+	width: 600px;
+}
+
+.job_title_ae{
+	width: 231px;
+}
+
+.job_title_sc{
+	width: 245px;
+}
+
+.job_title_en{
+	width: 113px;
+}
+
+.job_detail h2{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.job_detail p{
+	font-size: 1em;
+	margin: 10px 0 10px 0;
+}
+
+.job_detail button{
+	font-size: 1.4em;
+}
+
+.bywantedly{
+	width: 145px;
+	margin-left: 20px;
+}
+
+.btn_area{
+	margin-top: 30px;
+}
+
+.yuzuru_img{
+	float: left;
+	width: 231px;
+	border:#daeddf 5px solid;
+	margin-right: 30px;
+}
+
+.yuzuru_detail{
+	float: left;
+	width: 670px;
+}
+/*追加*/
+.form_detail{
+	float: left;
+	width: 100%;
+}
+
+.yuzuru_detail h2{
+	font-size: 2em;
+	font-weight: normal;
+	margin-bottom: 20px;
+	margin-top: 0;
+}
+
+.yuzuru_detail h3,.form_detail h3/*追加*/{
+	font-size: 1.4em;
+	font-weight: normal;
+	border-bottom: #dddddd 1px dotted;
+	padding-bottom: 10px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.yuzuru_detail p,.form_detail p{
+	font-size: 1em;
+	margin: 10px 0 10px 0;
+}
+
+/*追加*/
+.form_detail .taiguboxThreeBox:nth-of-type(1),
+.form_detail .taiguboxThreeBox:nth-of-type(2){
+    border-right:#dddddd 1px dotted;
+}
+
+.corp_info{
+	width: 100%;
+	border-left: #dddddd 1px solid;
+	border-top: #dddddd 1px solid;
+	margin-bottom: 20px;
+}
+
+.corp_info_sp{
+	display: none;
+}
+
+.corp_info th,
+.corp_info td{
+	border-right: #dddddd 1px solid;
+	border-bottom: #dddddd 1px solid;
+	padding: 10px;
+}
+
+.corp_info th{
+	text-align: center;
+}
+
+.footer{
+	text-align: center;
+	margin: 30px;
+	line-height: 200%;
+}
+
+.mapframe{
+	width: 100%;
+	height: 300px;
+	border:none;
+	overflow: hidden;
+}
+
+.taigubox{
+    width:25%;float:left;padding:1%;text-align:center;
+}
+
+.taiguboxThreeBox{
+    width:50%;float:left;padding:1%;text-align:center; height:425px;
+}
+
+.taiguboxThreeBox div img{
+    width:78%;
+    margin-bottom:2em!important;
+}
+
+/*br無効*/
+.job_detail p span br{ display:none;}
+.box_inner span br{ display:none;}
+
+/* ------------------画像------------------ */
+
+.job_img_l {
+    float: left;
+    width: 300px;
+    margin-right: 30px;
+    border:#ddd 1px solid;
+}
+
+.job_img_r {
+    float: right;
+    width: 300px;
+    margin-left: 30px;
+    border:#ddd 1px solid;
+}
+
+/* ------------------ボタン------------------ */
+
+.bywantedly_2{/*追加*/
+	width: 145px;
+	display:block;
+    margin:10px auto 0;
+}
+
+.btn_area_l{/*追加*/
+	margin-top: 15px;
+    float: left;
+}
+
+.btn_area_r{/*追加*/
+	margin-top: 15px;
+    float: right;
+}
+
+.btn_area_c50{
+    text-align:center;
+    margin: 0 auto;
+    width:50%;
+}
+
+.btn_area_c100{
+    text-align:center;
+    margin: 0 auto;
+    width:100%;
+}
+
+.btn_area_c100 a{ display:block;}
+
+.btn_big{
+    padding: 18px 48px!important;
+    font-size:1.5em!important;
+}
+
+.btn_big_etc{
+    padding: 6px 12px!important;
+    font-size:15px!important;
+    width:100%;
+}
+
+ .pd48{ padding: 6px 48px!important;}
+
+.btn3 {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.submit-plus{ display:block; width:100%; text-align:center; padding:10px 0;}
+
+.btn-color_green {
+    color: #fff!important;
+    background-color: #64b27c!important;
+    border-color: #71c98c!important;
+}
+
+.btn-color_green:hover {
+  color: #fff!important;
+  background-color: #3c9938!important;
+  border-color: #64b27c!important;
+}
+
+/* ------------------common class------------------ */
+
+
+.cf:before,
+.cf:after {
+    content:"";
+    
+    display:block;
+}
+ 
+.cf:after {
+    clear:both;
+}
+ 
+.cf {
+    zoom:1;
+}
+
+/*------------------form------------------*/
+
+
+.entry_table th.enF {
+    display: block;
+    white-space: nowrap;
+    border-right: none;
+}
+
+/*IE9*/
+.entry_table th.enF {
+    width: auto\9;
+    display:block\9;
+    border-collapse:collapse\9;
+    border-spacing:0px\9;
+    white-space: normal\9;
+}
+
+.firstBorder{
+    border-top: #dddddd 1px dotted;
+}
+
+.entry_table td.enF {
+    display: inline-block;
+    text-align: left;
+}
+
+/*IE9*/
+.entry_table td.enF {
+    width: auto\9;
+    display:block\9;
+    border-collapse:collapse\9;
+    border-spacing:0px\9;
+    margin:0 auto\9;
+}
+
+
+.form-inline .fMb {
+    margin: 0 14px;
+}
+
+.form-inline .fw100 {
+    width:87%;
+    padding:10px;
+    margin:0.5em 1em;
+}
+
+/*IE9*/
+:root .form-inline .fw100 {
+    width:auto\0/;
+    padding:10px\0/;
+    /*margin:0 auto\0/;*/
+}
+
+.entry_table tr:nth-child(even){
+    background: #f5f5f5;
+}
+
+.fBox {
+    padding:3em 2em 0;
+}
+
+}
+
+
+@media screen and (max-width: 800px) {
+
+/* ------------------ main ------------------ */
+
+html{
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	background-image: url(bg2.png);
+	background-repeat: repeat;
+	background-size: 10%;
+    line-height:1.6;
+}
+
+h1{
+	margin: 0;
+	padding: 0;
+}
+
+.main_wrapper{
+	width: 96%;
+	margin: auto 2%;
+}
+
+.main_head{
+	position: relative;
+}
+
+.main_head4{
+	position: relative;
+}
+
+.main_title{
+	width: 100%;
+	position: absolute;	
+	top:10px;
+	left: 0;
+}
+
+.title_img{
+	width: 30%;
+	margin-left: 10px;
+}
+
+.fblikebox{
+	float: right;
+}
+
+.fblikebox2{
+	float: right;
+}
+
+.main_img{
+	width: 100%;
+	margin-top: 
+}
+
+.main_box{
+	background-color: #ffffff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	/* box-shadow */
+	box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	-webkit-box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	-moz-box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+}
+
+.sub_box{
+	background-color: #ffffff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	/* box-shadow */
+	box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	-webkit-box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	-moz-box-shadow:rgba(204, 204, 204, 0.65098) 0px 0px 3px 1px;
+	margin-top: 40px;
+}
+
+.main_box h1{
+	background-color: #3c9938;
+	padding: 8px;
+	padding-left: 15px;
+	font-size: 1.4em;
+	font-weight: normal;
+	color: #ffffff;
+	/* border-radius */
+	border-radius:5px 5px 0px 0px;
+	-webkit-border-radius:5px 5px 0px 0px;
+	-moz-border-radius:5px 5px 0px 0px;
+}
+
+.sub_box h1{
+	background-color: #23b395	;
+	padding: 8px;
+	padding-left: 15px;
+	font-size: 1.4em;
+	font-weight: normal;
+	color: #ffffff;
+	/* border-radius */
+	border-radius:5px 5px 0px 0px;
+	-webkit-border-radius:5px 5px 0px 0px;
+	-moz-border-radius:5px 5px 0px 0px;
+}
+
+.box_inner{
+	padding: 25px;
+	border-bottom: #dddddd 1px dotted;
+}
+
+.job_img{
+	width: 100%;
+	border:#68b266 5px solid;
+
+}
+
+.job_detail{
+	text-align: center;
+}
+
+.job_title_ae{
+	width: 231px;
+	margin-top: 10px;
+}
+
+.job_title_sc{
+	width: 245px;
+	margin-top: 10px;
+}
+
+.job_title_en{
+	width: 113px;
+	margin-top: 10px;
+}
+
+.job_detail h2{
+	font-size: 1.1em;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-align: left;
+}
+
+.job_detail p{
+	font-size: 1em;
+	margin: 10px 0 10px 0;
+	text-align: left;
+}
+
+.job_detail button{
+	font-size: 1.4em;
+}
+
+.bywantedly{
+	width: 100px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+.btn_area{
+	margin-top: 30px;
+}
+
+.yuzuru_img{
+	display: none;
+}
+
+.yuzuru_detail{
+	width: 100%;
+}
+
+.yuzuru_detail h2{
+	font-size: 1.6em;
+	font-weight: normal;
+	margin-bottom: 20px;
+	margin-top: 0;
+}
+
+.yuzuru_detail h3,.form_detail h3/*追加*/{
+	font-size: 1.4em;
+	font-weight: normal;
+	border-bottom: #dddddd 1px dotted;
+	padding-bottom: 10px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.yuzuru_detail p{
+	font-size: 1em;
+	margin: 10px 0 10px 0;
+}
+
+.corp_info{
+	display: none;
+}
+
+.corp_info_sp{
+	display: block;
+}
+
+.corp_info_sp dt{
+	padding: 5px;
+	background-color: #eeeeee;
+}
+
+.corp_info_sp dd{
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+.corp_info th,
+.corp_info td{
+	border-right: #dddddd 1px solid;
+	border-bottom: #dddddd 1px solid;
+	padding: 10px;
+}
+
+.corp_info th{
+	text-align: center;
+}
+
+.footer{
+	text-align: center;
+	margin: 30px;
+	line-height: 200%;
+}
+
+.mapframe{
+	width: 100%;
+	height: 300px;
+	border:none;
+	overflow: hidden;
+}
+
+.taigubox{
+    width:25%;float:left;padding:1%;text-align:center;
+}
+
+.taiguboxThreeBox{
+    text-align:center;
+    margin:3em 0;
+    border-bottom: #dddddd 1px dotted;
+}
+
+.taiguboxThreeBox:last-child{
+    border-bottom: none;
+}
+
+.taiguboxThreeBox div img{
+    width:78%;
+}
+
+/* ------------------画像------------------ */
+
+.job_img_l {
+    width: 100%;
+    margin-bottom: 25px;
+    border:#ddd 1px solid;
+}
+
+.job_img_r {
+    width: 100%;
+    margin-bottom: 25px;
+    border:#ddd 1px solid;
+}
+
+/* ------------------ボタン------------------ */
+
+.bywantedly_2{/*追加*/
+	width: 145px;
+	display:block;
+    margin:10px auto 0;
+    float: right;
+}
+
+.btn_area_l{/*追加*/
+	margin-top: 30px;
+    width:100%;
+}
+
+.btn_area_r{/*追加*/
+	margin-top: 30px;
+    width:100%;
+}
+
+.btn_area_l a,.btn_area_r a{ display:block;}
+
+.btn_area_c50{
+    text-align:center;
+    margin: 0 auto 30px;
+    width:100%;
+}
+
+.btn_area_c100{
+    text-align: center;
+    margin: 3em 20px;
+    width: auto;
+}
+
+.btn_area_c100 a{ display:block;}
+
+.btn_big{
+    padding: 12px 0!important;
+    font-size:18px!important;
+}
+
+.btn_big_etc{
+    padding: 12px 0!important;
+    font-size:18px!important;
+}
+
+.btn3 {
+    width:100%;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.submit-plus{ display:block; width:100%; text-align:center; padding:3em 10px!important;}
+
+.btn-color_green {
+    color: #fff!important;
+    background-color: #64b27c!important;
+    border-color: #71c98c!important;
+}
+
+.btn-color_green:hover {
+  color: #fff!important;
+  background-color: #3c9938!important;
+  border-color: #64b27c!important;
+}
+
+/* ------------------common class------------------ */
+
+
+.cf:before,
+.cf:after {
+    content:"";
+    
+    display:block;
+}
+ 
+.cf:after {
+    clear:both;
+}
+ 
+.cf {
+    zoom:1;
+}
+
+/*------------------tablet-form------------------*/
+
+/*追加*/
+.form_detail{
+	width: 100%;
+    margin:0 auto;
+}
+
+/*IE9*/
+:root .entry_table th.enF {
+    width: auto\0/!important;
+    display:block\0/;
+    border-collapse:collapse\0/;
+    border-spacing:0px\0/;
+    white-space: normal\0/;
+}
+
+.entry_table th.enF {
+    display: block;
+    white-space: nowrap;
+    border-right: none;
+    margin:0 auto;
+    width:100%!important;
+}
+
+.firstBorder{
+    border-top: #dddddd 1px dotted;
+}
+
+.entry_table td.enF {
+    display: inline-block;
+    text-align: left;
+    width:100%;
+    margin: 0;
+}
+
+.form-inline .fMb {
+    margin:6px auto;
+    width: 88%!important;
+    box-sizing:border-box;
+}
+
+.form-inline .fw100 {
+    margin:10px auto;
+    width: 88%!important;
+    box-sizing:border-box;
+    height:42px!important;
+}
+
+.fBox {
+    padding:3em 0 0;
+}
+
+}
+
+@media screen and (max-width: 470px) {
+
+.fblikebox{
+	float: right;
+	margin-top: -90px;
+	margin-right: 10px;
+}
+
+.fblikebox2{
+	float: right;
+	margin-top: -0px;
+	margin-right: 10px;
+}
+
+}

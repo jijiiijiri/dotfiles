@@ -1,0 +1,71 @@
+@charset "UTF-8";
+@media screen and (min-width: 800px) {
+
+.photographhead{
+	max-width:1200px;
+	min-width:950px;
+	margin:auto auto;
+}
+
+.photographtitle{
+	text-align:center;
+	font-size:1.5em;
+	margin-bottom:0px;
+}
+
+.subtitle{
+	text-align:center;
+	font-size:0.8em;
+}
+
+.torecruitbox{
+	width:900px;
+	margin:auto auto;
+	text-align:center;
+	margin-top:150px;
+	margin-bottom:150px;
+}
+
+.torecruitbox a.btn{
+	font-size:1.5em;
+	padding:70px;
+}
+
+}
+
+@media screen and (max-width: 800px) {
+
+.photographhead{
+	width: 100%;
+	margin:auto auto;
+	text-align: center;
+}
+
+.photographtitle{
+	text-align:center;
+	font-size:1.5em;
+	margin-bottom:0px;
+	margin-top: 0px;
+	padding-top: 20px;
+}
+
+.subtitle{
+	text-align:center;
+	font-size:0.6em;
+	width: 100%;
+}
+
+.torecruitbox{
+	width:100%;
+	margin:auto auto;
+	text-align:center;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.torecruitbox a.btn{
+	font-size:1em;
+	padding:20px;
+}
+
+}

@@ -1,0 +1,119 @@
+#top {
+    .banner-menu {
+        margin-top: 1.3%;
+        li {
+            width: 30.5%;
+            height: 30.5%;
+            background: url(/culture/img/top/bg.png) repeat;
+            float: left;
+            margin: 1.3%;
+            position: relative;
+            @include sp {
+                width: 47.4%;
+            }
+            a {
+                position: relative;
+                z-index: 2;
+                display: block;
+                color: #fff;
+                width: 94.7541%;
+                padding-top: 94.725%;
+                margin: 2.6%;
+                text-decoration: none;
+                &:hover {
+                    opacity: 0.7;
+                }
+            }
+            .head-menu {
+                position: absolute;
+                top: 7%;
+                left: -2.6%;
+                background-color: rgba(#59992e, .8);
+                &.head {
+                    padding-top: 0.2rem;
+                    ;
+                    padding-left: 3%;
+                    padding-right: 5%;
+                    font-size: 2.6rem;
+                    @include sp {
+                        font-size: 1.8rem;
+                    }
+                }
+                &.sub-head {
+                    padding: 1.8% 5% 1.8% 3%;
+                    margin-top: 2.8rem;
+                    font-size: 1.2rem;
+                    @include sp {
+                        margin-top: 2rem;
+                        font-size: 0.7rem;
+                        padding-top: 1.5%;
+                        padding-bottom: 3%;
+                    }
+                    .sp-view {
+                        @include sp {
+                            line-height: 1.3;
+                        }
+                    }
+                }
+            }
+        }
+        .banner-about {
+            a {
+                background: url(/culture/img/top/bnr_menu_about.png) no-repeat;
+                background-size: contain;
+            }
+        }
+        .banner-message {
+            a {
+                background: url(/culture/img/top/bnr_menu_message.png) no-repeat;
+                background-size: contain;
+            }
+        }
+        .banner-members {
+            a {
+                background: url(/culture/img/top/bnr_menu_members.png) no-repeat;
+                background-size: contain;
+            }
+        }
+        .banner-benefits {
+            a {
+                background: url(/culture/img/top/bnr_menu_benefits.png) no-repeat;
+                background-size: contain;
+            }
+        }
+        .banner-office {
+            a {
+                background: url(/culture/img/top/bnr_menu_office.png) no-repeat;
+                background-size: contain;
+            }
+        }
+        .banner-mind {
+            a {
+                background: url(/culture/img/top/bnr_menu_minds.png) no-repeat;
+                background-size: contain;
+            }
+        }
+    }
+    .facebook-banner {
+        margin-bottom: 1.8%;
+        li {
+            float: left;
+            width: 30.5%;
+            height: 30.5%;
+            margin: 1.3%;
+            @include sp {
+                float: none;
+                width: 97.4%;
+                height: auto;
+            }
+        }
+        @include sp {
+            .fb-fringeneer{
+                display: none;
+            }
+            .fb-shinsotsu {
+                display: none;
+            }
+        }
+    }
+}

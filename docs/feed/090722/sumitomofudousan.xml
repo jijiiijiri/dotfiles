@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>【シティタワーズ豊洲】</title>
+        <link>http://www.ct-toyosu.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.sumitomo-rd.co.jp/mansion/shuto/thumb/toyosu2.jpg"/><br />
+        7/25（土)マンション購入に役立つ情報満載のセミナー開催！(予約制)]]></description>
+    </item>
+    <item>
+        <title>【パークスクエア相模大野】</title>
+        <link>http://www.ps-sagamiono.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.sumitomo-rd.co.jp/mansion/shuto/thumb/sagamiono2.jpg"/><br />
+        夏休みイベント第2弾開催中！]]></description>
+    </item>
+    <item>
+        <title>【シティテラス立川】</title>
+        <link>http://www.ct-tachikawa.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.sumitomo-rd.co.jp/mansion/shuto/thumb/tachikawa.jpg"/><br />
+        7/25(土)昭和記念公園花火大会見学会開催[完全予約制]（10組様限定）]]></description>
+    </item>
+    <item>
+        <title>【セントラルレジデンス シティテラス目白】</title>
+        <link>http://www.ct-mejiro.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.sumitomo-rd.co.jp/mansion/shuto/thumb/mejiro_takada2.jpg"/><br />
+        ホームページ リニューアルしました！]]></description>
+    </item>
+    <item>
+        <title>【大崎ウエストシティタワーズ】</title>
+        <link>http://www.yamanote-direct.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.sumitomo-rd.co.jp/mansion/shuto/thumb/owct2.jpg"/><br />
+        ホームページ動画配信スタートしました！！]]></description>
+    </item>
+
+    </channel>
+</rss>

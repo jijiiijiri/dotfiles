@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>海外旅行保険【2倍】マイルキャンペーン！</title>
+        <link>http://www.anahoken.com/kairyowmile/</link>
+        <description><![CDATA[<img border="0" width="70" height="70" src="http://www.anahoken.com/common/images/pic_kairyowmile.jpg"/><br />
+        2009年9月30日（水）まで]]></description>
+    </item>
+    <item>
+        <title>留学生保険【3倍】マイルキャンペーン！</title>
+        <link>http://www.anahoken.com/ryugakumile/</link>
+        <description><![CDATA[<img border="0" width="70" height="70" src="http://www.anahoken.com/common/images/pic_ryugakumile.jpg"/><br />
+        2009年9月30日（水）まで]]></description>
+    </item>
+    <item>
+        <title>医療保険・がん保険・生命保険の資料請求で、100マイルプレゼント！</title>
+        <link>http://www.anahoken.com/medical100mile/</link>
+        <description><![CDATA[<img border="0" width="70" height="70" src="http://www.anahoken.com/common/images/pic_medical100mile.jpg"/><br />
+        2009年8月31日（月）まで]]></description>
+    </item>
+    <item>
+        <title>自動車保険のご契約で、ボーナス100マイルプレゼント！</title>
+        <link>http://www.anahoken.com/auto100mile/</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.anahoken.com/common/images/pic_auto100mile.jpg"/><br />
+        2009年7月30日（木）まで]]></description>
+    </item>
+    <item>
+        <title>「ペット保険」の取扱を開始いたしました。</title>
+        <link>http://www.anahoken.com/pet/</link>
+        <description><![CDATA[<img border="0" width="81" height="35" src="http://www.anahoken.com/pet/images/pic_01.gif"/><br />
+        ]]></description>
+    </item>
+
+    </channel>
+</rss>

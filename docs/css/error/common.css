@@ -1,0 +1,85 @@
+/* 共通パラメータ */
+
+body , p , ul , h1 , h2 , h3 , table , #header , #contents , #glovalNavi , #footer {
+	margin: 0px;
+	padding: 0px;
+}
+
+/* タグ別パラメータ */
+
+body {
+	font-family: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+	font-size: 100%;
+	line-height: 140%;
+	color: #000000;
+	background-color: #FFFFFF;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 140%;
+}
+
+h2 {
+	font-size: 120%;
+}
+
+h3 {
+	font-size: 110%;
+}
+
+/* ID別パラメータ */
+
+#layout {
+	text-align: left;
+	width: 500px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#header {
+	margin-bottom: 20px;
+}
+
+#contents {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+}
+
+#title {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+#footer {
+	text-align: center;
+}
+
+/* クラス別パラメータ */
+
+.box {
+	margin: 10px 10px 20px;
+}
+
+.box #notFound {
+	color: #CC6600;
+}
+
+.box #sysError {
+	color: #FF0000;
+}
+
+/* 用途別パラメータ */
+
+.clear {
+	clear: both;
+}

@@ -1,0 +1,167 @@
+@charset "utf-8";
+/*____________________________
+
+  # netage BaseTemplateCSS
+  # update 2006.04.25
+  # use by rssads mp beforeLogin.css
+  ____________________________*/
+
+	 
+/*--------------------------------
+▼ナビゲーション要素
+-----------------------------------*/
+
+div#headerbox{
+width:100%;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+#globalnavi{
+background-image:url(../../img/mp/beforeLogin/img_NaviBackground.gif);
+background-repeat:repeat-x;
+margin:0px 2px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+#globalnaviLogin{
+background-image:url(../../img/mp/afterLogin/img_NaviBackground.gif);
+background-repeat:repeat-x;
+margin:0px 2px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+#localnavi{
+margin:0px 2px 0px 2px; /*　上　右　下　左 */
+padding:5px 0px 5px 26px; /*　上　右　下　左 */
+background-color:#ffffff;
+border-bottom:#EEEEEE 1px solid;
+font-size: 10px;
+
+}
+
+#headerUtility {
+position:absolute;
+right:20px;
+top:45px;
+_top:49px;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+text-align:right;
+}
+
+#headerUtility li{
+width:auto;
+float:left;
+list-style-type:none;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 10px; /*　上　右　下　左 */
+font-size: 10px;
+}
+
+div#headerbox li{
+list-style-type:none;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 20px 0px 0px; /*　上　右　下　左 */
+float:left;
+}
+
+div#utility {
+font-size:10px;
+text-align:center;
+margin:0px 0px 15px 265px; /*　上　右　下　左 */
+padding:0px 0px 5px 0px; /*　上　右　下　左 */
+}
+
+div#utility li{
+float:left;
+list-style-type:none;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 5px 0px 5px; /*　上　右　下　左 */
+}
+
+
+div#pankuzu {
+height:20px;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:5px 0px 5px 28px; /*　上　右　下　左 */
+}
+
+div#pankuzu p{
+font-size: 10px;
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 10px 0px 0px; /*　上　右　下　左 */
+}
+
+
+/*--------------------------------
+▼各ページレイアウト要素
+-----------------------------------*/
+
+/*---アカウント申請---*/
+
+.SaafIDCheck{
+border-top:#CCCCCC 1px solid;
+background-color:#f5f5f5;
+line-height:140%;
+font-size:12px;
+}
+
+.SaafIDCheckBody{
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:10px 10px 10px 10px; /*　上　右　下　左 */
+}
+
+.SaafIDCheckBody ol{
+margin:10px 10px 0px 30px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+.SaafIDCheckBody li{
+list-style:decimal;
+list-style-type:decimal;
+margin:0px 0px 5px 0px; /*　上　右　下　左 */
+padding:0px 0px 0px 0px; /*　上　右　下　左 */
+}
+
+
+/*---広告設定ガイド---*/
+
+#guideBtn{
+}
+
+#guideBtnBody{
+margin:0px 0px 0px 0px; /*　上　右　下　左 */
+padding:0px 1px 0px 1px; /*　上　右　下　左 */
+}
+
+.AdGuideContents{
+line-height:140%;
+}
+
+.AdGuideContentsBody{
+margin:30px 0px 0px 0px; /*　上　右　下　左 */
+padding:10px 10px 10px 10px; /*　上　右　下　左 */
+}
+
+.AdGuideText{
+width:480px;
+float:left;
+}
+
+.AdGuideScreen{
+float:right;
+padding:3px;
+background-image:url(../../img/mp/common/BorderBg.gif);
+}
+
+
+/*---コンバインデモ版---*/
+
+.TMcRegistrationBtn{
+text-align:center;
+background-color:#E6E6E6;
+margin:20px 0px 0px 0px; /*　上　右　下　左 */
+padding:10px 10px 10px 10px; /*　上　右　下　左 */
+font-size:12px;
+line-height:140%;
+}

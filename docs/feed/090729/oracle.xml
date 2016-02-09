@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demodemo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>増加するシステムと定常コスト</title>
+        <link>http://www.oracle.co.jp/campaign/11g/solution/solution_1.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.oracle.co.jp/campaign/img/header_logo.gif"/><br />
+        Oracle GRIDの提供によって、ITインフラの仮想化と統合を実現します。]]></description>
+    </item>
+    <item>
+        <title>使えない分析システム</title>
+        <link>http://www.oracle.co.jp/showcase/2007/sej/top.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.oracle.co.jp/showcase/2007/sej/image/logo.gif"/><br />
+        解決事例：セブンイレブンジャパン]]></description>
+    </item>
+    <item>
+        <title>コンプライアンスと効率性の相反</title>
+        <link>http://www.oracle.co.jp/showcase/2007/ryohin-keikaku/top.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.oracle.co.jp/showcase/2007/ryohin-keikaku/image/logo.gif"/><br />
+        解決事例：良品計画]]></description>
+    </item>
+    <item>
+        <title>【イベント情報】Oracle Database Summit 2009</title>
+        <link>http://www.oracle.co.jp/events/jpm090825/</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.oracle.co.jp/campaign/img/header_logo.gif"/><br />
+         ～クラウド時代の次世代情報システム基盤とは～]]></description>
+    </item>
+    </channel>
+</rss>

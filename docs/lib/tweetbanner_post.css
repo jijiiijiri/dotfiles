@@ -1,0 +1,150 @@
+.maincontents_wrapper ol, .maincontents_wrapper ul, .maincontents_wrapper dl, .maincontents_wrapper div{zoom:1;}
+
+.maincontents_wrapper ol:after, .maincontents_wrapper ul:after, .maincontents_wrapper dl:after, .maincontents_wrapper div:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+.maincontents {
+	background-image:url(../images/common/main_top_1column.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+	float:left;
+	width:826px;
+	font-size:12px;
+}
+.maincontents_wrapper {
+	background-image:url(../images/common/main_bg_1column.gif);
+}
+h2 {
+	width:405px;
+	float:left;
+	margin:0px;
+}
+p, h3, dl, dt, dd{margin:0; padding:0;}
+.catch {
+	width:383px;
+	float:right;
+}
+
+.grip .point {
+	float:left;
+	width:420px;
+	margin-top:20px;
+}
+
+
+.grip .point h3 {
+	padding:0px 0px 34px 0px;
+}
+
+.grip #demo {
+	width:300px;
+	clear:right;
+	float:right;
+}
+
+
+
+.merit .article p{
+	padding:0px 0px 8px 0px;
+}
+	
+.merit .article .text{
+	padding:0px 10px 36px 10px;
+}
+
+.grip, .flow, .merit {
+	display:block;
+	clear:both;
+	padding:43px 34px 0px 34px; 
+}
+
+.outline {
+	display:block;
+	clear:both;
+	padding:43px 34px 34px 34px; 
+}
+
+.grip .title, .flow .title, .outline .title, .merit .title {
+	padding-bottom:8px;
+	margin-bottom:24px;
+	border-bottom:1px solid #CCC;
+}
+
+
+
+
+.article {margin:10px 20px 40px 20px;}
+
+.article .title {
+	padding:14px 0px 6px 40px;
+	margin-bottom:14px;
+	background-image:url(../images/service/tweetbanner/Bg_title.gif);
+	background-position:left 3px;
+	background-repeat:no-repeat;
+/*	border-bottom:1px dotted #bbb;*/
+	border-bottom:none;
+}
+
+
+
+.flow .flow_image{text-align:center;}
+
+
+
+.contact_catch {
+	margin:20px 34px 0px 34px;
+	padding:20px;
+	text-align:center;
+	font-weight:bold;
+	background-color:#DCFE66;
+}
+.contact_catch_deco {
+	margin:0px 34px 0px 34px;
+	text-align:center;
+}
+.contact_btm {
+	margin:15px 0px 40px 0px;
+	text-align:center;
+}
+
+.tel {
+	font-size:10px;
+	text-align:center;
+}
+
+
+.media {
+	background-color:#95CFF1;
+	line-height:1.6;
+	margin:60px 34px 0px 34px;
+	padding:15px 20px 0px 20px;
+	display:block;
+	clear:both;
+	
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+}
+
+
+.media .title {
+	border-bottom:1px solid #FFF;
+	padding:0px 0px 5px 0px;
+	margin-bottom:10px;
+}
+
+.media  .article {
+	margin:10px 20px 20px 10px;
+}
+
+.media  .article a {
+	color:#006699;
+}
+
+.media .caution {
+	font-size:10px;
+}

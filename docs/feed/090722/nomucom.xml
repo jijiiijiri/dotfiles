@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title> ライオンズ向ヶ丘遊園エアージュ</title>
+        <link>http://lions-mansion.jp/MD071032/</link>
+        <description><![CDATA[<img border="0" src="http://www.nomu.com/project/data/thumbnail/extra/X0001200.jpg"/><br />
+        小田急小田原線「向ヶ丘遊園」駅徒歩１３分。自然と暮らす。都市を生きる。心やすらぐ住まいがある。]]></description>
+    </item>
+    <item>
+        <title>ドレッセ代田花見堂プレゼンス</title>
+        <link><![CDATA[http://www.nomu.com/project/search/redirect.php?id=X0001240&type=3&special_count_id=398]]></link>
+        <description><![CDATA[<img border="0" src="http://www.nomu.com/project/data/thumbnail/extra/X0001240.jpg"/><br />
+        渋谷へ、三軒茶屋へ、下北沢へ。３駅３路線利用できる格好のポジション。]]></description>
+    </item>
+    <item>
+        <title>晴海テラス</title>
+        <link><![CDATA[http://www.nomu.com/project/search/redirect.php?id=X0001141&type=3&special_count_id=418]]></link>
+        <description><![CDATA[<img border="0" src="http://www.nomu.com/project/data/thumbnail/extra/X0001141.jpg"/><br />
+       銀座約1.9㎞。中央区晴海に湾岸・都心生活を満喫する378邸。40平米1ＬＤＫ2238万円台より]]></description>
+    </item>
+    <item>
+        <title>ライオンズ錦糸町シーズンテラス</title>
+        <link><![CDATA[http://www.nomu.com/project/search/redirect.php?id=X0001199&type=3&special_count_id=400]]></link>
+        <description><![CDATA[<img border="0" src="http://www.nomu.com/project/data/thumbnail/extra/X0001199.jpg"/><br />
+        未来を予感する副都心錦糸町エリア。深い安らぎに包まれるプライベートレジデンス誕生。]]></description>
+    </item>
+    <item>
+        <title> スタイルハウス目黒緑が丘</title>
+        <link><![CDATA[http://www.nomu.com/project/search/redirect.php?id=X0001279&type=3&special_count_id=437]]></link>
+        <description><![CDATA[<img border="0" src="http://www.nomu.com/project/data/thumbnail/extra/X0001279.jpg"/><br />
+        無印良品と考える、19の自由な住まい。三菱地所の自由設計マンション。]]></description>
+    </item>
+
+    </channel>
+</rss>

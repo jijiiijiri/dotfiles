@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>LOOX Mシリーズ</title>
+        <link>http://www.fujitsu-webmart.com/jp/webmart/!ui1210</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/09su_index0/closeM0421.gif"/><br />
+        洗練されたデザインと機能を持ち運ぶ]]></description>
+    </item>
+    <item>
+        <title>NFシリーズ</title>
+        <link>http://www.fujitsu-webmart.com/jp/webmart/!ui1206</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/09su_index0/closeNF0421.gif"/><br />
+        個性がきらめくカラー採用のノート]]></description>
+    </item>
+    <item>
+        <title>CEシリーズ</title>
+        <link>http://www.fujitsu-webmart.com/jp/webmart/!ui1203</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/09su_index0/closeCE0421.gif"/><br />
+        高性能グラフィックボード搭載モデル]]></description>
+    </item>
+    <item>
+        <title>LOOX Uシリーズ</title>
+        <link>http://www.fujitsu-webmart.com/jp/webmart/!ui1211</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/09su_index0/closeU1215.gif"/><br />
+        いつも持ち歩きたくなるコンパクトモバイル]]></description>
+    </item>
+    <item>
+        <title>F×MHF</title>
+        <link>http://www.fujitsu-webmart.com/jp/webmart/!ui1213</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/09su_index0/closeMon0421.gif"/><br />
+        モンスターハンターフロンティアオンライン推奨PC]]></description>
+    </item>
+    </channel>
+</rss>

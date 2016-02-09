@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>【売買】住宅ローン減税対象の中古物件特集</title>
+        <link>http://www.athome.co.jp/special/buy_loan/</link>
+        <description><![CDATA[<img border="0" width="118" height="78" src="http://www.athome.co.jp/special/images/pho_01.jpg"/><br />
+        住宅ローン減税制度はご存知ですか？]]></description>
+    </item>
+    <item>
+        <title>【賃貸】２人暮らし始めよう！賃貸特集</title>
+        <link>http://www.athome.co.jp/apps/special/sp_090602.html</link>
+        <description><![CDATA[<img border="0" width="118" height="78" src="http://www.athome.co.jp/special/images/pho_02.jpg"/><br />
+        寂しさ半分、楽しさ倍増！楽しい２人暮らしを始めましょう。]]></description>
+    </item>
+    <item>
+        <title>【賃貸】風通し良好！角部屋で快適生活</title>
+        <link>http://www.athome.co.jp/apps/special/sp_090603.html</link>
+        <description><![CDATA[<img border="0" width="118" height="78" src="http://www.athome.co.jp/special/images/pho_03.jpg"/><br />
+        採光面・通風に優れている角部屋で快適な時間をお過ごしください。]]></description>
+    </item>
+    <item>
+        <title>高級賃貸マンション特集</title>
+        <link>http://www.athome.co.jp/special/high-class/</link>
+        <description><![CDATA[<img border="0" width="118" height="78" src="http://www.athome.co.jp/special/web/images/pho_list_080401.jpg"/><br />
+        高級賃貸マンション特集 東京人気エリアの高級賃貸マンションをピックアップ！]]></description>
+    </item>
+    <item>
+        <title>動画で内見！ムービー付き物件特集</title>
+        <link>http://www.athome.co.jp/movie_sp/</link>
+        <description><![CDATA[<img border="0" src="http://www.athome.co.jp/movie_sp/img/sagasu_movie.gif"/><br />
+        物件も動画で探す時代です！]]></description>
+    </item>
+
+    </channel>
+</rss>

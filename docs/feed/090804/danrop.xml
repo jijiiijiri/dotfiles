@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>DUNROP　製品ラインナップ</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>ENASAVE RV503</title>
+        <link>http://tyre.dunlop.co.jp/tyre/lineup/passenger/rv503/index.html</link>
+        <description><![CDATA[<img border="0" src="http://tyre.dunlop.co.jp/img/cont_n/DFT_ttop_002.jpg"/><br />
+        ミニバンタイヤに、低燃費という環境性能]]></description>
+    </item>
+    <item>
+        <title>ENASAVE 97</title>
+        <link>http://www.enasave.jp/</link>
+        <description><![CDATA[<img border="0" src="http://tyre.dunlop.co.jp/img/cont_n/DFT_ttop_002.jpg"/><br />
+        91%石油外天然資源タイヤ]]></description>
+    </item>
+    <item>
+        <title>SP　SPORT MAXX</title>
+        <link>http://www.sp-sport-maxx.jp/</link>
+        <description><![CDATA[<img border="0" src="http://tyre.dunlop.co.jp/img/cont_n/DFT_ttop_002.jpg"/><br />
+       卓越したハイクオリティを追及するドライバー達へ]]></description>
+    </item>
+    <item>
+        <title>DIREZZA</title>
+        <link>http://www.direzza.jp/</link>
+        <description><![CDATA[<img border="0" src="http://tyre.dunlop.co.jp/img/cont_n/DFT_ttop_002.jpg"/><br />
+        速さ・安定性を追求するドライバー達へ]]></description>
+    </item>
+
+    </channel>
+</rss>
+

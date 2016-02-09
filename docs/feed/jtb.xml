@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>旅行情報満載！旅行・ホテル予約はJTB</title>
+    <link>http://www.jtb.co.jp/</link>
+    <description>旅行情報満載！旅行・ホテル予約はJTB</description>
+    <language>ja</language>
+
+    <item>
+        <title>夏休み旅行特集　～2009～</title>
+        <link>http://www.jtb.co.jp/season/summer2009/</link>
+        <description><![CDATA[<img border="0" width="80" height="60" src="http://www.jtb.co.jp/images/search/jtbtop1.jpg"/><br />
+        夏休みは高原・プール・ビーチでワイワイ！　夏休み旅行をいますぐチェック！]]></description>
+    </item>
+    <item>
+        <title>夏休み直前大セール！</title>
+        <link>http://dom.jtb.co.jp/yado/List.aspx?ty=natsubgn&amp;lm=typ</link>
+        <description><![CDATA[<img border="0" width="80" height="60" src="http://www.jtb.co.jp/images/search/jtbtop2.jpg"/><br />
+        緊急特売！夏休み直前の大セール開催中です！！]]></description>
+    </item>
+    <item>
+        <title>東京ディズニーリゾート(R)への旅</title>
+        <link>http://www.jtb.co.jp/tdr/hotel/index.asp</link>
+        <description><![CDATA[<img border="0" width="80" height="60" src="http://www.jtb.co.jp/images/search/jtbtop31.jpg"/><br />
+        家族で仲間で東京ディズニーリゾート（Ｒ）へ！]]></description>
+    </item>
+    <item>
+        <title>温泉！格安宿泊プラン</title>
+        <link>http://dom.jtb.co.jp/yado/List.aspx?ty=sale_o</link>
+        <description><![CDATA[<img border="0" width="80" height="60" src="http://www.jtb.co.jp/images/search/jtbtop4.jpg"/><br />
+        格安で温泉旅行に出掛かけられる宿泊プランの登場！]]></description>
+    </item>
+    <item>
+        <title>9月連休の宿！</title>
+        <link>http://dom.jtb.co.jp/yado/theme/sep/</link>
+        <description><![CDATA[<img border="0" width="80" height="60" src="http://www.jtb.co.jp/images/search/jtbtop5.jpg"/><br />
+        今年はなんと5連休！9月の連休に泊まれる宿！]]></description>
+    </item>
+
+    </channel>
+</rss>

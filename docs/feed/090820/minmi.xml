@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>めざましエコライブに出演</title>
+        <link>https://www2.universal-music.co.jp/form/minmi/oubo_mezamashi.html</link>
+        <description><![CDATA[<img border="0" src="http://www.minmi.jp/image/top/umcf9514.jpg"/><br />
+        ライブの優先入場券、抽選50組100名様を募集致します]]></description>
+    </item>
+    <item>
+        <title>「a-nation'09」出演決定</title>
+        <link>http://a-nation.net/</link>
+        <description><![CDATA[<img border="0" src="http://www.minmi.jp/image/top/umcf9514.jpg"/><br />
+        8月29日、大阪府：長居陸上競技場）]]></description>
+    </item>
+    <item>
+        <title>「グータンヌーボ」に出演！！</title>
+        <link>http://www.minmi.jp/media.html</link>
+        <description><![CDATA[<img border="0" src="http://www.minmi.jp/image/top/umcf9514.jpg"/><br />
+        2009.07月15日(水)・22日(水)23:00～]]></description>
+    </item>
+    <item>
+        <title>サマコレCDが発売☆</title>
+        <link>http://www.minmi.jp/news.html</link>
+        <description><![CDATA[<img border="0" src="http://www.minmi.jp/image/top/umcf9514.jpg"/><br />
+        8月19日にビクターエンタテイメントから発売]]></description>
+    </item>
+
+    </channel>
+</rss>

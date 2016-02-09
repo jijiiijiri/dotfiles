@@ -1,0 +1,78 @@
+.container-recruit-link {
+    width: 100%;
+    background-color: rgba(#59992e, .8);
+    border-top: 1px solid #fff;
+    @include sp {
+        background: none;
+    }
+    .link-recruit {
+        width: 67rem;
+        max-width: 1000px;
+        margin: 0 auto;
+        @include sp {
+            width: 100%;
+            text-align: center;
+        }
+        .list-recruit-btn {
+            a {
+                text-decoration: none;
+                color: #fff;
+            }
+            li {
+                float: left;
+                vertical-align: bottom;
+                color: #fff;
+                @include sp {
+                    background-color: rgba(#59992e, .8);
+                    width: 33.1%;
+                    position: relative;
+                    height: 5.8rem;
+                }
+                &:nth-child(1),&:nth-child(5){
+                    .font-en {
+                        margin-top: 1.4rem;
+                    }
+                }
+                &:nth-child(3){
+                    @include sp {
+                        border-right: 1px solid #fff;
+                        border-left: 1px solid #fff;
+                    }
+                    .font-en {
+                        @include sp {
+                            padding-top: 0.5rem;
+                        }
+                    }
+                }
+            }
+
+            .btn-recruit {
+                font-size: 1.2rem;
+                padding: 0.7rem 2.5rem 0.5rem 1.5rem;
+                @include sp {
+                    padding: 0;
+                    font-size: 0.9rem;
+                }
+            }
+            .txt-slash.font-en {
+                font-size: 2.3rem;
+                padding: 0.6rem 0 0.5rem 0;
+                @include sp {
+                    padding: 0;
+                    display: none;
+                }
+            }
+            .font-en {
+                font-size: 2.5rem;
+                margin-right: 1rem;
+                @include sp {
+                    display: block;
+                    line-height: 0.9;
+                    font-size: 1.8rem;
+                    margin-right: 0;
+                    margin-bottom: 0.3rem;
+                }
+            }
+        }
+    }
+}

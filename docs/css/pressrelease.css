@@ -1,0 +1,89 @@
+h4 {
+	font-weight:bold}
+
+.yearbox {
+	width: 730px;
+	margin-bottom:10px
+}
+.yearboxtop {
+	width: 730px;
+	background-image: url(../images/pressrelease/yearbg.gif);
+	background-repeat: repeat-y;
+}
+.yearboxbottom {
+	padding:0;
+}
+#content .middle2 ul.release {
+	width:640px;
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	float:right
+}
+
+#content .middle2 ul.release li {
+	border-bottom: 1px dotted #999;
+	color:#333;
+	padding:15px 0 15px 7em;
+	text-indent: -7em;
+}
+#content .middle2 ul.release li span{
+	display:inline-block;
+	width:6em;
+	text-indent:0;
+	color: black;
+	font-size: 14px;
+}
+#content .middle2 ul.release li a{
+   text-decoration:none;
+   color:#205402;
+}
+#content .middle2 ul.release li a:hover{
+   text-decoration:underline;
+   color:#205402;
+   }
+.detail {
+	margin-right:20px;
+	font-size:12px;
+	color:#444;
+}
+.detail #ttl{
+	font-size:14px;
+}
+.ditail h2 {
+	font-size:20px;
+	font-weight:bold
+}
+.ditail pre {
+	font-size:12px;
+}
+
+
+#socialbtn{
+	display: block;	
+	height:55px;
+	padding:5px 0 0 0;
+	float: left;
+}
+#socialbtn #facebook_like{
+	display: block;	
+}
+#socialbtn .fb-like{
+	display: block;	
+	z-index:10000;
+}
+#socialbtn #twitter{
+	display: block;	
+}
+
+a:hover img {
+opacity: 0.8;
+filter: alpha(opacity=80);
+-ms-filter: "alpha( opacity=80 )";
+}
+
+.img_C {
+	margin:auto;
+	text-align:center;
+}
+.top {text-align: left; margin-bottom: 1em;}
+.top p {padding: 0.5em; background-color: #f7f7f0;}

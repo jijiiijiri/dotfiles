@@ -1,0 +1,115 @@
+@charset "UTF-8";
+@media screen and (min-width: 800px) {
+.recruitnavi-container{
+  font-size: 0.65em;
+  border: #4aa313 1px solid;
+  margin-bottom:3%;
+}
+
+.recruitnavi-container ul{
+  list-style: none;
+  margin:0;
+  padding:18px 18px 18px 0;
+}
+
+.recruitnavi-container ul > li{
+  margin-bottom:1.8em;
+}
+
+.recruitnavi-container ul > li:last-child{
+  margin-bottom:0;
+}
+
+.recruitnavi-container ul > li > ul{
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+
+.recruitnavi-container ul > li > ul > li{
+  display:inline-block;
+  *display:inline;
+  *zoom:1;
+  margin-left:18px;
+  margin-bottom:0;
+  line-height:1.8;
+}
+
+.recruitnavi-container ul > li > ul > li:before{
+  content:"";
+  width: 0;
+  height: 0;
+  display:inline-block;
+  border-style: solid;
+  border-width: 4px 0 4px 5px;
+  border-color: transparent transparent transparent #669d44;
+}
+
+.recruitnavi-container ul > li > ul > li > a{
+  color:#424242;
+  padding-left:0.5em;
+  text-decoration:none;
+}
+
+.recruitnavi-container ul > li > ul > li > a:hover{
+  color:#669d44;
+}
+
+.recruitnavi-container ul > li > ul > li > a.act{
+  color:#669d44;
+}
+}
+
+@media screen and (max-width: 800px) {
+.recruitnavi-container{
+  font-size: 0.7em;
+  border: #4aa313 1px solid;
+  margin-bottom:3%;
+}
+
+.recruitnavi-container ul{
+  list-style: none;
+  margin:0;
+  padding:12px 0;
+}
+
+.recruitnavi-container ul > li{
+}
+
+.recruitnavi-container ul > li > ul{
+}
+
+.recruitnavi-container ul > li > ul > li{
+
+}
+
+.recruitnavi-container ul > li > ul > li:first-child:before{
+  content:"";
+  width: 0;
+  height: 0;
+  display:inline-block;
+  border-style: solid;
+  border-width: 4px 0 4px 5px;
+  border-color: transparent transparent transparent #669d44;
+  margin-left:18px;
+}
+
+.recruitnavi-container ul > li > ul > li:nth-child(n+2){
+  margin-left:22px;
+}
+
+.recruitnavi-container ul > li > ul > li > a{
+  color:#424242;
+  padding:1em;
+  text-decoration:none;
+  line-height:2;
+}
+
+.recruitnavi-container ul > li > ul > li > a:hover{
+  color:#669d44;
+}
+
+.recruitnavi-container ul > li > ul > li > a.act{
+  color:#669d44;
+}
+}

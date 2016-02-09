@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>ホノルルのホテル(夏の割引特集 7/9up)</title>
+        <link><![CDATA[http://www.expedia.co.jp/pub/agent.dll?qscr=htwv&from=m&stat=1&khst=1&locn=Honolulu&date1=09/08/05&date2=09/08/09&cadu1=2&crom=1&rdct=1&mcicid=lnk.hp.b-mid.htl.top-deals.Honolulu]]></link>
+        <description><![CDATA[<img border="0" src="http://media.expedia.com/media/content/expjpn/images2/deals/home/JPOS_hp_stamp_hawaii.jpg"/><br />
+        エクスペディア限定割引!!　何とエクスペディア通常価格より最大55%OFF!!　お得!!]]></description>
+    </item>
+    <item>
+        <title>ニューヨークのホテル (夏の割引特集 7/9up)</title>
+        <link><![CDATA[http://www.expedia.co.jp/pub/agent.dll?qscr=htwv&from=m&stat=1&khst=1&locn=New+York&date1=09/08/05&date2=09/08/09&cadu1=2&crom=1&rdct=1&mcicid=lnk.hp.b-mid.htl.top-deals.New%20York]]></link>
+        <description><![CDATA[<img border="0" src="http://media.expedia.com/media/content/expjpn/images2/deals/home/JPOS_hp_stamp_nyc.jpg"/><br />
+        エクスペディア通常価格より、最大40%OFF!!　ニューヨークのホテルはエクスペディアがお得です。]]></description>
+    </item>
+    <item>
+        <title>ロサンゼルスの航空券(7/13up)</title>
+        <link><![CDATA[http://www.free-bird.co.jp/RouteSearch/input.asp?Medium=96&FareID=137113&JumpFrom=TicketSearch&DepDate=2009%2F%2F&Airport=TYO&Airport=LAX&DepDate=2009%2F%2F&Airport=LAX&Airport=TYO]]></link>
+        <description><![CDATA[<img border="0" src="http://media.expedia.com/media/content/expjpn/images2/deals/home/JPOS_hp_stamp_air.jpg"/><br />
+        ノースウエスト航空利用 ロサンゼルス!　魅力がいっぱい　夏休み格安航空券!]]></description>
+    </item>
+    <item>
+        <title>海外ホテル・格安航空券のお得情報</title>
+        <link>http://www.expedia.co.jp/travel-deals.aspx</link>
+        <description><![CDATA[<img border="0" src="http://media.expedia.com/media/content/expjpn/images2/wizard/default_head.jpg"/><br />
+        ]]></description>
+    </item>
+
+
+    </channel>
+</rss>

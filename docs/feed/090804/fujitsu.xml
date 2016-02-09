@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>GLOVIA導入事例</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>【製造業】鈴木栄光堂様</title>
+        <link>http://glovia.fujitsu.com/jp/solution/glovia_smart/casestudies/2009/s-eikodo/</link>
+        <description><![CDATA[<img border="0" src="http://glovia.fujitsu.com/imgv3/jglovia/jp/solution/glovia_smart/casestudies/2009/s-eikodo/s-eikodo-img01.jpg"/><br />
+        将来を見据えた生産管理システムの構築]]></description>
+    </item>
+    <item>
+        <title>【製造業】オリオン機械様</title>
+        <link>http://glovia.fujitsu.com/jp/solution/glovia_smart/casestudies/2008/orionkikai/</link>
+        <description><![CDATA[<img border="0" src="http://glovia.fujitsu.com/jp/solution/glovia_smart/casestudies/2008/orionkikai/img/photo01.jpg"/><br />
+        最新会計システムへのレベルアップで業務の大幅な効率化を実現 ]]></description>
+    </item>
+    <item>
+        <title>【流通業】国分様</title>
+        <link>http://glovia.fujitsu.com/glovia_mi/casestudies/2009/kokubu/</link>
+        <description><![CDATA[<img border="0" src="http://glovia.fujitsu.com/imgv3/jglovia/glovia_mi/casestudies/2009/kokubu/kokubu-img01.jpg"/><br />
+        常に先手の経営へ取引1件1件から事業損益の見える化を実現]]></description>
+    </item>
+    <item>
+        <title>【金融業】オリオン交易様</title>
+        <link>http://glovia.fujitsu.com/jp/solution/glovia_smart/casestudies/2009/orionkoeki/</link>
+        <description><![CDATA[<img border="0" src="http://glovia.fujitsu.com/jp/solution/glovia_smart/casestudies/2009/orionkoeki/img/photo01.jpg"/><br />
+        情報ガバナンスを視野に、会計・人事・給与システムを刷新]]></description>
+    </item>
+
+    </channel>
+</rss>
+

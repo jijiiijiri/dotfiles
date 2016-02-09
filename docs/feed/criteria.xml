@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demodemo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>9月15日イベント開催のお知らせ</title>
+        <link>http://www.demodemo.com</link>
+        <description><![CDATA[<img border="0" width="80" height="80" src="http://www.rssad.jp/feed/img/criteria1.gif"/><br />
+        お台場ビッグサイトにて、9月15日から体験イベントが開催されます。]]></description>
+    </item>
+    <item>
+        <title>タイムセール！今なら１０％OFF</title>
+        <link>http://www.demodemo.com</link>
+        <description><![CDATA[<img border="0" width="80" height="80" src="http://www.rssad.jp/feed/img/criteria2.gif"/><br />
+        ほしかったあの商品が午後からタイムセールです！]]></description>
+    </item>
+    <item>
+        <title>あと３日！キャンペーン実施中</title>
+        <link>http://www.demodemo.com</link>
+        <description><![CDATA[<img border="0" width="80" height="80" src="http://www.rssad.jp/feed/img/criteria3.gif"/><br />
+        もうすぐ売り切れ！急げ！]]></description>
+    </item>
+    <item>
+        <title>プレゼント応募について</title>
+        <link>http://www.demodemo.com</link>
+        <description><![CDATA[<img border="0" width="80" height="80" src="http://www.rssad.jp/feed/img/criteria4.gif"/><br />
+        今なら豪華賞品が当たります。]]></description>
+    </item>
+    <item>
+        <title>もうすぐ○○のセールが開催されます。</title>
+        <link>http://www.demodemo.com</link>
+        <description><![CDATA[<img border="0" width="80" height="80" src="http://www.rssad.jp/feed/img/criteria5.gif"/><br />
+        ○○のセールは、９月１８日からの開催です。]]></description>
+    </item>
+
+    </channel>
+</rss>

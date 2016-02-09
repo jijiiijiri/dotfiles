@@ -1,0 +1,364 @@
+<!doctype html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="content-language" content="ja">
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>働くおっさんエンジニア：邂逅編 | Fringe81株式会社</title>
+<meta name="keywords" content="JAVA,Scala,Apache Drill,Storm,AWS,Vim,Chef,Python" />
+<meta name="description" content="Fringe81で働くおっさんエンジニア達のおはなしです。" /> 
+
+<meta property="og:title" content="働くおっさんエンジニア：邂逅編 | Fringe81" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.fringe81.com/ossan_20140604.html" />
+<meta property="og:image" content="http://www.fringe81.com/images/nc/nc_tech_ossan.png" />
+<meta property="og:site_name" content="Fringe81" />
+<meta property="og:description" content="Fringe81で働くおっさんエンジニア達のおはなしです。" />
+
+<link rel="stylesheet" href="css/nc_normalize.css">
+<link rel="stylesheet" href="css/nc_professional.css">
+<link rel="stylesheet" href="css/nc_common.css">
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/jquery.inview.min.js"></script>
+<script type="text/javascript" src="js/jquery.smoothScroll.js"></script>
+<script type="text/javascript" src="js/jquery.jpanelmenu.min.js"></script>
+<script type="text/javascript" src="js/html5shiv.js"></script>
+<script type="text/javascript" src="js/respond.js"></script>
+<script type="text/javascript" src="js/nc_main.js"></script>
+<style>
+/* Facebook Like Box width: 100% */
+.fb-like-box,
+.fb-like-box iframe{
+    width: 100% !important;
+}
+</style>
+
+</head>
+
+<body id="pagetop">
+<!-- Header-->
+	<div class="contactbox cf" style="display:none;">
+		<div class="logo_c2"><a href="/index.html"><img src="images/nc/nc_logo_c2.png" alt="Fringe81" /></a></div>
+		<div class="head_btn mr15"><a href="/recruit/index.html" class="btn">エンジニア/デザイナーの採用エントリーはこちら</a></div>
+	</div>
+	<div id="sp_menu"><a id="#menu" class="menu-trigger"><img src="images/nc/nc_spmenu_toggle.png"></a></div>
+	<header class="cf">
+		<div class="logo"><a href="index.html"><img src="images/nc/nc_logo.png" alt="Fringe81"/></a></div>
+		<div class="fblikebox" style="display:block!important;">
+			<div class="fb-like" data-href="http://www.fringe81.com/ossan_20140604.html" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+		</div>
+		<div class="submenu">
+			<ul>
+				<li><a href="http://www.fringe81.com/blog/">ブログ</a></li>
+				<li><a href="recruit/">採用情報</a></li>
+				<li><a href="contact/">お問い合わせ</a></li>
+				<li><a href="/pressrelease/">プレスリリース</a></li>
+				<li><a href="company/">会社概要</a></li>
+			</ul>
+		</div>
+	</header>
+	<nav>
+		<div id="navpc">
+			<ul>
+				<li><a href="adope.html">広告運用</a></li>
+				<li><a href="sbt.html">　SBT　</a></li>
+				<li><a href="vml.html">VML TOKYO</a></li>
+				<li><a href="attribution.html">アトリビューション分析</a></li>
+				<li><a href="tagmanagement.html">タグマネジメント</a></li>
+				<li><a href="3pas.html">第三者配信</a></li>
+				<li><a href="tech.html">テクノロジー</a></li>
+				<li><a href="rssadvertising.html">RSS広告</a></li>
+			</ul>
+		</div>
+		<div id="menu_left" style="display:none;">
+			<ul>
+				<li><a href="index.html">TOP</a></li>
+				<li><a href="adope.html">広告運用</a></li>
+				<li><a href="sbt.html">SBT</a></li>
+				<li><a href="vml.html">VML TOKYO</a></li>
+				<li><a href="attribution.html">アトリビューション分析</a></li>
+				<li><a href="tagmanagement.html">タグマネジメント</a></li>
+				<li><a href="3pas.html">第三者配信</a></li>
+				<li><a href="tech.html">テクノロジー</a></li>
+				<li><a href="rssadvertising.html">RSS広告</a></li>
+				<li><a href="company/">会社概要</a></li>
+				<li><a href="recruit/">採用情報</a></li>
+				<li><a href="contact/">お問い合わせ</a></li>
+				<li><a href="/pressrelease/">プレスリリース</a></li>
+				<li><a href="http://www.fringe81.com/blog/">ブログ</a></li>
+			</ul>
+		</div>
+	</nav>
+	
+<!-- main-->
+	<article id="content1">
+		<img src="images/nc/nc_tech_ossan.png" class="main_image ossan_main">
+		<div class="" style="display:block!important;">
+			<div class="fb-like" data-href="http://www.fringe81.com/ossan_20140604.html" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+
+			<a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+			<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+		</div>
+		<h1 class="ossan_heading">「おっさんエンジニアたちのお話」</h1>
+		<p class="ossan_txt">
+			高齢化社会。経済の発展とともに少産少死となった日本が抱える大きな課題であります。<br>
+			皆さんの周りはどうでしょう。病院に行くとよく高齢化を実感しますが、<br>年齢の上昇と健康問題の数は比例すると思うので、<strong>たぶん錯覚です。</strong><br>
+
+			何の話や、というとても真っ当なツッコミはグッと堪えていただきつつ進めたい。進みたい。<br><br>
+			じつは、これと似たような問題、Fringe81にもありまして。<br><strong>高齢化問題。</strong>
+		</p>
+		<p class="ossan_txt">
+			<strong>「トップページ見ると結構みんな若そうじゃないか」</strong><br><br>
+			確かに。トップページで見ると、ネットベンチャーらしく、<br>若そうな（実際、平均年齢２８〜９くらいかと）溌剌とした印象を与えております。
+		</p>
+		<p class="ossan_txt">
+			<img src="images/nc/nc_tech_ossan_fig1.png" class="ossan_fig">
+		</p>
+		<p class="ossan_txt">
+			しかしながらその内実は、<strong>この赤枠の男達が激しく平均年齢を上げ</strong>にかかっており、</br>そしてこの男達はもれなく全員
+		</p>
+		<p class="ossan_txt ossan_big">
+			エンジニア
+		</p>
+		<p class="ossan_txt">
+			なんですね。<br>
+			今回はこのFringe81の愛すべき「<strong>働くおっさんエンジニア達</strong>」について書いてみようと思います。</br>
+			自虐的な笑いをとりたいとか、そういったものではなく、淡々とファクトを並べていきます。</br>
+			もう最初に結論を書いてしまいますが、一番何を伝えたいのか率直に申しますと</br></br></br>
+			<span class="ossan_big">「若いエンジニア社員・インターン大募集！」</span></br></br></br>
+			と、声を大にして、フォントも<span class="ossan_big">大</span>にして申し上げたい。
+		</p>
+		<br>
+		<p class="ossan_txt">
+			<h2>●さて、弊社、年々エンジニアの高齢化が進んでおります。</h2>
+		</p>
+		<p class="ossan_txt">
+			どれくらい進んでいるかと申しますと、つい先日まで、<strong>最若手が今年で３３歳</strong>という状態でした。<br>
+			しかも全員男です。技術部門とは言えど、ネットベンチャーで部門最若手が３３歳ってどうなんでしょうか。<br>
+			飛び抜けて高い年齢も居ませんが、２０代がおらず、今年で<strong>平均年齢３５歳</strong>前後となると高齢化感は否めません。<br>
+		</p>
+		<p class="ossan_txt">
+			年齢の分布、といいますかもう開発部所属社員の今年迎える年齢を書いてみると、<br>
+			（２０１４年４月時点での社員８名）<br><br>
+			３７歳<br>
+			３６歳<br>
+			３６歳<br>
+			３５歳<br>
+			３５歳<br>
+			３４歳<br>
+			３４歳<br>
+			３３歳<br>
+		</p>
+		<p class="ossan_txt">
+			この文章もその中の一人がパンをむしゃむしゃ食べながら書いております。
+		</p>
+		<p class="ossan_txt">
+			もうじきW杯という時節ですので、年齢の客観的基準としてサッカー日本代表を用いると、
+		</p>
+		<p class="ossan_txt">
+			<img src="images/nc/nc_tech_ossan_fig2.png" class="ossan_fig2">
+		</p>
+		<p class="ossan_txt">
+			<strong>全員、MF 遠藤（３４）</strong><br><br>
+			最年長の遠藤選手ですら、ちょっと年下なのが悲しい。<br>
+			「あれ、あの選手ベテランだったよね！？」と調べてもことごとく20代後半という。<br><br>
+
+			３５歳ともなるとプレーヤーとしてナショナルチームに入るのは厳しい現実。<br>
+			（Fringe81技術開発部一同、遠藤選手のご活躍を全力で応援しています）<br><br>
+
+			一方、IT業界でも<strong>「エンジニア３５歳定年説」</strong>なんて恐ろしい言葉がありますが、<br>
+			もし「エンジニア３５歳定年説」を支持するならば、<br><strong>２年後には社員がいなくなってしまう</strong>というとても困った事態になってしまうので、断固、できません。
+		</p>
+		<br>
+		<p class="ossan_txt">
+			<h2>●何故、高齢化しているのか</h2>
+		</p>
+		<p class="ossan_txt">
+			この課題に立ち向かうべく、まずは「どうしてこうなった」の部分を。WHY、をですね。<br>
+			色々理由はあるのでしょうが、一体全体何がボトルネックなのか。
+		</p>
+		<p class="ossan_txt ossan_box">
+		<strong>─キャリア採用しまくったから説─</strong></br>
+		　ネットベンチャー特有の「少数精鋭編成＝スキル重視」の即戦力補強を重ねた結果、</br>
+		　必然的に年齢高めになったんじゃないか説。</br>
+		　しかし、創業２年目にして新卒エンジニアも入っているので、弊社の場合これが全てでもない。
+		</p>
+		<p class="ossan_txt ossan_box">
+		<strong>─もうそろそろ創業１０年経つから説─</strong></br>
+		　と、なると「入社時はみんな若かった」という説が有力か。</br>２０１５年の４月で創業１０年の節目となりますので、</br>
+		　新卒・中途共に会社と歩みを同じくして一年一年歳を重ねた結果と考えると、</br>何か幸せな感じもあります。
+		</p>
+		<p class="ossan_txt ossan_box">
+		<strong>─実は高齢化なんてなかった説─</strong></br>
+		実は、業界的にみても特別高齢じゃないよ、という自意識過剰説。</br>
+		たまたま目に映る他社様のエンジニアが若くて爽やかに見えているだけなのか。</br>
+		インターネット産業の興隆から２０年近く経ちますし、</br>「ウチは平均年齢もっと高いよ！」という会社もあるのかも。
+		</p>
+		<p class="ossan_txt">
+			うーん、どれとも言えないですね。複合していると思います。</br>
+			それに、今更掘り起こして原因追及してもあまり意味がない気もしてきましたので、</br>
+			続いて、もっと弊社のおっさんエンジニアのディティールを書きたいと思います。</br></br>
+
+			「高齢化高齢化」と冒頭から、どうしてもネガティブな響きでありますので、</br>
+			ついで、もう丸裸に、<strong>ネガティブな面から全て撒き散らしながら</strong>進めます。</br></br>
+		</p>
+
+		<p class="ossan_txt">
+			<h2>─おっさんエンジニアの弱み─</h2>
+			<p class="ossan_txt" style="margin-top:10px !important;">光ある所には陰がある。陰があるから光は素晴らしい。</br>
+			という事で、おっさんエンジニアたちの弱点を挙げてみます。</br>
+			どうですか、<a href="/recruit/#content4">支えてあげたくなりませんか？</a>
+		</p>
+		</p>
+		<p class="ossan_txt ossan_box ossan_bad cf">
+			<img src="images/nc/nc_tech_ossan_fig3.png" class="ossan_fig_r">
+			<strong class="ossan_title">深夜のアラートメールがほんとしんどい─</strong></br>
+			年齢的な体力の衰えを隠しきれなくなってきており、</br>深夜にサーバーの調子が悪くなった時の対応がしんどい。</br>
+			しんどいため、予防策はかなり手厚くやっている。</br>というか、もうそれが仕事の全てである。
+		</p>
+		<p class="ossan_txt ossan_box ossan_bad cf">
+			<img src="images/nc/nc_tech_ossan_fig4.png" class="ossan_fig_r">
+			<strong class="ossan_title">深夜・早朝のメンテ対応がほんとしんどい─</strong></br>
+			同じく、深夜や早朝に計画的なメンテナンスも行ったりもします。</br>
+			うまいことシフト勤務等で時間調整し臨みますが、</br>
+			体内時計の狂いは確実にダメージを蓄積します。
+		</p>
+		<p class="ossan_txt ossan_box ossan_bad cf">
+			<img src="images/nc/nc_tech_ossan_fig10.png" class="ossan_fig_r">
+			<strong class="ossan_title">座るのがしんどい─</strong></br>
+			技術に取り組む姿勢は皆この上なく素晴らしいが、座る姿勢は最悪である。
+			筋力の低下と共に、自重を支える事が困難になりシャキッとした姿勢を保てません。</br>
+			遠目に見ると席に居る事が分かりづらい、という実害もあります。</br></br>
+
+			※写真は夕日と共に沈むおっさんエンジニア達。ジャスミン茶好きなんですね。
+		</p>
+		<p class="ossan_txt ossan_box ossan_bad cf">
+			<img src="images/nc/nc_tech_ossan_fig9.png" class="ossan_fig_r">
+			<strong class="ossan_title">飲み会の後半がしんどい─</strong></br>
+			社内の若手たちとも積極的に飲みに行くおっさん達ですが、</br>乳幼児レベルにすぐ眠くなります。</br>
+			一見飲み潰れているようで紛らわしいですが、</br>ただの肉体疲労によるものですので介抱は不要です。</br>
+			また、尿酸値高めの者は開幕からレモンサワーで乾杯です。</br></br>
+
+			贔屓の店は<strong>「鳥貴族 六本木店」</strong>。
+		</p>
+
+		<p class="ossan_txt">
+			<h2>●活躍するおっさんエンジニア</h2>
+			<p class="ossan_txt" style="margin-top:10px !important;">続いて、おっさんエンジニアの強み。</br>
+			こんな場面で、おっさんエンジニアはまばゆいばかりの光を放ちます。</br>
+			どうですか、<a href="/recruit/#content4">教えを請いたくなりませんか？</a>
+		</p>
+		</p>
+		<p class="ossan_txt ossan_box ossan_good cf">
+			<img src="images/nc/nc_tech_ossan_fig5.png" class="ossan_fig_r">
+			<strong class="ossan_title">トラブル時の安定感─</strong></br>
+			一番はこれに尽きるんじゃないでしょうか。</br>
+			万一のトラブル時にも<strong>盤石な横綱相撲</strong>をみせます。</br>
+			──たかがメインサーバーをやられただけだ、と。</br></br>
+			２４時間３６５日、お客様へ安定したサービスをご提供できるのも、</br>裏で熟練エンジニアの経験が支えているからです。
+		</p>
+		<p class="ossan_txt ossan_box ossan_good cf">
+			<img src="images/nc/nc_tech_ossan_fig6.png" class="ossan_fig_r">
+			<strong class="ossan_title">設計力が高い─</strong></br>
+			そもそも、システムの設計段階で多くの運用トラブルを見越し、未然に防いでいる部分も見逃せません。
+			設計の善し悪しはサービスの品質は勿論、コストにも直結するためとても重要です。</br>
+			スラムダンクでも海南の牧が<strong>「ディフェンスとは経験から来る予測である」</strong>と言い切った通り、
+			ここにも大人のテクニックが生きています。
+		</p>
+		<p class="ossan_txt ossan_box ossan_good cf">
+			<img src="images/nc/nc_tech_ossan_fig7.png" class="ossan_fig_r">
+			<strong class="ossan_title">技術のカバー範囲が広い─</strong></br>
+			全員がフルスタックというと大袈裟ですが、各人、ネットベンチャーの最前線で長いキャリアを積んでおり、幅広い知識と経験を持っています。</br>昨日までサーバを弄くり回していた人間が、今日はフロントエンドの実装をしています。</br>
+			スピード感のある現場ですので、アサインに柔軟性が持てるというのは大きなメリットです。</br>
+			<strong>なんか、良い事書けた気がします。</strong>
+		</p>
+		<p class="ossan_txt ossan_box ossan_good cf">
+			<img src="images/nc/nc_tech_ossan_fig8.png" class="ossan_fig_r">
+			<strong class="ossan_title">働き方の生産性が高い─</strong></br>
+			経験豊富なおっさんエンジニアは仕事もスマートです。ダラダラ仕事をしません。</br>
+			段取りも抜かりなく、やるべき仕事はサクサクと片付けて早く帰ります。</br>
+			<strong>「家庭円満」</strong>というのも仕事をする上での大事な環境である、<br>という<strong>極めてプロフェッショナル</strong>な考えを持っています。
+		</p>
+		</br></br>
+		<p class="ossan_txt">
+			<h2 class="ossan_big">●若者よ、来たれ</h2>
+		</p>
+		<p class="ossan_txt">
+			いかがでしたでしょうか、Fringe81の「働くおっさんエンジニア」。<br>
+			おかげさまでつい先日２０代の若武者二人が入社して、少し若返りましたが、<strong>まだまだ足りません。</strong><br><br>
+			<strong>「弟子入り」</strong>でも<strong>「引導を渡しにくる」</strong>でもどちらでもかまいません。<br><br>
+		</p>
+		<h2 class="ossan_big">「次世代を担う、イキのいい若手エンジニア求む！」</h2>
+		<p class="ossan_txt">
+		教えを請うも良、技を盗むも良、<br>
+		<strong>ベテランエンジニアとの仕事は、必ずあなたのキャリアのプラスになります。</strong><br>
+		我こそは、という方からのエントリーをお待ちしております！
+		</p>
+	</article>	
+
+	<!-- main5-->
+
+	<div id="content5">
+			<div class="tech_contact cf">
+				<a class="btn" href="/recruit/#content4">エンジニア採用はこちらから！</a>　
+			</div>
+			<div class="" style="display:block!important;text-align:center;margin-bottom:20px;">
+				<div class="fb-like" data-href="http://www.fringe81.com/ossan_20140604.html" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+				<a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="standard-balloon" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+				<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>				
+
+			</div>
+
+			<div class="arrow_up"> 
+				<a href="#pagetop"><img src="images/nc/nc_arrow_up.png" alt="このページの先頭へ"/></a>
+			</div>
+			<div class="footer">
+				© 2014 Fringe81 Co.,Ltd.　｜　<a href="privacy.html">プライバシーポリシー</a>
+			</div>
+	</div>
+<script>
+    $(function(){
+      var leftMenu = $.jPanelMenu({
+        menu: '#menu_left',
+        trigger: '.menu-trigger'
+      });
+      leftMenu.on();
+    })
+</script>
+<!--TagKnightManageTag-->
+<script type="text/javascript">
+    (function() {
+        window.mtuId='wC_E2zdj3lj_';
+        var w=window,
+             d=w.document,
+             h='//c.tgknt.com/c/j/',
+             s=d.createElement('script'),
+             oie=(d.documentMode&&d.documentMode<9)?true:false;
+        s.type='text/javascript';
+        s.src= w.location.protocol+h+w.mtuId;
+        if(oie){
+           document.write("<script type=\"text/javascript\" src="+s.src+"><\/script>");
+        }else{
+           d.body.appendChild(s);
+        }
+    }());
+</script>
+<!--TagKnightManageTagEnd-->
+<!-- fb like -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1&appId=442934185783820";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- fb like -->
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>シャーク スチーム モップ パープル</title>
+        <link>http://www.shopjapan.co.jp/prod/MOP1</link>
+        <description><![CDATA[<img border="0" src="http://www.shopjapan.co.jp/images/goods/bn-mop_iyo.jpg"/><br />
+        ★アナタの床掃除が変わる★ 使ってみれば効果は一目瞭然！100℃をこえるドライスチームを使用！]]></description>
+    </item>
+    <item>
+        <title>スタイルプラス パワージューサー</title>
+        <link>http://www.shopjapan.co.jp/prod/SPWJ01</link>
+        <description><![CDATA[<img border="0" src="http://www.shopjapan.co.jp/images/goods/bn-spwj.jpg"/><br />
+        1日分の野菜やくだものをまるごとギュ-っ! カラダにおいしいフレッシュジュースを。]]></description>
+    </item>
+    <item>
+        <title>ザ・ヒットソングス</title>
+        <link>http://www.shopjapan.co.jp/prod/HIT01</link>
+        <description><![CDATA[<img border="0" src="http://www.shopjapan.co.jp/images/goods/bn-hit.jpg"/><br />
+        70年代を中心とした伝説の歌謡曲全85曲を収録した5枚組CDｾｯﾄ]]></description>
+    </item>
+    <item>
+        <title>トゥルースリーパー　コンフォート　低反発ふとん</title>
+        <link>http://www.shopjapan.co.jp/prod/TRSP07</link>
+        <description><![CDATA[<img border="0" src="http://www.shopjapan.co.jp/images/goods/bn-trsc.jpg"/><br />
+        ふとん派のあなたに朗報！マットレスや敷布団がなくても、そのまま敷いて眠ることができる三つ折マットレス。]]></description>
+    </item>
+
+    </channel>
+</rss>

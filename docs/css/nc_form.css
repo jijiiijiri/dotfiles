@@ -1,0 +1,129 @@
+@charset "UTF-8";
+@media screen and (min-width: 800px) {
+
+.entry_table{
+	width: 100%;
+	margin: auto auto;
+	font-size: 0.8em!important;
+	margin-bottom: 50px;
+}
+
+.entry_table th{
+	padding: 10px;
+	white-space: nowrap;
+	border-right: #dddddd 1px dotted;
+	border-bottom: #dddddd 1px dotted;
+}
+
+.entry_table td{
+	padding: 10px;
+	border-bottom: #dddddd 1px dotted;
+}
+
+.submitbtn{
+	text-align: center;
+}
+
+.formwidth{
+	width: 100%;
+}
+
+.formwidth90{
+	width: 90%;
+}
+
+.contactChecklist{
+	list-style: none;
+	padding-left: 0;
+}
+
+.dlformContainer{
+	max-width: 960px;
+	margin:auto auto;
+	font-size: 0.7em
+}
+
+.dlformDesc{
+	width: 45%;
+	float:left;
+}
+
+.dlform{
+	width:55%;
+	float:left;
+}
+
+}
+
+
+@media screen and (max-width: 800px) {
+
+.entry_table{
+	width: 100%;
+	position: relative;
+	margin: auto auto;
+	font-size: 0.7em;
+	border:none;
+	color: #424242;
+}
+
+.entry_table tr:nth-child(even) {
+    background:#f5f5f5;
+}
+
+.entry_table tr:nth-child(odd) {
+    background:#ffffff;
+}
+
+.entry_table th{
+	padding: 10px;
+	font-weight: bold;
+	text-align: left;
+	background-color:none;
+	border:none;
+	border-top: #cccccc 1px dotted;
+	border-bottom: #cccccc 1px dotted;
+	display: inline-block;
+  display:block;/*追加*/
+  width: 100%;/*92%からの変更*/
+  box-sizing:border-box;/*追加*/
+
+}
+
+.entry_table td{
+  padding: 10px;/*10px 0pxからの変更*/
+	background-color:none;
+	text-align: left;
+	border:none;
+	display: inline-block;
+  display:block;/*追加*/
+  width:100%;/*追加*/
+  box-sizing:border-box;/*追加*/
+}
+
+.submitbtn{
+	text-align: center;
+}
+
+.submitbtn .btn{/*スタイル追加*/
+  margin:0 auto;
+  display:block;
+}
+
+.selectmultiple{
+	width: 100%;
+	white-space: normal;
+}
+
+.formwidth{
+  width: 100%;/*90%から変更*/
+  box-sizing:border-box;/*追加*/
+}
+
+.contactChecklist{
+	list-style: none;
+	padding-left: 0;
+}
+
+
+}

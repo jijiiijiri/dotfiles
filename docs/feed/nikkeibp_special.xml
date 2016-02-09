@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>Nikkei BPnet Special</title>
+    <link>http://info.nikkeibp.co.jp/nbpp/trend/bpnet/</link>
+    <description>Nikkei BPnet</description>
+    <language>ja</language>
+
+    <item>
+        <title>静かなる誇りと大人の流儀</title>
+        <link>http://special.nikkeibp.co.jp/ts/article/0i0g/103297/</link>
+        <description><![CDATA[<img border="0" src="http://www.rssad.jp/feed/img/TKT00014.gif"/><br />
+        ゴールドでもなく、プラチナでもなく、静かな誇りを感じさせるシルバー。それは、世界中で特別なもてなしが約束された一枚。]]></description>
+    </item>
+    <item>
+        <title>茶花大辞典</title>
+        <link>http://special.nikkeibp.co.jp/ts/article/0i0c/102535/?cid=bp_trend</link>
+        <description><![CDATA[<img border="0" src="http://www.rssad.jp/feed/img/W093232.gif"/><br />
+        古瀬絵理がお届けするお腹まわりが気になるあなたへ～茶花のヒミツ２～]]></description>
+    </item>
+    <item>
+        <title>創エネ住宅の時代へ</title>
+        <link>http://eco.nikkeibp.co.jp/high-ecology/column/25/index.shtml</link>
+        <description><![CDATA[<img border="0" src="http://www.rssad.jp/feed/img/W093312.gif"/><br />
+        昔に比べ厳しさを増した夏の暑さに、地球温暖化、また都市部ではヒートアイランド現象の影響を実感する人も多いことでしょう。ギラギラと照りつける太陽を恨めしく思いながら、ガスや電気を使って湯を沸かすのはちょっと変じゃないですか？　]]></description>
+    </item>
+    <item>
+        <title>トイレでコスト削減！？</title>
+        <link>http://special.nikkeibp.co.jp/ts/article/0i0f/103051/</link>
+        <description><![CDATA[<img border="0" src="http://www.rssad.jp/feed/img/W097031.gif"/><br />
+        省エネ、省コスト意識がいっそう強まっている社会背景の下、利用者へのサービス向上を実現する手段としてもジェットタオルが注目を集めている。]]></description>
+    </item>
+
+    </channel>
+</rss>

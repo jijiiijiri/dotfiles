@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>フォルム内藤町</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02055</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02055/A02055_thumb.jpg"/><br />
+        新宿御苑に寄り添う、このかけがえのない至福。御苑隣接地に「大人の隠れ家」全60邸誕生。]]></description>
+    </item>
+    <item>
+        <title>ヴィナシス金町タワーレジデンス</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02048</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02048/A02048_thumb.jpg"/><br />
+        地上41階、公共図書館・スーパー・クリニック等の超高層複合タワー、誕生！]]></description>
+    </item>
+    <item>
+        <title>イニシア多摩川</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02134</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02134/A02134_thumb.jpg"/><br />
+        最寄駅～品川駅14分、羽田空港駅7分、駅徒歩9分。バスで蒲田駅、川崎駅もアクセス可。]]></description>
+    </item>
+    <item>
+        <title>イニシアイオ入谷竜泉</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02169</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02169/A02169_thumb.jpg"/><br />
+        銀座直通18分。2方道路の閑静な住宅街に建つ総戸数54世帯のオール電化マンション。安心の内廊下設計。]]></description>
+    </item>
+    <item>
+        <title>フォルム市谷加賀町</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02182</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02182/A02182_thumb.jpg"/><br />
+        そのアドレスを語るだけで、誇れる場所は少ない。「市谷加賀町」そこに住むことが、誇り。]]></description>
+    </item>
+
+    </channel>
+</rss>

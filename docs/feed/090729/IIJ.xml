@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>IIJモバイルセキュリティセミナー</title>
+        <link>http://www.iij.ad.jp/news/seminar/2009/?p=0s0900706_1</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.iijmobile.jp/images/bg_oto.gif"/><br />
+         8/6東京、9/11大阪セミナー]]></description>
+    </item>
+    <item>
+        <title>2年契約『定額プランL』をはじめました。</title>
+        <link>http://www.iijmobile.jp/service.html#fixed_d</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.iijmobile.jp/images/bg_oto.gif"/><br />
+        1年契約の場合8,500円/月のところを5,700円/月でご提供]]></description>
+    </item>
+    <item>
+        <title> IPv6仮想アクセスに対応しました</title>
+        <link>http://www.iijmobile.jp/outline.html#ipv6</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.iijmobile.jp/images/bg_oto.gif"/><br />
+        お申し込み不要でIPv6によるインターネットアクセスを実現する機能「IPv6仮想アクセス」をご利用いただけます。　]]></description>
+    </item>
+    <item>
+        <title>日本全国最大7.2Mbps</title>
+        <link>http://www.iijmobile.jp/outline.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.iijmobile.jp/images/bg_oto.gif"/><br />
+        IIJモバイルの特徴をご覧ください。]]></description>
+    </item>
+    </channel>
+</rss>

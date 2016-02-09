@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>出かける前の制汗・防臭に</title>
+        <link>http://www.lion.co.jp/ja/seihin/brand/029/13.htm</link>
+        <description><![CDATA[<img border="0" src="http://www.lion.co.jp/common/prodimage/029-13.jpg"/><br />
+        きちんと防臭するから、ピュアな香りが長続き。2つのトレンドの香りも仲間入り！]]></description>
+    </item>
+    <item>
+        <title>ヒヤッとせずに防汗したい</title>
+        <link>http://www.lion.co.jp/ja/seihin/brand/029/17.htm</link>
+        <description><![CDATA[<img border="0" src="http://www.lion.co.jp/ja/seihin/shared/prodimage/029-17.jpg"/><br />
+        Banデオドラントパウダースティック]]></description>
+    </item>
+    <item>
+        <title>会社帰りに親しい人に会う</title>
+        <link>http://www.banbanban.jp/</link>
+        <description><![CDATA[<img border="0" src="http://www.lion.co.jp/ja/seihin/shared/prodimage/029-18.jpg"/><br />
+        汗とニオイを抑えて爽やかに香る、香るデオドラント。]]></description>
+    </item>
+    <item>
+        <title>特ににおいが気になる</title>
+        <link>http://www.lion.co.jp/ja/seihin/brand/029/19.htm</link>
+        <description><![CDATA[<img border="0" src="http://www.lion.co.jp/common/prodimage/029-19.jpg"/><br />
+        Banデオドラントロールオン]]></description>
+    </item>
+
+    </channel>
+</rss>

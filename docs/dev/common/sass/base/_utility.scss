@@ -1,0 +1,44 @@
+.cf {
+    *zoom: 1;
+}
+
+.cf:before {
+    display: table;
+    content: " ";
+}
+
+.cf:after {
+    display: table;
+    content: " ";
+    clear: both;
+}
+
+.font-en {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight: 100;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.pc-view {
+    display: block;
+    @include tab-sp {
+        display: none;
+    }
+}
+
+.tab-sp-view {
+    display: none;
+    @include tab-sp {
+        display: block;
+    }
+}
+
+.sp-view {
+    display: none;
+    @include sp {
+        display: block;
+    }
+}

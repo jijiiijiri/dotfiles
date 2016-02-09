@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>現場での実践から発想する合理化</title>
+        <link>http://www.aqura.co.jp/house/about/aboutus.html</link>
+        <description><![CDATA[<img border="0" width="200" height="150" src="http://www.aqura.co.jp/house/about/images/photo_p01-3.jpg"/><br />
+        旧態依然とした家づくりの世界に合理的なコスト管理の手法を導入]]></description>
+    </item>
+    <item>
+        <title>コストパフォーマンスを追及</title>
+        <link>http://www.aqura.co.jp/house/about/aboutus.html</link>
+        <description><![CDATA[<br />
+        釘1本、ビスひとつまでコストを細部にわたって検討]]></description>
+    </item>
+    <item>
+        <title>「木造軸組工法」と「自由設計」</title>
+        <link>http://www.aqura.co.jp/house/about/aboutus.html</link>
+        <description><![CDATA[<img border="0" width="200" height="150" src="http://www.aqura.co.jp/house/about/images/photo_p01-1.jpg"/><br />
+        自由な間取りやデザインが可な設計で建てる木造注文住宅にこだわる]]></description>
+    </item>
+    <item>
+        <title>「ジャーブネット」を主宰</title>
+        <link>http://www.aqura.co.jp/house/about/aboutus.html</link>
+        <description><![CDATA[<img border="0" width="190" height="92" src="http://www.aqura.co.jp/shared/images/local-nav/banner_jahbnet.jpg"/><br />
+        約600社が参加する、日本最大のホームビルダー集団]]></description>
+    </item>
+
+    </channel>
+</rss>

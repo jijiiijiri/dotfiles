@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>シティカードキャンペーン情報</title>
+    <link>http://www.citibank.co.jp/ccsi/info/calendar.html</link>
+    <description>シティカードキャンペーン情報</description>
+    <language>ja</language>
+
+    <item>
+        <title>「なんでもリボ」でもれなくもらえる2つの特典</title>
+        <link>http://www.citibank.co.jp/ccsi/direct/campaign/revo_welcome/index.html</link>
+        <description><![CDATA[<img border="0" width="518" height="106" src="http://www.citibank.co.jp/ccsi/direct/campaign/revo_welcome/imgs/main_01.jpg"/><br />
+        ご入会時の「なんでもリボ」の設定でうれしい2つの特典！]]></description>
+    </item>
+    <item>
+        <title>カードローン特別金利 期間限定8.7％(実質年率)！</title>
+        <link>http://www.citibank.co.jp/ccsi/direct/campaign/cardloan_welcome/index.html</link>
+        <description><![CDATA[<img border="0" width="532" height="184" src="http://www.citibank.co.jp/ccsi/direct/campaign/cardloan_welcome/imgs/main_img.jpg"/><br />
+        好評につき期間延長 通常金利15.0％～18.0％がご入会後4ヵ月間は8.7％]]></description>
+    </item>
+    <item>
+        <title>ワールドパークスVISAカード／最高10,000マイル！もらえるキャンペーン</title>
+        <link>http://www.citibank.co.jp/ccsi/nwa/ad/index.html</link>
+        <description><![CDATA[<img border="0" width="540" height="40" src="http://www.citibank.co.jp/ccsi/nwa/ad/imgs/title2.gif"/><br />
+        ボーナスマイル進呈]]></description>
+    </item>
+    <item>
+        <title>国内ホテルスプリングプラン</title>
+        <link>http://www.citibank.co.jp/ccsi/direct/domestic/hotel.html</link>
+        <description><![CDATA[<img border="0" width="161" height="123" src="http://www.citibank.co.jp/ccsi/direct/domestic/imgs/hotel_photo.jpg"/><br />
+        国内300ヵ所以上の有名ホテルをおトクな料金でご利用いただけます]]></description>
+    </item>
+    <item>
+        <title>シティ MasterCard限定！インターコンチネンタル ホテルズ グループ ご宿泊優待キャンペーン</title>
+        <link>http://www.citibank.co.jp/ccsi/direct/campaign/master_interconti09/index.html/</link>
+        <description><![CDATA[<img border="0" width="140" height="142" src="http://www.citibank.co.jp/ccsi/direct/campaign/master_interconti09/imgs/img_05.jpg"/><br />
+        対象ホテルにて、シティ MasterCardでお支払いいただくと、3日間の宿泊が無料に！]]></description>
+    </item>
+
+    </channel>
+</rss>

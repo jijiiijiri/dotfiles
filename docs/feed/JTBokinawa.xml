@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>JTB虎ノ門＆汐留支店最新オススメ情報</title>
+    <link>http://www.jtb.co.jp/kokunai/area/okinawa/cpn/09_1/index.asp</link>
+    <description></description>
+    <language>ja</language>
+
+    <item>
+        <title>虎ノ門支店→リゾートホテルベルパライソ </title>
+        <link><![CDATA[http://www.jtb.co.jp/kokunai/pkg/list.aspx?dept=&ln=30&brand=&Setplan=gentei&SetKeyword=%81%99%83L%83%83%83%93%83y%81[%83%93&TourConflg=N&Area=A12&SetKeywordadd=rikka]]></link>
+        <description><![CDATA[<img border="0" width="98" height="69" src=""/><br />
+        旅行代金 30,000円～55,700円（エースＪＴＢ）]]></description>
+    </item>
+    <item>
+        <title>汐留支店→チサンリゾート沖縄美ら海</title>
+        <link><![CDATA[http://www.jtb.co.jp/kokunai/pkg/list.aspx?dept=&ln=30&brand=&Setplan=gentei&SetKeyword=%81%99%83L%83%83%83%93%83y%81[%83%93&TourConflg=N&Area=A12&SetKeywordadd=rikka]]></link>
+        <description><![CDATA[<img border="0" width="98" height="69" src=""/><br />
+       旅行代金 30,100円～70,800円]]></description>
+    </item>
+    <item>
+        <title>虎ノ門支店→ホテルマハイナウェルネスリゾートオキナワ</title>
+        <link><![CDATA[http://www.jtb.co.jp/kokunai/pkg/list.aspx?dept=&ln=30&brand=&Setplan=gentei&SetKeyword=%81%99%83L%83%83%83%93%83y%81[%83%93&TourConflg=N&Area=A12&SetKeywordadd=rikka]]></link>
+        <description><![CDATA[<img border="0" width="98" height="69" src=""/><br />
+        旅行代金 29,000円～67,800円！]]></description>
+    </item>
+    <item>
+        <title>汐留支店→アムスホテルズカンナリゾートヴィラ</title>
+        <link><![CDATA[http://www.jtb.co.jp/kokunai/pkg/list.aspx?dept=&ln=30&brand=&Setplan=gentei&SetKeyword=%81%99%83L%83%83%83%93%83y%81[%83%93&TourConflg=N&Area=A12&SetKeywordadd=rikka]]></link>
+        <description><![CDATA[<img border="0" width="98" height="69" src=""/><br />
+         旅行代金 48,600円～103,800円]]></description>
+    </item>
+    <item>
+        <title>汐留支店→ホテルみゆきビーチ</title>
+        <link><![CDATA[http://www.jtb.co.jp/kokunai/pkg/list.aspx?dept=&ln=30&brand=&Setplan=gentei&SetKeyword=%81%99%83L%83%83%83%93%83y%81[%83%93&TourConflg=N&Area=A12&SetKeywordadd=rikka]]></link>
+        <description><![CDATA[<img border="0" width="98" height="69" src=""/><br />
+        旅行代金 30,000円～55,400円]]></description>
+    </item>
+
+    </channel>
+</rss>

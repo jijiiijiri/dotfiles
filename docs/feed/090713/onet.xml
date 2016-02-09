@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demodemo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>男性はこちら</title>
+        <link>https://onet.jp/ocpc/KekkonChance.do?seibetsu=1</link>
+        <description><![CDATA[<img border="0" width="95" height="75" src="http://onet.jp/renai/img/image06.jpg"/><br />
+        あなたの結婚条件から、理想のお相手を診断！]]></description>
+    </item>
+    <item>
+        <title>女性はこちら</title>
+        <link>https://onet.jp/ocpc/KekkonChance.do?seibetsu=2</link>
+        <description><![CDATA[<img border="0" width="95" height="75" src="http://onet.jp/renai/img/image06.jpg"/><br />
+        あなたの結婚条件から、理想のお相手を診断！]]></description>
+    </item>
+    <item>
+        <title>資料請求はこちら</title>
+        <link>https://onet.jp/ocpc/ShiryouSeikyu.do</link>
+        <description><![CDATA[<img border="0" width="95" height="75" src="http://onet.jp/renai/img/image05.jpg"/><br />
+        資料一式を、支社より差し上げます。]]></description>
+    </item>
+    <item>
+        <title>来社予約はこちら</title>
+        <link>https://onet.jp/ocpc/Yoyaku.do</link>
+        <description><![CDATA[<img border="0" width="95" height="75" src="http://onet.jp/renai/img/image05.jpg"/><br />
+        お相手検索・恋愛度テストを無料体験。]]></description>
+    </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,431 @@
+
+
+.maincontents_wrapper ol, .maincontents_wrapper ul, .maincontents_wrapper dl, .maincontents_wrapper div{zoom:1;}
+
+.maincontents_wrapper ol:after, .maincontents_wrapper ul:after, .maincontents_wrapper dl:after, .maincontents_wrapper div:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+.maincontents {
+	background-image:url(../images/common/main_top_1column.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+	float:left;
+	width:826px;
+}
+.maincontents_wrapper {
+	background-image:url(../images/common/main_bg_1column.gif);
+}
+
+.maincontents_frame {
+	padding-top: 22px;
+	padding-left: 19px;
+	padding-right: 19px;
+	line-height:1.4;
+	letter-spacing: 1px;
+	
+}
+
+.maincontents_frame h1 {
+	font-size:24px;
+	letter-spacing: 0.5px;
+	padding:60px 5px 0 50px;
+	margin-bottom:10px;
+	color:#666;
+	text-align:center;
+	} 
+.maincontents_frame h2 {
+	font-size:22px;
+	letter-spacing: -1px;
+	color:#444;
+}
+.maincontents_frame h3 {
+	font-size:16px;
+	letter-spacing: 1px;
+	color:#444;
+	line-height:1.4;
+
+}
+
+.maincontents_frame p {
+	font-size:14px;
+	letter-spacing: 1px;
+	line-height:1.4;
+	color:#444;
+}
+
+.pL {
+	font-size:16px;
+	letter-spacing: 1px;
+	line-height:1.4;
+	color:#444;
+}
+
+.maincontents_frame a {
+	text-decoration:none;
+}
+.maincontents_frame a:hover{  
+    filter:alpha(opacity=80);  /* IE7以下用 */
+    -ms-filter: "alpha(opacity=80)"; /* IE8用 */
+    -moz-opacity:0.8; /* Firefox 1.5未満, Netscape用 */
+    -khtml-opacity: 0.8;  /* Safari 1.x, 他khtmlに対応したブラウザ用  */
+    opacity: 0.8; /* Firefox 1.5以上, Opera, Safari用 */
+    }  
+	
+.mark_hover {
+	float:right;
+	padding-right:5px;
+}
+
+.mark_hover a {
+	text-decoration:none;
+}
+.mark_hover a:hover {
+    filter:alpha(opacity=80);  /* IE7以下用 */
+    -ms-filter: "alpha(opacity=80)"; /* IE8用 */
+    -moz-opacity:0.8; /* Firefox 1.5未満, Netscape用 */
+    -khtml-opacity: 0.8;  /* Safari 1.x, 他khtmlに対応したブラウザ用  */
+    opacity: 0.8; /* Firefox 1.5以上, Opera, Safari用 */
+    } 
+	 
+.mark_hover2 {
+	float:right;
+	padding-right:5px;
+}
+
+.mark_hover2 a:hover {
+    filter:alpha(opacity=80);  /* IE7以下用 */
+    -ms-filter: "alpha(opacity=80)"; /* IE8用 */
+    -moz-opacity:0.8; /* Firefox 1.5未満, Netscape用 */
+    -khtml-opacity: 0.8;  /* Safari 1.x, 他khtmlに対応したブラウザ用  */
+    opacity: 0.8; /* Firefox 1.5以上, Opera, Safari用 */
+    }  
+
+.naonao {
+	float:right;
+	padding-right:5px;
+}
+
+.naonao a:hover {
+    filter:alpha(opacity=80);  /* IE7以下用 */
+    -ms-filter: "alpha(opacity=80)"; /* IE8用 */
+    -moz-opacity:0.8; /* Firefox 1.5未満, Netscape用 */
+    -khtml-opacity: 0.8;  /* Safari 1.x, 他khtmlに対応したブラウザ用  */
+    opacity: 0.8; /* Firefox 1.5以上, Opera, Safari用 */
+    }   
+
+
+.maincontents_frame h1, h2, h3, p, h3, dl, dt, dd{
+font-family: Arial, Helvetica, sans-serif, "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+}
+
+.mark_header {
+	width:100%;
+	margin:auto;
+	text-align:center;
+	padding:10px 0 20px 0;
+
+}
+
+.mark_towa {
+	background-image:url(../images/service/iogous_mark/iogous_mark_towa.gif);
+	background-repeat:no-repeat;
+	width:767px;
+	padding-bottom:30px;
+	margin:auto;
+	}
+
+	
+
+.mark_merit{
+	padding:0 20px 50px 20px ;
+	margin:0;
+}
+
+.mark_merit h2{
+	background-image:url(../images/service/iogous_mark/iogous_mark_h2_flag.gif);
+	background-repeat:no-repeat;
+	width:100%;
+	padding:0 0 0 30px;
+	margin:0;
+	}
+	
+.mark_merit h3 {
+	background-image:url(../images/service/iogous_mark/iogous_mark_icon_orange.gif);
+	background-repeat:no-repeat;
+	width:100%;
+	font-size:16px;
+	letter-spacing: 1px;
+	color:#ff6100;
+	line-height:1.2;
+	padding:0 0 0 20px;
+	margin:20px 0 0 0;
+	
+	} 
+.mark_merit p {margin:0;
+padding:5px 0 0 0;
+}
+
+.mark_merit a {
+	color:#ff6100;
+}
+.mark_merit a:hover {
+	color:#111;
+}
+.mark_arrow {
+	margin:auto;
+	padding:0;
+	text-align:center;
+	}
+	
+.mark_arrow  img{
+	padding:10px;}
+	
+	
+	
+.mark_merit01 {
+	padding:0 20px 50px 20px ;
+	margin:0;
+}
+.mark_merit01 h2{
+	background-image:url(../images/service/iogous_mark/iogous_mark_h2_good.gif);
+	background-repeat:no-repeat;
+	width:100%;
+	padding:0 0 0 33px;
+	margin:0;
+	}
+.mark_merit01_vector{
+	text-align:center;
+	margin:auto;
+	padding:10px;
+}
+
+.mark_merit01_conversion {
+	margin:auto;
+	padding:30px 0;
+	text-align:center;
+}
+.conversion_left{
+	float:left;
+	text-align:left;
+	padding:15px 0 0 5px;
+	margin:0;
+}
+.conversion_right{
+	width:346px;
+	float:right;
+	padding:80px 0 0 0;
+	margin:0;
+	text-align:left;
+}
+
+.mark_merit01_point {
+	padding:0 20px 40px 32px ;
+	margin:0;
+}
+.mark_merit01_point h3{
+	background-image:url(../images/service/iogous_mark/iogous_mark_h2_point.gif);
+	background-repeat:no-repeat;
+	width:100%;
+	line-height:2;
+	padding:0 0 0 35px;
+	margin:0;
+	}
+
+.mark_merit01_point_box {
+	padding:20px 10px;
+	margin:auto;
+}
+	
+.mark_merit01_point_box01 {
+	background-image:url(../images/service/iogous_mark/iogous_mark_frame01.gif);
+	background-repeat:no-repeat;
+	width:225px;
+	height:90px;
+	padding:5px;
+	margin:0;
+	float:left;
+	font-size:14px;
+	text-align:left;
+}
+.mark_merit01_point_box01 p {
+	padding:5px 7px;
+}
+
+.mark_merit01_point_box02 {
+	background-image:url(../images/service/iogous_mark/iogous_mark_frame02.gif);
+	background-repeat:no-repeat;
+	width:225px;
+	height:90px;
+	padding:5px;
+	margin:0;
+	float:left;
+	font-size:14px;
+	text-align:left;
+}
+.mark_merit01_point_box02 p {
+	padding:5px 7px;
+}
+
+.mark_merit01_point_box03 {
+	background-image:url(../images/service/iogous_mark/iogous_mark_frame03.gif);
+	background-repeat:no-repeat;
+	width:225px;
+	height:90px;
+	padding:5px;
+	margin:0;
+	float:left;
+	font-size:14px;
+	text-align:left;
+}
+.mark_merit01_point_box03 p {
+	padding:5px 7px;
+}
+
+.mark_merit01_point_box04 {
+	background-image:url(../images/service/iogous_mark/iogous_mark_frame04.gif);
+	background-repeat:no-repeat;
+	width:225px;
+	height:90px;
+	padding:5px;
+	margin:0;
+	float:left;
+	font-size:14px;
+	text-align:left;
+}
+.mark_merit01_point_box04 p {
+	padding:5px 7px;
+}
+
+.mark_merit01_point_box05 {
+	background-image:url(../images/service/iogous_mark/iogous_mark_frame05.gif);
+	background-repeat:no-repeat;
+	width:225px;
+	height:90px;
+	padding:5px;
+	margin:0;
+	float:left;
+	font-size:14px;
+	text-align:left;
+}
+.mark_merit01_point_box05 p {
+	padding:5px 7px;
+}
+.mark_merit01_point_box06 {
+	background-image:url(../images/service/iogous_mark/iogous_mark_frame06.gif);
+	background-repeat:no-repeat;
+	width:225px;
+	height:90px;
+	padding:5px;
+	margin:0;
+	float:left;
+	font-size:14px;
+	text-align:left;
+}
+.mark_merit01_point_box06 p {
+	padding:5px 7px;
+}
+
+
+.mark_merit02 {
+	padding:0 20px 50px 20px ;
+	margin:0;
+}
+.mark_merit02 h2{
+	background-image:url(../images/service/iogous_mark/iogous_mark_h2_good.gif);
+	background-repeat:no-repeat;
+	width:100%;
+	padding:0 0 0 33px;
+	margin:0;
+	}
+.mark_merit02_vector{
+	text-align:center;
+	margin:auto;
+	padding:0 10px;
+}
+
+.mark_merit02_server {
+	margin:auto;
+	padding:30px 0;
+	text-align:center;
+}
+.server_left{
+	width:370px;
+	float:left;
+	text-align:left;
+	padding:0 0 0 5px;
+	margin:0;
+}
+.server_right{
+	width:350px;
+	float:right;
+	padding:0 5px;
+	margin:0;
+	text-align:left;
+}
+
+.mark_merit02_point {
+	padding:0 20px 40px 32px ;
+	margin:0;
+}
+.mark_merit02_point h3{
+	background-image:url(../images/service/iogous_mark/iogous_mark_h2_point.gif);
+	background-repeat:no-repeat;
+	width:100%;
+	line-height:2;
+	padding:0 0 0 35px;
+	margin:0;
+	}
+	
+
+.mark_question {
+	padding:0 20px 20px 20px ;
+	margin:0;
+}
+.mark_question h2{
+	background-image:url(../images/service/iogous_mark/iogous_mark_h2_question.gif);
+	background-repeat:no-repeat;
+	width:100%;
+	padding:0 0 0 33px;
+	margin:0;
+	}
+	
+.mark_question div{
+	border: solid  1px #ccc;
+	padding:10px;
+	margin:20px 0 0 0;
+	width:714px;
+		}
+	
+.mark_Q {
+	background-image:url(../images/service/iogous_mark/iogous_mark_icon_Q.gif);
+	background-repeat:no-repeat;
+	font-size:16px;
+	letter-spacing: 1px;
+	padding:0 0 0 20px;
+	margin:0;
+	font-weight:bold;
+	} 
+.mark_A {
+	background-image:url(../images/service/iogous_mark/iogous_mark_icon_A.gif);
+	background-repeat:no-repeat;
+	width:704px;
+	font-size:16px;
+	font-weight:normal;
+	letter-spacing: 1px;
+	line-height:1.2;
+	padding:0 0 0 20px;
+	margin:15px 0 0 0;
+	} 
+
+.mark_last {
+	padding:0 20px 20px 20px ;
+	margin:0;
+}
+
+#PAGETOP {
+	padding:0 20px 0px 0px ;
+	margin:0;text-align:right;}

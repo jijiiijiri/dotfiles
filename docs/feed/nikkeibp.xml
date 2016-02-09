@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>BPnet Special</title>
+    <link>http://info.nikkeibp.co.jp/nbpp/trend/bpnet/</link>
+    <description>日経BP社が運営する，IT（情報技術）に関する広告タイアップのポータルサイト。製品/サービスの紹介だけでなく，イベント情報，アクセスランキングなどを提供。毎週水曜日更新</description>
+    <language>ja</language>
+
+    <item>
+        <title>インテルのテクノロジーが支える　すぐに使えるオールインワンの情報漏えい対策　PC総合セキュリティアプライアンス「PC運用上手」</title>
+        <link>http://special.nikkeibp.co.jp/ts/article/0i0d/102577/?cid=rss_feemo</link>
+        <description><![CDATA[<img border="0" width="112" height="65" src="http://special.nikkeibp.co.jp/ts/article/0i0d/102577/images/centrino.jpg"/><br />
+        ITシステムのコスト削減と情報セキュリティ対策は，規模や業種にかかわらず，すべての企業にとっての緊急課題である。この2つの課題を解決するため・・・]]></description>
+    </item>
+    <item>
+        <title>中堅・中小企業でも簡単に導入できる 最新シスコ製品 設定/活用ガイド</title>
+        <link>http://special.nikkeibp.co.jp/ts/article/0i0a/101862/?cid=rss_feemo</link>
+        <description><![CDATA[<img border="0" src="http://special.nikkeibp.co.jp/ts/article/0i0a/101861/images/logo_cisco.jpg"/><br />
+        今日，ネットワークはビジネスの重要なインフラとなり，各ネットワーク機器ベンダーからは様々な製品が提供されている。中でも，機能や信頼性の面で高・・・]]></description>
+    </item>
+    <item>
+        <title>遊び心を詰め込んだ唯一無二の家づくり　漫画家　江川達也氏 － 日経ビジネスOnline 広告企画「住宅特集」</title>
+        <link>http://special.nikkeibp.co.jp/ts/article/0i0d/102703/?cid=rss_feemo</link>
+        <description><![CDATA[<img border="0" width="125" height="120" src="http://special.nikkeibp.co.jp/ts/article/0i0d/102703/components/images/root/index/egawa.jpg"/><br />
+        住宅を建てる上でこだわる点は、人によってさまざまだろう。漫画家の江川達也さんは、“おもしろくて新しい家”にこだわった。結果、入居から約８年を・・・]]></description>
+    </item>
+    <item>
+        <title>PC Online Special ビジネスモバイル最強化計画</title>
+        <link>http://special.nikkeibp.co.jp/ts/article/0i0d/102669/?cid=rss_feemo</link>
+        <description><![CDATA[<img border="0" src="http://special.nikkeibp.co.jp/ts/article/0i0d/102671/images/logo_pana.gif"/><br />
+        3年前のパソコンを使い続けるか。それとも、最新のレッツノート・タフブックにリプレースするか。正しい判断をするには「戦略的」な発想が必要になる・・・]]></description>
+    </item>
+
+    </channel>
+</rss>

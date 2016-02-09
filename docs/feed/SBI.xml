@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>SBIアクサ生命保険｜日本初のネット生保 生命保険</title>
+    <link>http://www.sbi-axa.co.jp/</link>
+    <description>日本初のネット生保 生命保険（死亡保険）・医療保険（入院保険）</description>
+    <language>ja</language>
+
+    <item>
+        <title>カチッと定期のご案内</title>
+        <link>http://www.sbi-axa.co.jp/life/service/index.html</link>
+        <description><![CDATA[<img border="0" width="96" height="75" src="http://www.sbi-axa.co.jp/img/top_teiki_logo.gif"/><br />
+        「カチッと定期」は万が一のときに一時金を受取れる保険です。]]></description>
+    </item>
+    <item>
+        <title>カチッと収入保障のご案内</title>
+        <link>http://www.sbi-axa.co.jp/life/syunyu/index.html</link>
+        <description><![CDATA[<img border="0" width="96" height="91" src="http://www.sbi-axa.co.jp/img/top_syunyu_logo.gif"/><br />
+        「カチッと収入保障」は万が一のときに、お給料のように年金を毎月受取れる死亡保険です。]]></description>
+    </item>
+    <item>
+        <title>カチッと医療のご案内</title>
+        <link>http://www.sbi-axa.co.jp/medical/service/index.html</link>
+        <description><![CDATA[<img border="0" width="96" height="77" src="http://www.sbi-axa.co.jp/img/top_iryou_logo.gif"/><br />
+        「カチッと医療」は入院や手術の保障をする保険です。ネットで加入できて保険料も割安です。]]></description>
+    </item>
+    <item>
+        <title>おかげさまで Webサイト来訪者200万人突破</title>
+        <link>http://www.sbi-axa.co.jp/corporate/news/news_090610.html</link>
+        <description><![CDATA[<img border="0" width="156" height="33" src="http://www.sbi-axa.co.jp/img_cmn/h_logo.gif"/><br />
+        インターネット専業の生命保険会社であるSBIアクサ生命保険株式会社）は、累計のWebサイト来訪者数が200万人を突破いたしました。]]></description>
+    </item>
+    <item>
+        <title>「おかげさまで開業1周年『ありがとう』キャンペーン」第2弾のお知らせ</title>
+        <link>http://www.sbi-axa.co.jp/corporate/news/news_090515.html</link>
+        <description><![CDATA[<img border="0" width="156" height="33" src="http://www.sbi-axa.co.jp/img_cmn/h_logo.gif"/><br />
+        ～お客さまへの感謝の気持ちを込めて、豪華海外旅行をプレゼント！～]]></description>
+    </item>
+
+    </channel>
+</rss>

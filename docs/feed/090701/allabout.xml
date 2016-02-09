@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>【当店限定】天然石の自然な美しさを活かしたネックレス</title>
+        <link>http://stylestore.allabout.co.jp/mojo/ProductInfo/sku/HF205-90-0000-A112/</link>
+        <description><![CDATA[<img border="0" width="250" height="250" src="http://img2.allabout.co.jp/stylestore/product/m/HF205-90-0000-A112_main.jpg"/><br />
+        天然石のシンプルな美しさを引き出すことをコンセプトに制作されたRocailleの新作ジュエリー。]]></description>
+    </item>
+    <item>
+        <title>素材のコントラストが楽しい、大人のためのボート型トート</title>
+        <link>http://stylestore.allabout.co.jp/mojo/ProductInfo/sku/HA227-30-0000-A298/</link>
+        <description><![CDATA[<img border="0" width="250" height="250" src="http://img2.allabout.co.jp/stylestore/product/m/HA227-30-0000-A298_main.jpg"/><br />
+        ブックパッカーでおなじみのブランド「phrungnii」から、「サスペンダー」が登場]]></description>
+    </item>
+    <item>
+        <title>使い込んで育てる、サスペンダーの革ハンドル</title>
+        <link>http://stylestore.allabout.co.jp/mojo/ProductInfo/sku/HG065-45-0001-A298/</link>
+        <description><![CDATA[<img border="0" width="250" height="250" src="http://img2.allabout.co.jp/stylestore/product/m/HG065-45-0001-A298_main.jpg"/><br />
+        サスペンダーはプルンニーの最新作。取手と袋部分を取り外すことができるバッグのシリーズです。]]></description>
+    </item>
+    <item>
+        <title>ジャムをすくいやすく塗りやすい！なめらかな舌触りのスプーン</title>
+        <link>http://stylestore.allabout.co.jp/mojo/ProductInfo/sku/EM149-00-0000-A312/</link>
+        <description><![CDATA[<img border="0" width="250" height="250" src="http://img2.allabout.co.jp/stylestore/product/m/EM149-00-0000-A312_main.jpg"/><br />
+        “衛生的で子どもたちに使いやすい”をテーマに開発された、新しい時代を担う調理・食器具シリーズ]]></description>
+    </item>
+    <item>
+        <title>バイオDMがニオイをOFF！可憐な花型ディフューザー</title>
+        <link>http://stylestore.allabout.co.jp/mojo/ProductInfo/sku/GE003-90-0000-A213/</link>
+        <description><![CDATA[<img border="0" width="250" height="250" src="http://img2.allabout.co.jp/stylestore/product/m/GE003-90-0000-A213_main.jpg"/><br />
+        心地よい香りに包まれることで心身をリラックス、スタイリッシュな空間を作り出すブランド。]]></description>
+    </item>
+
+    </channel>
+</rss>

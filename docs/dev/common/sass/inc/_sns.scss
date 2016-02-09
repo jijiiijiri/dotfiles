@@ -1,0 +1,180 @@
+.section-sns-site {
+    @include tab-sp {
+        display: none;
+    }
+}
+
+.container-btn-sns {
+    position: fixed;
+    top: 5.5rem;
+    right: 2.7%;
+    z-index: 10;
+    width: 5.8rem;
+    height: 15rem;
+    @include tab-sp {
+      position: static;
+      top: auto;
+      right: auto;
+      width: 21rem;
+      height: 5rem;
+      margin: 0 auto;
+    }
+    //このパーツに関してはpx指定を使う
+    .btn-sns {
+        position: absolute;
+        width: 38px;
+        height: 44px;
+        @include tab-sp {
+          position: relative;
+          float: left;
+          margin-top: 11px;
+          margin-left: 10px;
+        }
+        &.btn-sns01,
+        &.btn-sns02,
+        &.btn-sns03 {
+            @include tab-sp {
+              top: auto;
+              left: auto;
+            }
+            > a {
+                background-color: #2e5099;
+                &.sns-btn-active{
+                    background-color: #4d6aa8;
+                }
+            }
+        }
+        &.btn-sns01 {
+            top: 11px;
+            left: 20px;
+        }
+        &.btn-sns02 {
+            top: 46px;
+            left: 0px;
+        }
+        &.btn-sns03 {
+            top: 81px;
+            left: 20px;
+            > a {
+                background-color: #008fde;
+                &.sns-btn-active{
+                    background-color: #4cb0e8;
+                }
+            }
+        }
+        &.btn-sns04 {
+            top: 116px;
+            left: 0;
+            @include tab-sp {
+              top: auto;
+              left: auto;
+            }
+            > a {
+                background-color: #41b3d9;
+                &.sns-btn-active{
+                    background-color: #7acae4;
+                }
+            }
+        }
+        .icn-facebook {
+            img {
+                position: absolute;
+                left: 0;
+                right: 0;
+                width: 10px;
+                height: 22px;
+                margin: 0 auto;
+            }
+        }
+        .txt-facebook {
+            position: absolute;
+            top: -20px;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+            height: 13px;
+            text-align: center;
+            color: #fff;
+            font-size: 13px;
+        }
+        .icn-hatena {
+            img {
+                position: absolute;
+                top: 3px;
+                left: 0;
+                right: 0;
+                width: 18px;
+                height: 16px;
+                margin: 0 auto;
+            }
+        }
+        .icn-twitter {
+            img {
+                position: absolute;
+                left: 0;
+                right: 0;
+                width: 11px;
+                height: 20px;
+                margin: 0 auto;
+            }
+        }
+        .btn-hexagon {
+            position: absolute;
+            width: 38px;
+            height: 22px;
+            &.btn-hexagon-rotate01 {
+                transform: rotate(60deg);
+            }
+            &.btn-hexagon-rotate02 {
+                transform: rotate(-240deg);
+            }
+        }
+    }
+}
+.container-sns-btn-bottom {
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    background-color: #ecf0f4;
+    .block-sns-btn-bottom {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    .sns-btn-bottom{
+        float: right;
+        margin-right: 1.3%;
+        @include tab {
+            position: relative;
+            float: left;
+            left: 50%;
+        }
+        @include sp {
+            float: none;
+            left: auto;
+            width: 88%;
+            margin: 0 auto;
+        }
+        li {
+            float: left;
+            padding: 1.4rem 0.8rem 1rem 0.8rem;
+            @include tab {
+                position: relative;
+                left: -50%;
+            }
+        }
+    }
+}
+.block-like-count.count-active{
+    position:relative;
+    top:5px;
+    left:41px;
+    background: #f4f7fa;
+    font-size: 13px;
+    padding: 1px 7px;
+    line-height: 1;
+    border-radius: 2px;
+    border: 1px #9197a3 solid;
+    font-weight: 300;
+}
+
+

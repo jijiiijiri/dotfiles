@@ -1,0 +1,199 @@
+div.slogo {
+	width:700px;
+	text-align:center;
+	margin:0 0 10px 0;
+}
+.blue_aline {
+	color:#0033cc
+}
+.bar {
+	font-weight:bold;
+	color:#444;
+	line-height:2.0;
+	background: url(../images/common/bar04.png) no-repeat bottom left;
+}
+ol {
+	list-style:circle;
+	margin-bottom:1.5em;
+	color:#444;
+	font-size:13px;
+	padding:0 20px 0 20px;
+	line-height:1.7;
+}
+
+.right_img {
+	width: 224px;
+	float: right;
+	padding:0 20px 0 0;
+}
+
+#PAGETOP {
+	float:right;
+}
+.error {
+color: red;
+}
+.small {
+	font-size:12px;
+}
+
+td.contact_btn_dc a {
+	background:url(../images/service/digitalconsulting/contact_02.png) no-repeat 0 0;
+    padding-top: 37px;
+    display: block;	
+    overflow: hidden;	
+	height:0;
+	width:309px
+    text-align: center;
+	border:none;
+	cursor:pointer;
+}
+
+td.contact_btn_dc a:hover{
+    background-position: 0 -37px;
+}
+/* Nav ============================================================= */
+nav { border-bottom/*\**/: 3\9;
+}
+nav {border-bottom: #444 solid 6px;
+}
+
+
+#menu li.current a,#menu li.current span
+{
+	color: #3a9e00;
+	cursor:default;
+}
+#menu li.current ul {
+	display:block;
+	height:0;
+}
+/*#menu li.current ul li:first-child span:after
+{
+    content: '';
+    position: absolute;
+    left: 10px;
+    top: -8px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 8px solid #444;
+}
+*/
+
+#menu li.nav01.current,#menu li.nav02.current,#menu li.nav03.current,#menu li.nav04.current{
+			background:url(../images/common/navmenu_current.png) no-repeat 0 0;
+			display: block;
+			height: 37px;
+			width: 187px;
+			margin:0 1px 0 0;
+			text-align:center;
+			}
+#menu li.nav05.current {
+			background:url(../images/common/navmenu_r_current.png) no-repeat 0 0;
+			display: block;
+			height: 37px;
+			width: 188px;
+			margin:0;
+			text-align:center;
+			}
+/*IE7ëŒâû*/			
+*:first-child+html #menu li.nav01.current,*:first-child+html #menu li.nav02.current,*:first-child+html #menu li.nav03.current,*:first-child+html #menu li.nav04.current,*:first-child+html #menu li.nav05.current{
+background-position-y:3px;
+}
+/*IE8ëŒâû*/			
+#menu li.nav01.current,#menu li.nav02.current,#menu li.nav03.current,#menu li.nav04.current,#menu li.nav05.current{
+background-position-y:3px\9;
+}
+/*IE9ëŒâû*/	
+#menu li.nav01.current:not(:target),#menu li.nav02.current:not(:target),#menu li.nav03.current:not(:target),#menu li.nav04.current:not(:target),#menu li.nav05.current:not(:target){
+background-position-y:0px\9;
+}
+
+/* Content============================================================= */
+body { 
+	background:#f7f5f1 url(../images/common/bg2.png) repeat center top;
+	font-family:Arial, Helvetica, sans-serif;
+	font-family:ÉÅÉCÉäÉI,Meiryo,"ÇlÇr ÇoÉSÉVÉbÉN","ÉqÉâÉMÉmäpÉS Pro W3","Hiragino Kaku Gothic Pro",Osaka,Arial, Helvetica, sans-serif;
+	font-size:100%; 
+	line-height:1.125em;
+	color:#9f9f9f;
+}
+
+#content {
+	margin:auto;
+}
+#content .middle2 {
+	padding:20px 0 10px 0;
+	margin:auto;
+}
+/* Leftcontent============================================================= */
+
+#content .middle2 .grid10{
+	padding:0 0 20px 0;
+	width:753px;
+}
+#content .middle2 h1 {
+	background:url(../images/common/bar01.png) no-repeat left bottom;
+	line-height: 45px;
+	font-size:30px;
+	width: 733px;
+}
+
+#content .middle2 h2 {
+	background:url(../images/common/bar01.png) no-repeat left bottom;
+	line-height: 45px;
+	font-size:30px;
+	width: 733px;
+}
+#content .middle2 ul.release {
+	margin: 0 40px 0 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Rightcontent============================================================= */
+#content .middle2 div.grid2{
+	padding:1px 0 50px 0;
+	margin-left:0px
+
+}
+#content .middle2 ul.bnr {
+	margin:5px;
+}
+
+#content .middle2 ul {
+	margin-bottom:20px;
+}
+#content .middle2 ul.rightnav li {
+	background:url(../images/common/bar02.png) no-repeat left bottom;
+	margin:0;
+	height:50px;
+	width:186px;
+	vertical-align:bottom;
+	line-height: 50px;
+	font-size:18px;
+}
+#content .middle2 ul.rightnav li:first-child {
+	height:44px
+}
+#content .middle2 ul.rightnav li a{
+	margin-left:15px;
+	text-decoration:none;
+	color:#444;
+	-moz-transition: all 0.3s ease-out;  /* FF3.7+ */
+	-o-transition: all 0.3s ease-out;  /* Opera 10.5 */
+	-webkit-transition: all 0.3s ease-out;  /* Saf3.2+, Chrome */
+}
+#content .middle2 ul.rightnav li a:hover{
+	color:#3A9E00
+}
+#content .middle2 ul.rightnav li.current {
+	padding-left:15px;
+	color:#3A9E00
+}
+
+#content .middle2 h2.error {
+	background:none;
+}
+

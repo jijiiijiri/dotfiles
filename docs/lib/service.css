@@ -1,0 +1,330 @@
+.service_wrapper {
+	margin-left: 7px;
+	margin-top: 15px;
+	font-size:12px;
+	line-height:1.5;
+}
+
+.service_leftmenu {
+	margin-left: 14px;
+	padding-top: 5px;
+	text-align:left;
+	font-size:12px;
+	
+}
+.servicetriger {
+	float: left;
+}
+.service_leftlinks {
+	width:160px;
+	text-align: left;
+	float: left;
+	line-height: 135%;
+	font-size: 12px;
+	margin: 5px 0px;
+	background-image:url(../images/service/service_triger01.gif);
+	background-repeat:no-repeat;
+	padding:0px 10px 0px 14px;
+	clear:both;
+}
+
+.service_indexboxarea {
+	width: 565px;
+	margin-top: 15px;
+	margin-left: 3px;
+	margin-bottom: 20px;
+}
+.index_boxbg {
+	background-image: url(../images/service/index_boxbg.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 252px;
+	width: 274px;
+}
+.index_boxbg#boxright {
+	float: right;
+}.index_boxtext {
+	text-align: left;
+	padding-right: 12px;
+	padding-left: 12px;
+	line-height: 140%;
+	padding-top: 3px;
+	letter-spacing: 0px;
+	height: 155px;
+}
+.index_boxlinkstiger {
+	background-image: url(../images/service/service_boxtriger.gif);
+	background-repeat: no-repeat;
+	text-indent: 10px;
+	margin-top: 27px;
+	margin-left: 15px;
+	letter-spacing: 0px;
+}
+.service_indexboxarea2 {
+	width: 572px;
+	margin-top: 10px;
+	margin-left: 3px;
+	margin-bottom: 20px;
+}
+.index_boxbg2 {
+	background-image: url(../images/service/index_boxbg2.gif);
+	float: left;
+	height: 189px;
+	width: 255px;
+}
+
+.service_indextitle03 {
+	padding-left: 17px;
+	padding-top: 10px;
+}
+.service_indextitle03#junan {
+	padding-left: 17px;
+	padding-top: 20px;
+}
+.index_boxbg2text1 {
+	font-size: 10px;
+	width: 230px;
+	letter-spacing: 0px;
+	padding-left: 18px;
+	padding-top: 6px;
+	line-height: 140%;
+	margin-bottom: 22px;
+}
+.index_boxbg2text1#riskclick {
+	margin-bottom: 0px;
+	padding-top: 3px;
+	line-height: 125%;
+}
+.index_boxbg2text1#soft {
+	margin-bottom: 0px;
+	width: 210px;
+	padding-top: 3px;
+}
+.index_boxbg3 {
+	background-image: url(../images/service/index_boxbg3.gif);
+	background-repeat: no-repeat;
+	clear: both;
+	height: 100px;
+	width: 572px;
+}
+.index_boxbg4 {
+	background-image: url(../images/service/index_boxbg4.jpg);
+	background-repeat: no-repeat;
+	height: 87px;
+	width: 573px;
+}
+.service_indextitle04 {
+	padding-left: 19px;
+	padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+.haishin_graybox {
+	padding-left: 20px;
+	background-image: url(../images/service/haishin/graybox_bg.jpg);
+	background-repeat: repeat-y;
+	width: 533px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+	background-color: #f7f7f7;
+	margin-bottom: 10px;
+}
+.grayinner_left {
+	float: left;
+	width: 388px;
+}
+.haishin_keyword {
+	float: left;
+	padding-top: 15px;
+	padding-right: 15px;
+}
+.haishin_text {
+	margin-top: 10px;
+	margin-left: 6px;
+}
+.iconbox {
+	background-color: #EFF7DD;
+	padding: 10px;
+	width: 524px;
+	margin: 10px;
+}
+.iconbox#entertainment {
+	background-color: #FFFFFF;
+}
+.iconbox#businessnetwork {
+	background-color:#E2F7FF;
+}
+.iconbox#mensnetwork {
+	background-color:#ECE3F6;
+}
+.iconbox#itnetwork {
+	background-color:#FFFFC2;
+	margin-bottom: 20px;
+}
+.icon_left {
+	margin-top: 10px;
+	margin-right: 7px;
+}
+.icon47 {
+	width: 63px;
+	margin-top: 10px;
+	float: left;
+}
+.icon47left {
+	float: left;
+	width: 450px;
+}
+.feemo_b {
+	padding: 10px;
+}
+.feemo_boxx2 {
+	width: 433px;
+	margin-left: 37px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.orange_aline {
+	color: #FF5B00;
+	text-decoration: underline;
+}
+.feemo_bb {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+}
+.feemo_bbb {
+	text-align: center;
+	margin-top: 15px;
+}
+
+/* =======================================ONLY mixiapps Css=======================================*/
+
+.harftitle {
+	margin:0 0 10px 0; padding:0;
+	height:25px;
+	background-image:url(../images/service/mixiapps_01/line_01.gif);
+	background-repeat:no-repeat;
+	background-position:210px 15px ;
+}
+.longtitle {
+	margin:15px 0 10px 0; padding:0;
+	height:25px;
+	background-image:url(../images/service/mixiapps_01/line_02.gif);
+	background-repeat:no-repeat;
+	background-position:0 15px ;
+}
+#mixiapptitle {
+	float: left;
+	width:200px;
+	padding-right:10px;
+}
+
+#mixiapp_qr{
+	float:left;
+	padding-right:10px;
+}
+#appimg{
+	align: center;
+	padding: 10px 0px;
+}
+
+/*****新インデックス用*****/
+
+
+.business_readarea{
+	padding:20px 0 20px 20px;}
+	
+/*各見出しとボックス*/
+.cleative_box{
+	background-image:url(../images/service/creative_bg.jpg);
+	width:558px;
+	display:block;
+	margin-top:20px;
+	}
+.cleative_box span{
+	padding:4px 5px 0 18px;
+	display:block;
+	}
+
+.iogousmark_box{
+	background-image:url(../images/service/iogousmark_bg.gif);
+	width:558px;
+	display:block;	margin-top:10px;
+	}
+.iogousmark_box span{
+	padding:4px 5px 0 18px;
+	display:block;
+	}
+
+
+.rss_box{
+	background-image:url(../images/service/rss_bg.jpg);
+	width:558px;
+	display:block;	margin-top:20px;
+	}
+.rss_box span{
+	padding:4px 5px 0 18px;
+	display:block;
+	}
+	
+.tweet_box{
+	background-image:url(../images/service/tweet_bg.jpg);
+	width:558px;
+	display:block;	margin-top:20px;
+	}
+.tweet_box span{
+	padding:4px 5px 0 18px;
+	display:block;
+	}
+	
+.apli_box{
+	background-image:url(../images/service/apli_bg.jpg);
+	width:558px;
+	display:block;
+	margin-top:20px;
+	}
+.apli_box span{
+	padding:4px 5px 0 18px;
+	display:block;
+	}	
+	
+	
+/*ボックス用ロゴ、ボタン位置*/
+
+.iobouslogo{height:32px; margin-top:30px;}
+.iogousbtn{height:16px; margin:5px 0;}
+.tmlogo{
+	width:116px;
+	padding-left:20px;
+	float:left;
+	text-align:right
+}
+.tmbtn{
+	height:16px;
+	margin:5px 0px 0 40px;
+	float:right;
+	padding:4px 0 0 0px;
+}
+.tblogo{width:150px; padding-left:40px; float:left; text-align:right}
+.tbbtn{height:16px; margin:0 10px 5px 8px; float:left; padding-top:4px;}
+.tbplogo{width:150px; padding-left:40px; float:left; text-align:right}
+.tbpbtn{height:16px; margin:7px 10px 5px 8px; float:left; padding-top:4px;}
+.feemologo{
+	width:116px;
+	padding-left:25px;
+	float:left;
+	text-align:right
+}
+.feemobtn{height:16px;  margin:6px 10px 5px 8px; float:left; padding-top:4px;}
+
+.kizunalogo{width:150px; padding-left:40px; float:left; text-align:right}
+.kizunabtn{height:16px; margin:5px 10px; float:left; padding-top:4px;}
+.molllogo{width:150px; padding-left:40px; float:left; text-align:right}
+.mollbtn{height:16px; margin:7px 10px 5px 10px; float:left; padding-top:4px;}

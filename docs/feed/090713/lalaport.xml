@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demodemo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>ららぽーとクリアランス</title>
+        <link>http://yokohama.lalaport.jp/dpm/index.shtml</link>
+        <description><![CDATA[<img border="0" width="138" height="70" src="http://yokohama.lalaport.jp/common/ssi/image/header_logo.gif"/><br />
+        7.13（月）～8.2（日）]]></description>
+    </item>
+    <item>
+        <title>「絶滅危惧種を救おう！」</title>
+        <link>http://www.tsukurou.jp/0907ecosummer/index.html</link>
+        <description><![CDATA[<img border="0" width="138" height="70" src="http://yokohama.lalaport.jp/common/ssi/image/header_logo.gif"/><br />
+        抽選で1千名様にあたる！]]></description>
+    </item>
+    <item>
+        <title>らららんスタンプラリー</title>
+        <link>http://www.tsukurou.jp/0907lalalan/index.html</link>
+        <description><![CDATA[<img border="0" width="138" height="70" src="http://yokohama.lalaport.jp/common/ssi/image/header_logo.gif"/><br />
+        抽選で1千名様に当たる！]]></description>
+    </item>
+    <item>
+        <title>カレーフェア</title>
+        <link>http://www.tsukurou.jp/0907carry/index.html</link>
+        <description><![CDATA[<img border="0" width="138" height="70" src="http://yokohama.lalaport.jp/common/ssi/image/header_logo.gif"/><br />
+        おトクなクーポンをGET！]]></description>
+    </item>
+    <item>
+        <title>夏休み特集</title>
+        <link>http://www.tsukurou.jp/0907summer/index.html</link>
+        <description><![CDATA[<img border="0" width="138" height="70" src="http://yokohama.lalaport.jp/common/ssi/image/header_logo.gif"/><br />
+        行楽グッズ・宿題お助け特集]]></description>
+    </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:my="http://purl.org/my/rss/module/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+<channel rdf:about="http://rent.homes.co.jp/">
+<title>不動産賃貸のHOME'S賃貸</title>
+<link>http://rent.homes.co.jp/t=feemo0904_00/</link>
+<description><![CDATA[HOME'S賃貸は不動産賃貸の総合ポータルサイト。気になる情報を皆さんにお届けします。]]></description>
+<dc:language>ja</dc:language>
+<dc:date>2009-04-07T21:05:00+09:00</dc:date>
+<dc:subject>不動産賃貸情報</dc:subject>
+<my:escaped_url>http%3//rent.homes.co.jp%3</my:escaped_url>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://realestate.homes.co.jp/pickup/issue/tk=3/cid=02/aid=053/sbrt=2/t=feemo0904_01/" />
+  <rdf:li rdf:resource="http://www.homes.co.jp/contents/2000/?t=feemo0904_02/" />
+  <rdf:li rdf:resource="http://single.homes.co.jp/?s=feemo0904_03" />
+  <rdf:li rdf:resource="http://single.homes.co.jp/tokyo/eki-yamanote-9100488.html?s=feemo0904_04" />
+  <rdf:li rdf:resource="http://realestate.homes.co.jp/pickup/article/tk=3/s=313015/cid=01/sbrt=2/t=feemo0904_05/" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://realestate.homes.co.jp/pickup/issue/tk=3/cid=02/aid=053/sbrt=2/t=feemo0904_01/">
+<title>保証人探しはもういらない！保証人なし物件</title>
+<link>http://realestate.homes.co.jp/pickup/issue/tk=3/cid=02/aid=053/sbrt=2/t=feemo0904_01/</link>
+<description><![CDATA[
+<a href="http://realestate.homes.co.jp/pickup/issue/tk=3/cid=02/aid=053/sbrt=2/t=feemo0904_01/"><img src="http://rent.homes.co.jp/assets/img/_default/banner/feemobnner/thumb_01.jpg" width="120" height="120" /></a><br />
+
+連帯保証人不要の賃貸物件をお探しなら、「HOME'S賃貸保証」が保証人代行いたします。
+]]>
+</description>
+<dc:creator>株式会社ネクスト</dc:creator>
+<dc:date>2009-04-07T21:05:00+09:00</dc:date>
+<dc:subject>HOME'S賃貸</dc:subject>
+</item>
+<item rdf:about="http://www.homes.co.jp/contents/2000/?t=feemo0904_02">
+<title>抽選で総額2,000万円あげちゃう！</title>
+<link>http://www.homes.co.jp/contents/2000/?t=feemo0904_02</link>
+<description><![CDATA[
+<a href="http://www.homes.co.jp/contents/2000/?t=feemo0904_02"><img src="http://rent.homes.co.jp/assets/img/_default/banner/feemobnner/thumb_02.jpg" width="120" height="120" /></a><br />
+
+HOME'S限定,応募して現金獲得のチャンス「クイズでゲット！」「住み替えてゲット！」
+]]>
+</description>
+<dc:creator>株式会社ネクスト</dc:creator>
+<dc:date>2009-04-07T21:05:00+09:00</dc:date>
+<dc:subject>HOME'S賃貸</dc:subject>
+</item>
+<item rdf:about="http://single.homes.co.jp/?s=feemo0904_03">
+<title>『お部屋探し』×『ストリートビュー』</title>
+<link>http://single.homes.co.jp/?s=feemo0904_03</link>
+<description><![CDATA[
+<a href="http://single.homes.co.jp/?s=feemo0904_03"><img src="http://rent.homes.co.jp/assets/img/_default/banner/feemobnner/thumb_03.jpg" width="120" height="120" /></a><br />
+
+気にいった物件周辺を、自宅から下見。散歩気分を感じられる便利なサービス！
+]]>
+</description>
+<dc:creator>株式会社ネクスト</dc:creator>
+<dc:date>2009-04-07T21:05:00+09:00</dc:date>
+<dc:subject>HOME'S賃貸</dc:subject>
+</item>
+<item rdf:about="http://single.homes.co.jp/tokyo/eki-yamanote-9100488.html?s=feemo0904_04">
+<title>今日の東京都の人気駅ランキング1位は･･･</title>
+<link>http://single.homes.co.jp/tokyo/eki-yamanote-9100488.html?s=feemo0904_04</link>
+<description><![CDATA[
+<a href="http://single.homes.co.jp/tokyo/eki-yamanote-9100488.html?s=feemo0904_04"><img src="http://rent.homes.co.jp/assets/img/_default/banner/feemobnner/thumb_04.jpg" width="120" height="120" /></a><br />
+
+「池袋」　人気のある街・駅などのランキングなど、気になるランキングを毎日更新。
+]]>
+</description>
+<dc:creator>株式会社ネクスト</dc:creator>
+<dc:date>2009-04-07T21:05:00+09:00</dc:date>
+<dc:subject>HOME'S賃貸</dc:subject>
+</item>
+<item rdf:about="http://realestate.homes.co.jp/pickup/article/tk=3/s=313015/cid=01/sbrt=2/t=feemo0904_05/">
+<title>引越しはペットと一緒！ペット相談物件特集</title>
+<link>http://realestate.homes.co.jp/pickup/article/tk=3/s=313015/cid=01/sbrt=2/t=feemo0904_05/</link>
+<description><![CDATA[
+<a href="http://realestate.homes.co.jp/pickup/article/tk=3/s=313015/cid=01/sbrt=2/t=feemo0904_05/"><img src="http://rent.homes.co.jp/assets/img/_default/banner/feemobnner/thumb_05.jpg" width="120" height="120" /></a><br />
+
+引越しはペットと一緒！ペット相談物件特集
+]]>
+</description>
+<dc:creator>株式会社ネクスト</dc:creator>
+<dc:date>2009-04-07T21:05:00+09:00</dc:date>
+<dc:subject>HOME'S賃貸</dc:subject>
+</item>
+</rdf:RDF>

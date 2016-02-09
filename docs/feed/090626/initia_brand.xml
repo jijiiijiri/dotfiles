@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>イニシア千住曙町</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02092</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02092/A02092_thumb.jpg"/><br />
+        東京７km圏、駅徒歩4分。南に隅田川・東に荒川を望む全515邸。自走式駐車場100％。24時間有人管理。]]></description>
+    </item>
+    <item>
+        <title>イニシア多摩川</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02134</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02134/A02134_thumb.jpg"/><br />
+        最寄駅～品川駅14分、羽田空港駅7分、駅徒歩9分。バスで蒲田駅、川崎駅もアクセス可。]]></description>
+    </item>
+    <item>
+        <title>イニシア巣鴨</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02165</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02165/A02165_thumb.jpg"/><br />
+        染井の桜を借景に。この地で過ごす時間こそ、贅沢。この場所であることこそ、価値。]]></description>
+    </item>
+    <item>
+        <title>イニシア板橋区役所前</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02177</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02177/A02177_thumb.jpg"/><br />
+        全戸南向き。2LDK角住戸が2598万円～（予定）。2駅2路線利用可で大手町18分、池袋5分。]]></description>
+    </item>
+    <item>
+        <title>イニシア蓮根</title>
+        <link>http://www.cosmos-direct.jp/do/mnsNew/obj/top?objCd=A02208</link>
+        <description><![CDATA[<img border="0" src="http://www.cosmos-direct.jp/imglib/A02208/A02208_thumb.jpg"/><br />
+        大手町」へ直通28分。商店街を通って7分。閑静な住宅街に誕生。南向き中心、全23タイプ。]]></description>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://demo.jp/</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>ディープモイスチュアクリーム</title>
+        <link>http://www.riceforce.com/stc/item/deep/cream.aspx</link>
+        <description><![CDATA[<img border="0" width="40" height="40" src="http://pic.image-net.info/rf/riceforce/pc/prod/common/stc_images/ps_deep_cream.gif"/><br />
+        クリームなのにベタつかず、しっかりうるおいを閉じ込めます。]]></description>
+    </item>
+    <item>
+        <title>ディープモイスチュアローション</title>
+        <link>http://www.riceforce.com/stc/item/deep/lotion.aspx</link>
+        <description><![CDATA[<img border="0" width="40" height="40" src="http://pic.image-net.info/rf/riceforce/pc/prod/common/stc_images/ps_deep_lotion.gif"/><br />
+       スーッと浸透し、お肌にたっぷりうるおいを届けます。]]></description>
+    </item>
+    <item>
+        <title>メイクアップリムーバー</title>
+        <link>http://www.riceforce.com/stc/item/deep/remover.aspx</link>
+        <description><![CDATA[<img border="0" width="40" height="40" src="http://pic.image-net.info/rf/riceforce/pc/prod/common/stc_images/ps_m_remover.gif"/><br />
+        肌にやさしく、メイクをすっきり落とします。]]></description>
+    </item>
+    <item>
+        <title>マイルドフェイスウォッシュ</title>
+        <link>http://www.riceforce.com/stc/item/deep/wash.aspx</link>
+        <description><![CDATA[<img border="0" width="40" height="40" src="http://pic.image-net.info/rf/riceforce/pc/prod/common/stc_images/ps_m_facewash.gif"/><br />
+       さっぱりツルツルな洗い上がり。でも、うるおいは逃しません。]]></description>
+    </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>航空会社での旅行ポータル導入</title>
+        <link>http://www.microsoft.com/japan/visualstudio/casestudies/default.mspx</link>
+        <description><![CDATA[<img border="0" src="http://www.microsoft.com/japan/visualstudio/content/images/casestudy_thumbs/case_study_06.png"/><br />
+        大幅な収入増加につながるように、これまでにほど使いやすいサイトを顧客に提供するために、旅行ポータルを見直すことを計画しています。]]></description>
+    </item>
+    <item>
+        <title>救命用のスクリーニング ツール</title>
+        <link>http://www.microsoft.com/japan/visualstudio/casestudies/default.mspx</link>
+        <description><![CDATA[<img border="0" src="http://www.microsoft.com/japan/visualstudio/content/images/casestudy_thumbs/case_study_05.png"/><br />
+        患者の安全性を高めるために、Web ベースのスクリーニング ソリューションを開発しました。]]></description>
+    </item>
+    <item>
+        <title>コードを 84% 削減</title>
+        <link>http://www.microsoft.com/japan/visualstudio/casestudies/default.mspx</link>
+        <description><![CDATA[<img border="0" src="http://www.microsoft.com/japan/visualstudio/content/images/whtpaper_icon.png"/><br />
+        広告料金を最適化したり求めたりするために使用していたソフトウェア]]></description>
+    </item>
+    <item>
+        <title>Xeroxが最大50%削減</title>
+        <link>http://www.microsoft.com/japan/visualstudio/casestudies/default.mspx</link>
+        <description><![CDATA[<img border="0" src="http://www.microsoft.com/japan/visualstudio/content/images/casestudy_thumbs/case_study_01.png"/><br />
+        Xerox は Microsoft Visual Studio 2008 を使用して新たなツールを構築しました。]]></description>
+    </item>
+
+    </channel>
+</rss>

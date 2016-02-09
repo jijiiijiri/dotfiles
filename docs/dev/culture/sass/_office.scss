@@ -1,0 +1,104 @@
+#office {
+    .container-main-visual-mod {
+        span {
+            width: 28rem;
+            @include tab {
+            	width: 17rem;
+            }
+        }
+    }
+}
+#office, #benefit{
+    .arrow-box {
+        position: relative;
+        display: inline-block;
+        background: #ffffff;
+        border: 2px solid #669d44;
+        border-radius: 3px;
+        line-height: 1.8;
+        width: 75%;
+        margin-left: 3%;
+        vertical-align: top;
+        padding: 1.5% 2%;
+    }
+    .arrow-box:after,
+    .arrow-box:before {
+        right: 100%;
+        top: 5rem;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+        @include tab {
+        	top: 3.5rem;
+        }
+        @include sp {
+        	top: 2rem;
+        }
+    }
+    .arrow-box:after {
+        border-color: rgba(255, 255, 255, 0);
+        border-right-color: #ffffff;
+        border-width: 10px;
+        margin-top: -10px;
+        @include sp {
+        border-width: 6px;
+        margin-top: -6px;
+        }
+    }
+    .arrow-box:before {
+        border-color: rgba(102, 157, 68, 0);
+        border-right-color: #669d44;
+        border-width: 13px;
+        margin-top: -13px;
+        @include sp {
+        border-width: 9px;
+        margin-top: -9px;
+        }
+    }
+
+	.container-arrow-box{
+		width: 72%;
+		margin: 3rem auto;
+		font-size: 1.5rem;
+		color: #444;
+		margin-bottom: 3rem;
+		height: auto;
+		@include sp {
+			width: 98%;
+			font-size: 1.2rem;
+		}
+		.icn-press{
+        	display: inline-block;
+			width: 10%;
+			@include sp {
+				width: 13%;
+			}
+			img{
+				width: 100%;
+				border: 2px solid #ecf0f4;
+				border-radius: 5px;
+			}
+		}
+		.name-press{
+			text-align: center;
+			margin-top: 0.5rem;
+			color: #777;
+			font-size: 1.3rem;
+			@include sp {
+				font-size: 0.9rem;
+			}
+		}
+		.arrow-box{
+		}
+		a {
+			color: #669d44;
+			text-decoration: none;
+			margin-top: 2rem;
+			margin-bottom: 1rem;
+			display: inline-block;
+		}
+	}
+}

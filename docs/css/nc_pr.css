@@ -1,0 +1,182 @@
+@charset "UTF-8";
+@media screen and (min-width: 800px) {
+
+.release_wrapper{
+	width:900px;
+	padding:20px;
+	margin:auto auto;
+	text-align:left;
+	font-size:0.7em;
+	color:#424242;
+}
+
+.to_press{
+	float:left;
+}
+
+.pr_date{
+	text-align:right
+}
+
+.pr_like{
+	float:right;
+}
+
+.pr_corpname{
+	text-align:right;
+	border-bottom:#999999 1px solid;
+}
+
+.pr_h1{
+	font-weight: normal;
+	text-align: center;
+}
+
+.pr_title{
+	margin:20px 0px 20px 0px;
+	text-align:center;
+	border-bottom:#999999 1px solid;
+	padding-bottom:20px;
+	font-weight:bold;
+}
+
+.yearbox ul {
+	list-style: none;
+}
+
+.yearbox ul li{
+border-bottom: 1px dotted #999;
+padding: 15px 0 15px 6em;
+text-indent: -6em;
+}
+
+.yearbox ul li span{
+display: inline-block;
+width: 6em;
+text-indent: 0;
+}
+
+.fontsmall{
+	font-size: 0.8em;
+}
+
+.pr_title{
+	font-size: 1.2em;
+}
+
+.release_wrapper h2{
+	font-size: 1em;	
+}
+
+.release_wrapper p{
+	margin: 30px 0px 30px 0px;	
+}
+
+.pr_main_pic img {
+	width: 100%;
+}
+
+.pr_images_large {
+	width: 853px;
+	margin-bottom: 15px;
+}
+
+.pr_images_large img {
+	width: 100%;
+}
+
+
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+
+.release_wrapper{
+	width:90%;
+	margin:auto auto;
+	padding-top: 30px;
+	text-align:left;
+	font-size:0.7em;
+	color:#424242;
+}
+
+.f81logo{
+	display: none;
+}
+
+.to_press{
+	float:left;
+}
+
+.pr_date{
+	text-align:right
+}
+
+.pr_like{
+	float:right;
+}
+
+.pr_corpname{
+	text-align:right;
+	border-bottom:#999999 1px solid;
+}
+
+.pr_title{
+	margin:20px 0px 20px 0px;
+	text-align:center;
+	border-bottom:#999999 1px solid;
+	padding-bottom:20px;
+	font-weight:bold;
+	font-size: 1.2em;
+}
+
+.pr_main_pic img {
+	width: 100%;
+}
+
+.yearbox ul {
+	list-style: none;
+}
+
+.yearbox ul li{
+border-bottom: 1px dotted #999;
+padding: 15px 0 15px 6em;
+text-indent: -6em;
+}
+
+.yearbox ul li span{
+display: inline-block;
+width: 6em;
+text-indent: 0;
+}
+
+.pr_movie {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.pr_movie iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.pr_images_large {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.pr_images_large img {
+	width: 100%;
+}
+
+.fontsmall{
+	font-size: 0.8em;
+}
+
+}

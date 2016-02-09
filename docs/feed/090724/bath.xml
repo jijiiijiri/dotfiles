@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>ハロウィンの夜に</title>
+        <link>http://www.urubana.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.lion.co.jp/common/prodimage/086-01.jpg"/><br />
+        子供の頃のお話。家族ぐるみで付き合っていた同い年の友達と、子供だけでハロウィンパーティを開く計画を立てました。]]></description>
+    </item>
+    <item>
+        <title>母からのおくりモノ</title>
+        <link>http://www.urubana.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.lion.co.jp/common/prodimage/086-01.jpg"/><br />
+        母から毎月送られてくる箱。元の野菜や昔から好きだった柿ピーが詰め込まれたダンボールは正直貧乏OL]]></description>
+    </item>
+    <item>
+        <title>子犬の涙</title>
+        <link>http://www.urubana.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.lion.co.jp/common/prodimage/086-01.jpg"/><br />
+        こないだ、彼氏と公園を散歩していたら、小さな子犬をつれた老夫婦がいて、私は、かわいいなーと思って通り過ぎたんだけど、]]></description>
+    </item>
+    <item>
+        <title>おじいちゃんとおばあちゃん</title>
+        <link>http://www.urubana.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.lion.co.jp/common/prodimage/086-01.jpg"/><br />
+        「これ、おじいちゃんが買ってきてくれたの(^_^)」いつもじーっと見てるだけのおじいちゃんの目が]]></description>
+    </item>
+
+    </channel>
+</rss>

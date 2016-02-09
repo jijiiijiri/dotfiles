@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>Luiだからできる新機能</title>
+        <link>http://121ware.com/navigate/products/pc/092q/07/lui/lavie/light/index02.html</link>
+        <description><![CDATA[<img border="0" width="175" height="175" src="http://img.kakaku.com/Images/prdnews/20090701123944_937_.jpg"/><br />
+        手軽なネットブックの機能だけじゃない。Luiだけの新機能紹介！]]></description>
+    </item>
+    <item>
+        <title>Luiはこんなときに大活躍</title>
+        <link>http://121ware.com/navigate/products/pc/092q/07/lui/lavie/light/index03.html</link>
+        <description><![CDATA[<img border="0" width="175" height="175" src="http://img.kakaku.com/Images/prdnews/20090701123944_937_.jpg"/><br />
+        Luiモデルだから実現する便利な一面をご紹介します。 ]]></description>
+    </item>
+    <item>
+        <title>PCオンデマンドとは？</title>
+        <link>http://121ware.com/navigate/products/pc/092q/07/lui/function/pcod/index.html</link>
+        <description><![CDATA[<img border="0" width="175" height="175" src="http://img.kakaku.com/Images/prdnews/20090701123944_937_.jpg"/><br />
+        軽量コンパクトなPCリモーターだけを持ち出して遠隔で操作する・・]]></description>
+    </item>
+    <item>
+        <title>PCオンデマンドこれが必要</title>
+        <link>http://121ware.com/navigate/products/pc/092q/07/lui/function/pcod/index02.html</link>
+        <description><![CDATA[<img border="0" width="175" height="175" src="http://img.kakaku.com/Images/prdnews/20090701123944_937_.jpg"/><br />
+        PCオンデマンドをご利用するためには次の機材が必要です。 ]]></description>
+    </item>
+
+    </channel>
+</rss>

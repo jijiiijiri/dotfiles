@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>JCBカード</title>
+    <link>http://www.jcb.co.jp/index.html</link>
+    <description>JCBカード</description>
+    <language>ja</language>
+
+    <item>
+        <title>使ってトクするぐるなびキャンペーン2009</title>
+        <link>http://www.jcb.co.jp/campaign/c08_053gurunavi.html?top</link>
+        <description><![CDATA[<img border="0" width="150" height="150" src="http://www.jcb.co.jp/campaign/image/c08_053gurunavi_logo.gif"/><br />
+        期間中、キャンペーン対象の「ぐるなび」加盟店でJCBカードをご利用いただくと、ご利用合計金額5,000円を1口として抽選ですてきな賞品が当たるチャンス！]]></description>
+    </item>
+    <item>
+        <title>さわやか散策　JCB夏の倉敷キャンペーン</title>
+        <link>http://www.jcb.co.jp/campaign/c09_007kurashiki.html</link>
+        <description><![CDATA[<img border="0" width="235" height="179" src="http://www.jcb.co.jp/campaign/image/c09_007kurashiki_01.jpg"/><br />
+        夏の思い出を作りに、倉敷へ行こう！倉敷美観地区の対象店舗・施設にて、JCBカード会員の皆様へすてきな優待やサービスをご用意しています。]]></description>
+    </item>
+    <item>
+        <title>ハワイ「ワイキキ・トロリー」乗車賃無料！</title>
+        <link>http://www.jcb.co.jp/campaign/c07_060trolley.html</link>
+        <description><![CDATA[<img border="0" width="150" height="163" src="http://www.jcb.co.jp/campaign/image/c07_060trolley_logo.gif"/><br />
+        期間中、JCBカードを見せるだけで、ハワイのワイキキ・トロリー（ワイキキ／アラモアナ・ショッピング・コース）の乗車賃が無料となります！]]></description>
+    </item>
+    <item>
+        <title>「TRAVIA（トラビア）」選べるプレゼントキャンペーン</title>
+        <link>http://www.jcb.co.jp/campaign/travia_2.html</link>
+        <description><![CDATA[<img border="0" width="93" height="80" src="http://www.jcb.co.jp/campaign/image/travia_01.gif"/><br />
+        JCBトラベルのWEBサービス「TRAVIA（トラビア）」にご登録いただき、メールマガジンの配信を希望されると、抽選で選べるプレゼントが当たります。]]></description>
+    </item>
+    <item>
+        <title>「国内宿泊オンライン予約」でもれなくOki Dokiポイント3倍プレゼント！</title>
+        <link>http://www.jcb.co.jp/campaign/jtb.html</link>
+        <description><![CDATA[<img border="0" width="86" height="79" src="http://www.jcb.co.jp/campaign/image/jtb_logo.gif"/><br />
+        国内のホテル・旅館のご予約をJCBトラベルホームページからJTBの「国内宿泊オンライン予約」でご予約されるとOki Dokiポイントが通常の3倍になります。]]></description>
+    </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,320 @@
+//ページのメインビジュアルとページタイトルのスタイル
+.main-visual-mod,
+.main-visual {
+    position: relative;
+    width: 100%;
+    .bg-main-visual {
+        width: 100%;
+    }
+}
+
+.main-visual-mod {
+    @include sp {
+        margin-top: 3.9rem;
+    }
+}
+
+.container-main-visual-mod,
+.container-main-visual {
+    position: absolute;
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    @include y-center;
+}
+
+//モジュール
+.container-main-visual-mod {
+    top: 20%;
+    @include tab {
+        top: 27%;
+    }
+    @include sp {
+        top: 30%;
+    }
+    //メインタイトル
+    .head-main-visual {
+        font-size: 8rem;
+        position: absolute;
+        z-index: 3;
+        top: 0;
+        left: 4.7%;
+        letter-spacing: -.3rem;
+        color: #fff;
+        text-shadow: 2px 0 2px rgba(#000, .2);
+        @include tab {
+            font-size: 4rem;
+            top: 0;
+            left: 3%;
+            letter-spacing: 0;
+        }
+        @include sp {
+            font-size: 2.3rem;
+            width: 13rem;
+            padding-top: .1rem;
+            text-align: center;
+            letter-spacing: 0;
+            background-color: rgba(#59992e, .8);
+            @include y-center;
+        }
+        //一文字目のサイズ
+        &:first-letter {
+            font-size: 14rem;
+            @include tab {
+                font-size: 8rem;
+            }
+            @include sp {
+                font-size: 3.8rem;
+            }
+        }
+    }
+    //メインタイトル背景
+    span {
+        position: absolute;
+        z-index: 2;
+        top: 0;
+        left: 4%;
+        display: block;
+        width: 34rem;
+        height: 7rem;
+        margin-top: 5rem;
+        background-color: rgba(#59992e, .8);
+        @include tab {
+            top: 0;
+            left: 2%;
+            width: 20rem;
+            height: 4rem;
+            margin-top: 3rem;
+        }
+        @include sp {
+            display: none;
+        }
+    }
+    //サブタイトル
+    .sub-head-main-visual {
+        font-size: 1.8rem;
+        font-weight: normal;
+        line-height: 1.8;
+        position: absolute;
+        top: 0;
+        left: 4%;
+        margin-top: 12rem;
+        padding: .4% 5% .7% 2.1%;
+        color: #fff;
+        background-color: rgba(#59992e, .8);
+        text-shadow: 2px 0 2px rgba(#000, .2);
+        @include tab {
+            font-size: 1.2rem;
+            top: 0;
+            left: 2%;
+            margin-top: 7rem;
+            padding: .5% 2% .8% 2%;
+        }
+        @include sp {
+            display: none;
+        }
+    }
+}
+
+//トップページ
+#top {
+    .container-main-visual {
+        top: 20%;
+        @include sp {
+            top: 45%;
+        }
+        //メインタイトル
+        .head-main-visual {
+            font-size: 8rem;
+            position: absolute;
+            z-index: 3;
+            top: 0;
+            left: 3.5%;
+            letter-spacing: -.3rem;
+            color: #fff;
+            @include tab {
+                font-size: 4rem;
+                top: 0;
+                left: 3%;
+                letter-spacing: 0;
+            }
+            @include sp {
+                font-size: 2.3rem;
+                width: 13rem;
+                padding-top: .1rem;
+                text-align: center;
+                letter-spacing: 0;
+                background-color: rgba(#59992e, .8);
+                @include y-center;
+            }
+            //一文字目のサイズ
+            &:first-letter {
+                font-size: 14rem;
+                @include tab {
+                    font-size: 8rem;
+                }
+                @include sp {
+                    font-size: 3.8rem;
+                }
+            }
+        }
+        //メインタイトル背景
+        span {
+            position: absolute;
+            z-index: 2;
+            top: 0;
+            left: 2%;
+            display: block;
+            width: 34rem;
+            height: 7rem;
+            margin-top: 5rem;
+            background-color: rgba(#59992e, .8);
+            @include tab {
+                top: 0;
+                left: 1%;
+                width: 20rem;
+                height: 4rem;
+                margin-top: 3rem;
+            }
+            @include sp {
+                display: none;
+            }
+        }
+        //サブタイトル
+        .sub-head-main-visual {
+            font-size: 1.8rem;
+            font-weight: normal;
+            line-height: 1.8;
+            position: absolute;
+            top: 0;
+            left: 2%;
+            margin-top: 12rem;
+            padding: 1.1% 5.5% 1% 7.8%;
+            color: #fff;
+            background-color: rgba(#59992e, .8);
+            @include tab {
+                font-size: 1.2rem;
+                top: 0;
+                left: 1%;
+                margin-top: 7rem;
+                padding: .5% 2% 1% 5%;
+            }
+            @include sp {
+                display: none;
+            }
+        }
+    }
+}
+
+//aboutページ用
+#about {
+    .main-visual {
+        @include sp {
+            margin-top: 3.9rem;
+        }
+    }
+    .container-main-visual {
+        top: 40%;
+        max-width: 100%;
+        .head-main-visual {
+            position: absolute;
+            top: 0;
+            width: 30%;
+            height: 7.8rem;
+            display: none;
+            @include y-center;
+            @include tab {
+                height: 6.4rem;
+                margin-top: 2%;
+            }
+            @include sp {
+                width: 40%;
+                margin-top: 0;
+            }
+            img {
+                width: 100%;
+            }
+        }
+    }
+}
+
+//社員紹介詳細ページ
+#member-detail {
+    @include tab-sp {
+        margin-top: 3.9rem;
+    }
+    .container-main-visual {
+        top: 0;
+        height: 0;
+        padding-top: 31.78571%;
+        .question-main-visual {
+            font-size: 160%;
+            position: absolute;
+            top: 0;
+            left: 3%;
+            display: inline;
+            margin-top: 12%;
+            padding: 1%;
+            color: #fff;
+            background-color: rgba(#59992e, .8);
+            text-shadow: 2px 0 1px rgba(#000, .2);
+            @include tab {
+                font-size: 140%;
+                margin-top: 6%;
+            }
+            @include sp {
+                font-size: 0.8rem;
+                margin-top: 3%;
+            }
+        }
+        .answer-main-visual {
+            font-size: 250%;
+            line-height: 1.7;
+            position: absolute;
+            top: 0;
+            left: 3%;
+            display: inline;
+            margin-top: 17.5%;
+            padding: 1% 3.5%;
+            color: #fff;
+            background-color: rgba(#59992e, .8);
+            text-shadow: 2px 0 1px rgba(#000, .2);
+            @include tab {
+                font-size: 190%;
+                margin-top: 11%;
+            }
+            @include sp {
+                font-size: 1.1rem;
+                margin-top: 9.5%;
+                padding: 1.5%;
+            }
+        }
+        //名前
+        .head-main-visual {
+            font-size: 600%;
+            position: absolute;
+            right: 3%;
+            bottom: 2.9rem;
+            margin-top: 35.3%;
+            color: #fff;
+            text-shadow: 2px 0 1px rgba(#000, .2);
+            @include sp {
+                font-size: 300%;
+                bottom: 8%;
+            }
+        }
+        //ニックネーム
+        .sub-head-main-visual {
+            font-size: 130%;
+            position: absolute;
+            right: 3%;
+            bottom: 1.5rem;
+            color: #fff;
+            text-shadow: 2px 0 1px rgba(#000, .2);
+            @include sp {
+                font-size: 0.8rem;
+                bottom: 2%;
+            }
+        }
+    }
+}

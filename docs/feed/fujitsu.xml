@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>富士通WEB MART【法人】期間限定キャンペーン特集</title>
+    <link>http://www.fujitsu-webmart.com/pc/webmart/</link>
+    <description>富士通WEB MARTがお送りする、期間限定キャンペーン特集です。お得なサービスがきっと見つかります。</description>
+    <language>ja</language>
+
+    <item>
+        <title>【新聞広告掲載商品】期間限定キャンペーン 52,800円（税込）～！</title>
+        <link>http://www.fujitsu-webmart.com/pc/webmart/ui6004.jsp</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/ui5064/direct12.gif"/><br />WEB MARTダイレクトシリーズに新モデル登場！Windows®XP Professionalや無線LANなどお客様の用途に合わせたカスタマイズが可能です。]]></description>
+    </item>
+    <item>
+        <title>2009年夏モデル新製品モニター大募集！</title>
+        <link>http://www.fujitsu-webmart.com/jp/webmart/!ui1217</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/ui5064/custom_fair16.gif"/><br />2009年夏モデルがお買得！15％OFFクーポン（LOOX Mシリーズは5,000円OFF）をはじめ、お得な6大特典をご用意！最新モデルをお得に手に入れるチャンスです！]]></description>
+    </item>
+    <item>
+        <title>【旧モデル】アウトレット大特価中！！</title>
+        <link>http://www.fujitsu-webmart.com/pc/webmart/ui1253.jsp</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/ui5064/outlet07per.gif"/><br />未使用の旧モデルを、特別価格・安心のメーカー保証付きにてご提供いたします。2009年春モデルがお買い得！]]></description>
+    </item>
+    <item>
+        <title>アウトレット＆キャンセル品を大放出！</title>
+        <link>http://www.fujitsu-webmart.com/pc/uiCampaign?S=382</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/ui5064/outlet02.jpg"/><br />FMVパソコンの未使用旧モデル（アウトレット）、お客様の諸事情によりキャンセルとなった未使用最新モデル（キャンセル品）を大放出！≪台数限定≫！]]></description>
+    </item>
+    <item>
+        <title>クオリティオファー（Quality Offer）</title>
+        <link>http://www.fujitsu-webmart.com/pc/uiCampaign?S=136</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.fujitsu-webmart.com/image/ui5064/qo01.gif"/><br />キャンセルになったり、出荷準備中に梱包箱に微小なキズがついてしまった商品を特別価格にてご奉仕！メーカー1年保証付き。]]></description>
+    </item>
+
+    </channel>
+</rss>

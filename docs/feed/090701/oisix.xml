@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.demo.com</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>東毛酪農 ノンホモ低温殺菌牛乳</title>
+        <link>https://www.oisix.com/ShouhinShousai.00011951_0927.htm</link>
+        <description><![CDATA[<img border="0" width="72" height="72" src="https://oisix.hs.llnwd.net/e1/shopping/image/1951_140_1.jpg"/><br />
+        東毛酪農協の良質な生乳のみ使用。低温殺菌とノンホモジナイズで仕上げているので、「自然な牛乳」のおいしさが味わえます。  ]]></description>
+    </item>
+    <item>
+        <title>神山鶏 ムネ（クール）</title>
+        <link>https://www.oisix.com/ShouhinShousai.00019361_0927.htm</link>
+        <description><![CDATA[<img border="0" width="72" height="72" src="https://oisix.hs.llnwd.net/e1/shopping/image/9361_072_1.jpg"/><br />
+        一般ブロイラー特有の匂いを取り除くため、動物性再生飼料は一切使用していません。]]></description>
+    </item>
+    <item>
+        <title>たべるデンマークヨーグルト[特保]2P</title>
+        <link>https://www.oisix.com/ShouhinShousai.00014617_0927.htm</link>
+        <description><![CDATA[<img border="0" width="72" height="72" src="https://oisix.hs.llnwd.net/e1/shopping/image/4617_072_1.jpg"/><br />
+        福島県内の生乳とデンマークから空輸の菌を使用して生まれた、なめらかで食べやすいヨーグルト。「特定保健用食品」認定商品。]]></description>
+    </item>
+    <item>
+        <title>湯田フレッシュカスタードプリン3P</title>
+        <link>https://www.oisix.com/ShouhinShousai.00015097_0927.htm</link>
+        <description><![CDATA[<img border="0" width="72" height="72" src="https://oisix.hs.llnwd.net/e1/shopping/image/5097_072_1.jpg"/><br />
+        原材料は生乳、生クリーム、さくら卵、北海道産ビートグラニュー糖だけ。卵の力で固めた安心のおいしさです。]]></description>
+    </item>
+    <item>
+        <title>はちみつバター</title>
+        <link>https://www.oisix.com/ShouhinShousai.00019545_0927.htm</link>
+        <description><![CDATA[<img border="0" width="72" height="72" src="https://oisix.hs.llnwd.net/e1/shopping/image/9545_072_1.jpg"/><br />
+        はちみつとバターのみを丁寧に混ぜ合わせました。酸化防止剤なども不使用なので、安心です。]]></description>
+    </item>
+
+    </channel>
+</rss>

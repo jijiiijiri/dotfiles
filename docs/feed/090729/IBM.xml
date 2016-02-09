@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title> DB2キャラバン</title>
+        <link>http://www-06.ibm.com/software/jp/data/events/breakfree_caravan/</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www-06.ibm.com/software/jp/data/i/breakfree_caravan.jpg"/><br />
+        あなたの町にDB2キャラバンがやってくる！]]></description>
+    </item>
+    <item>
+        <title>Tコスト削減ならDB2</title>
+        <link>http://www-06.ibm.com/software/jp/data/breakfree/</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www-06.ibm.com/software/jp/data/breakfree/img/bn_a_man_with_papers.jpg"/><br />
+        DB2のストレージ圧縮や管理の自動化でコスト削減を！]]></description>
+    </item>
+    <item>
+        <title>DB2エバリュエーション・ガイドブック</title>
+        <link>http://www.ibm.com/developerworks/jp/data/products/db2/evaluation/</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www-06.ibm.com/software/jp/data/db2/v9/i/DB2_e_guide.gif"/><br />
+        本書は、DB2の最新版であるDB2 9.7を対象とした入門書です。　]]></description>
+    </item>
+    <item>
+        <title>TPCベンチマークで続々1位</title>
+        <link>http://www-06.ibm.com/jp/domino01/mkt/dminfo.nsf/doc/0040F632</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src=""/><br />
+        プレスリリース　DB2 V9.5の、素晴らしいTPCベンチマーク結果をご確認ください。]]></description>
+    </item>
+    </channel>
+</rss>

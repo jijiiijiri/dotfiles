@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>Inspiron 15</title>
+        <link><![CDATA[http://www1.jp.dell.com/jp/ja/home/laptops_great_deals/fs.aspx?refid=laptops_great_deals&s=dhs&cs=jpdhs1]]></link>
+        <description><![CDATA[<img border="0" src="http://i.dell.com/resize.aspx/inspnnb_1545_500_jp/149/100"/><br />
+        期間限定パッケージメール、ネットに最適な大人気ノートPC。]]></description>
+    </item>
+    <item>
+        <title>Inspiron Mini 10v</title>
+        <link><![CDATA[http://www1.jp.dell.com/jp/ja/home/mobile_laptop_deals/fs.aspx?refid=mobile_laptop_deals&s=dhs&cs=jpdhs1]]></link>
+        <description><![CDATA[<img border="0" src="http://i.dell.com/resize.aspx/inspnnb_mini_10v_500_jp/149/emobile_logo_jajp/100"/><br />
+        イーモバイル同時加入ベーシックパッケージ。]]></description>
+    </item>
+    <item>
+        <title>Inspiron 545s</title>
+        <link><![CDATA[http://www1.jp.dell.com/jp/ja/home/desktops_great_deals/fs.aspx?refid=desktops_great_deals&s=dhs&cs=jpdhs1]]></link>
+        <description><![CDATA[<img border="0" src="http://i.dell.com/resize.aspx/desktop-inspiron-slim-front-s1909wx-alternate-500/149/jp_xp_sentaku/100"/><br />
+        最新CPU搭載カラフルスリムタワー20インチモニタ付。]]></description>
+    </item>
+    <item>
+        <title>デル S2209W</title>
+        <link><![CDATA[http://www1.jp.dell.com/jp/ja/home/peripherals/monitors_all/ct.aspx?refid=monitors_all&s=dhs&cs=jpdhs1]]></link>
+        <description><![CDATA[<img border="0" src="http://i.dell.com/resize.aspx/monitors-s2209w-front-standard-ss-500/149"/><br />
+        21.5 インチワイドスクリーンフラットパネルモニタ]]></description>
+    </item>
+
+    </channel>
+</rss>

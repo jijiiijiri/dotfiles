@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>風呂あがりに一人で「ひゃっほー！！」となっちゃう</title>
+        <link>http://ameblo.jp/koinotakinobori-baka/entry-10277087460.html</link>
+        <description><![CDATA[<img border="0" src="http://www.kao.com/jp/kao_imgs/bubshower/bubshower_logo_l.jpg"/><br />
+        市原隼人さんからコメントいただきました！]]></description>
+    </item>
+    <item>
+        <title>ライムの香りが最高でしたぁ</title>
+        <link>http://ameblo.jp/mari-yaguchi/entry-10266715093.html</link>
+        <description><![CDATA[<img border="0" src="http://www.kao.com/jp/kao_imgs/bubshower/bubshower_logo_l.jpg"/><br />
+        矢口真里さんからコメントいただきました！]]></description>
+    </item>
+    <item>
+        <title>やみつきになる心地よさ</title>
+        <link>http://www.kao.co.jp/bubshower/sp2/voice/</link>
+        <description><![CDATA[<img border="0" src="http://www.kao.com/jp/kao_imgs/bubshower/bubshower_logo_l.jpg"/><br />
+        みなさまからコメントいただきました！]]></description>
+    </item>
+    <item>
+        <title>使い方がカンタン</title>
+        <link>http://www.kao.co.jp/bubshower/sp2/voice/</link>
+        <description><![CDATA[<img border="0" src="http://www.kao.com/jp/kao_imgs/bubshower/bubshower_logo_l.jpg"/><br />
+        みなさまからコメントいただきました！]]></description>
+    </item>
+
+    </channel>
+</rss>

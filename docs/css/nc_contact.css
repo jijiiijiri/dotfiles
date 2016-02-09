@@ -1,0 +1,163 @@
+@charset "UTF-8";
+@media screen and (min-width: 800px) {
+
+p{
+	margin: 0px;
+	padding: 10px;
+	letter-spacing: 0.1em;
+}
+
+#content1{
+	width: 100%;
+	padding: 20px 0px 0px 0px;
+	border-top: #cccccc 1px dotted;
+	position: relative;
+}
+
+.content_inner{
+	max-width:960px;/*変更*/
+	min-width:900px;
+	margin:0px auto 0px auto;
+}
+
+.content_inner h1{
+	font-size:1.4em;
+	text-align: center;
+	color: #424242;
+	font-weight: normal;
+	letter-spacing: 0.4em;
+}
+
+.content_inner h2{
+	font-size:1.4em;
+	text-align: center;
+	color: #424242;
+	font-weight: normal;
+	letter-spacing: 0.2em;
+}
+
+.content_inner p{
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.content_inner p span{
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.next_nav{
+	text-align: center;
+}
+
+.contactform{
+	width:600px;
+	margin:auto auto;
+	text-align:left;
+	margin-top:50px;
+	margin-bottom:20px;	
+}
+
+.contactform .btn{
+	font-size:1.5em;
+	padding:30px;
+}
+
+.actions{
+	text-align: center;
+}
+
+.contact_tel{
+	width:600px;
+	padding:5px;
+	margin:10px auto;
+	text-align:center;
+	font-size:0.7em;
+}
+
+.hubspotexplain{
+	font-size:0.6em;
+	background-color:#f5f5f5;
+	padding:10px;
+	width: 600px;
+	margin: auto auto;
+	margin-bottom: 80px;
+
+}
+
+.dlform .entry_table{
+	margin-bottom: 0;
+
+}
+}
+
+
+
+
+@media screen and (max-width: 800px) {
+
+#content1{
+	width: 100%;
+	padding: 0;
+	border-top: #cccccc 1px dotted;
+	position: relative;
+}
+
+.content_inner{
+	padding: 30px;
+}
+
+.content_inner h1{
+	width:100%;
+	font-size:1em;
+	text-align: center;
+	color: #424242;
+	font-weight: normal;
+}
+
+.content_inner h2{
+	font-size:1.4em;
+	text-align: center;
+	color: #424242;
+	font-weight: normal;
+	letter-spacing: 0.2em;
+}
+
+.content_inner p{
+	font-size: 0.7em;
+	text-align: center;
+}
+
+.content_inner p br{
+	display: none;
+}
+
+.contactform{
+	width:100%;
+	margin:auto auto;
+	text-align:center;
+	margin-top:50px;
+	margin-bottom:20px;	
+}
+
+.contactform .btn{
+	/*font-size:0.8em;*/
+	padding:15px;
+	margin-right: -20px;
+}
+
+.contact_tel{
+	font-size: 0.7em;
+	text-align: center;
+}
+
+.hubspotexplain{
+	font-size:0.5em;
+	background-color:#f5f5f5;
+	padding:10px;
+	margin: auto auto;
+  box-sizing:border-box;/*追加*/
+
+}
+
+}

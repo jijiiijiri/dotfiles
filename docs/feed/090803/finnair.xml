@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>自然と安らぎの国へ</title>
+        <link>http://www.finnair.com/finland/ja/</link>
+        <description><![CDATA[<img border="0" src="http://www.finnair.com/finland/images/finland_main.png"/><br />
+        フィンランドで過ごす静謐のひと時]]></description>
+    </item>
+    <item>
+        <title>ムーミンの故郷を訪ねる</title>
+        <link><![CDATA[http://www.finnair.com/finnaircom/wps/portal/finnair/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLD4138QXJmMV7x7v46EeaxQfHO3r7w4ScPdGEXOKdvdGEQqEaEUaFQvUhRFzj3UJQRYDWhYJEvONdjfR9PfJzU_WDshLjvQL0vfUD9AtyQ8EgotxREQBPTo4T/delta/base64xml/L3dJdyEvd0ZNQUFzQUMvNElVRS82X1RfOFZS?WCM_RenderingContext=%26locale%3dja_JP]]></link>
+        <description><![CDATA[<img border="0" src="http://www.finnair.com/finnaircom/wps/wcm/resources/image/468691900101b12e/Ay_Japan_moomin_index_02.gif"/><br />
+        実は生まれ故郷がフィンランドである事をご存じでしたか？]]></description>
+    </item>
+    <item>
+        <title>サンタクロースの故郷</title>
+        <link><![CDATA[http://www.finnair.com/finnaircom/wps/portal/finnair/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLD4138QXJmMV7x7v46EeaxQfHO3r7w4ScPdGEXOKdvdGEQqEaEUaFQvUhRFzj3UJQRYDWhYJEvONdjfR9PfJzU_WDshLjvQL0vfUD9AtyQ8EgotxREQBPTo4T/delta/base64xml/L3dJdyEvd0ZNQUFzQUMvNElVRS82X1RfOTA4?WCM_RenderingContext=%26locale%3dja_JP]]></link>
+        <description><![CDATA[<img border="0" src="http://www.finnair.com/finnaircom/wps/wcm/resources/image/4689964057b633d5/Ay_Santa_banner_ja_JP.jpg"/><br />
+        広大な森林と平原の中にある、トナカイの群れ。ここはサンタクロースの故郷、ラップランドです。]]></description>
+    </item>
+    <item>
+        <title>ヘルシンキへ行こう！</title>
+        <link><![CDATA[http://www.finnair.com/finnaircom/wps/portal/finnair/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLD4138QXJmMV7x7v46EeaxQfHO3r7w4ScPdGEXOKdvdGEQqEaEUaFQvUhRFzj3UJQRYDWhYJEvONdjfR9PfJzU_WDshLjvQL0vfUD9AtyQ8EgotxREQBPTo4T/delta/base64xml/L3dJdyEvd0ZNQUFzQUMvNElVRS82X1RfOTAx?WCM_RenderingContext=%26locale%3dja_JP]]></link>
+        <description><![CDATA[<img border="0" src="http://www.finnair.com/finnaircom/wps/wcm/resources/image/46861960778e6a23/Ay_Japan_helsinki_006_photo_02.jpg"/><br />
+        フィンランドの首都ヘルシンキは、美しい海岸線に囲まれたバルト海を代表する国際都市です。]]></description>
+    </item>
+
+    </channel>
+</rss>

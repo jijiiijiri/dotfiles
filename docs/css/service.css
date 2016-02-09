@@ -1,0 +1,101 @@
+h4 {
+	margin-bottom:10px;
+}
+.logo {
+	margin:20px 30px 20px 0;
+	text-align:center;
+}
+.detail {
+	margin:5px 10px;
+	text-align:center;
+	width:130px
+}
+#cs_box,#tk_box,#digitalice_box,#attribution_box,#trendMatch_box,#digitalconsulting_box,#iogous_box{
+	display: block;
+	height: 247px;
+	width: 690px;
+	-webkit-box-shadow: 0px 0px 4px white;
+	-moz-box-shadow: 0px 0px 4px #fff;
+	box-shadow: 0px 0px 4px white;
+	background-color: white;
+	margin: 10px 20px 10px 10px ;
+	padding: 0 10px;
+	font-size: 13px;
+	color: #444;
+	text-align: left;
+}
+#tk_box h4,#digitalice_box h4,#attribution_box h4,#trendMatch_box h4,#digitalconsulting_box h4,#iogous_box h4{margin: 5px 0;}
+#cs_box h3,#tk_box h3,#digitalice_box h3,#attribution_box h3,#trendMatch_box h3,#digitalconsulting_box h3,#iogous_box h3{ 
+	width:440px;
+	margin:10px 0;
+	font-size:20px;
+	font-weight:bold;
+}
+#cs_box {
+	height:60px;
+	border: 1px solid #eee;
+	/*background: #fff url(../images/service/tk_bg.png) no-repeat;*/
+}
+#cs_box h3 {
+	color:#444;
+	width:100px;
+	float:left;
+	margin:20px 0 0;
+	/*border-bottom: 1px solid #dfe0f2;*/
+}
+#cs_box h4{ 
+	margin: 18px 0;
+}
+#tk_box {
+	border: 1px solid #dfe0f2;
+	background: #fff url(../images/service/tk_bg.png) no-repeat;
+}
+#tk_box h3 {
+	color:#568dc9;
+	border-bottom: 1px solid #dfe0f2;
+}
+#attribution_box {
+	border: 1px solid #e7e9b7;
+	background: #fff url(../images/service/atr_bg.png) no-repeat;
+}
+#attribution_box h3 {
+	color:#b5bd0c;
+	border-bottom: 1px solid #e7e9b7;
+}
+#digitalice_box {
+	border: 1px solid #ccf0d8;
+	background: #fff url(../images/service/dg_bg.png) no-repeat;
+}
+#digitalice_box h3 {
+	color:#208d45;
+	border-bottom: 1px solid #ccf0d8;
+}
+#trendMatch_box {
+	border: 1px solid #efd5bb;
+	background: #fff url(../images/service/rss_bg.png) no-repeat;
+}
+#trendMatch_box h3 {
+	color:#ef7800;
+	border-bottom: 1px solid #efd5bb;
+}
+#digitalconsulting_box {
+	border: 1px solid #d4e7f9;
+	background: #fff url(../images/service/dc_bg.png) no-repeat;
+}
+#digitalconsulting_box h3 {
+	color:#3791ff;
+	border-bottom: 1px solid #d4e7f9;
+}
+
+#iogous_box {
+	border: 1px solid #f2dee9;
+	background: #fff url(../images/service/igs_bg.png) no-repeat;
+}
+#iogous_box h3 {
+	color:#d81982;
+	border-bottom: 1px solid #f2dee9;
+}
+
+
+
+

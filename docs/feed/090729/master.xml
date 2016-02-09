@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>sample</title>
+    <link>http://sample.com</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>トラベル・エンターテイメントに強い</title>
+        <link>http://www.mcnv.net/pleasure/</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.mcnv.net/pleasure/images/photo_01.jpg"/><br />
+        会員限定価格のご優待があります。]]></description>
+    </item>
+    <item>
+        <title>セキュリティのレベルが違う</title>
+        <link>http://www.mcnv.net/security/</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.mcnv.net/security/images/photo_01.jpg"/><br />
+        各種保険が整備されています。]]></description>
+    </item>
+    <item>
+        <title>魅せる大人のダンディズム</title>
+        <link>http://www.mcnv.net/magazine/</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.mcnv.net/magazine/common/images/hd_title.gif"/><br />
+        +D全面リニューアル！新しい価値観の追求を楽しむ、男のためのWEBマガジン！]]></description>
+    </item>
+    <item>
+        <title>キャンペーンのお知らせ</title>
+        <link>http://www.mastercard.com/jp/personal/jp/specialoffers/index.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://www.mastercard.com/common/images/mrk_mastercard.gif"/><br />
+        MasterCardで実施中のさまざまなキャンペーンをご紹介します。]]></description>
+    </item>
+
+    </channel>
+</rss>

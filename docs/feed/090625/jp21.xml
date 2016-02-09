@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>最新！FX人気ランキング</title>
+    <link>http://fx3.atseek.com/</link>
+    <description></description>
+    <language>ja</language>
+
+    <item>
+        <title>1位：フォーランドフォレックス</title>
+        <link>http://fx3.atseek.com/details/?com=foreland</link>
+        <description><![CDATA[<img border="0" width="85" height="50" src="http://fx3.atseek.com/images/ranking1st_crown.gif"/><br />
+        FX業界圧倒的No.1のスワップポイント！]]></description>
+    </item>
+    <item>
+        <title>2位：サイバーエージェントFX</title>
+        <link>http://fx3.atseek.com/details/?com=cyberagentfx</link>
+        <description><![CDATA[<img border="0" width="50" height="40" src="http://fx3.atseek.com/images/ranking2nd_crown.gif"/><br />
+        期間限定！預り資産の年利2％相当額をプレゼント]]></description>
+    </item>
+    <item>
+        <title>3位：FXオンラインジャパン</title>
+        <link>http://fx3.atseek.com/details/?com=fxonline</link>
+        <description><![CDATA[<img border="0" width="50" height="40" src="http://fx3.atseek.com/images/ranking3rd_crown.gif"/><br />
+        スプレッドが0.9銭～へ変更！]]></description>
+    </item>
+    <item>
+        <title>4位：上田ハーローFX</title>
+        <link>http://fx3.atseek.com/details/?com=uedaharlow</link>
+        <description><![CDATA[<img border="0" width="40" height="30" src="http://fx3.atseek.com/images/ranking4th_crown.gif"/><br />
+        インターバンク直結！万全のトレード環境。]]></description>
+    </item>
+    <item>
+        <title>5位：ひまわり証券</title>
+        <link>http://fx3.atseek.com/details/?com=himawari</link>
+        <description><![CDATA[<img border="0" width="40" height="30" src="http://fx3.atseek.com/images/ranking5th_crown.gif"/><br />
+        FX業界の先駆者★１０周年のひまわりFX]]></description>
+    </item>
+
+    </channel>
+</rss>

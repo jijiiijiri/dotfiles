@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>瞳への思いやりがいっぱいです</title>
+        <link>http://ameblo.jp/azusa-hanagaki/entry-10294158899.html</link>
+        <description><![CDATA[<img border="0" width="72" height="30" src="http://www.seed.co.jp/common/images/logo.gif"/><br />
+        花垣あずささん]]></description>
+    </item>
+    <item>
+        <title>国産ってそれだけでなんだか安心</title>
+        <link>http://ameblo.jp/0erika0/entry-10290892993.html</link>
+        <description><![CDATA[<img border="0" width="72" height="30" src="http://www.seed.co.jp/common/images/logo.gif"/><br />
+        高村英梨果さん]]></description>
+    </item>
+    <item>
+        <title>かるい装用感で、うるおいが持続・・・</title>
+        <link>http://ameblo.jp/ogarika/entry-10291366911.html</link>
+        <description><![CDATA[<img border="0" width="72" height="30" src="http://www.seed.co.jp/common/images/logo.gif"/><br />
+        小川りかこさん]]></description>
+    </item>
+    <item>
+        <title>きっちりＵＶカットしてくれます</title>
+        <link>http://ameblo.jp/izumi-blog/entry-10292860371.html</link>
+        <description><![CDATA[<img border="0" width="72" height="30" src="http://www.seed.co.jp/common/images/logo.gif"/><br />
+        木本泉さん]]></description>
+    </item>
+
+    </channel>
+</rss>

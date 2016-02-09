@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /data/
+Sitemap: http://www.fringe81.com/sitemap.xml

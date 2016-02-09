@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>JR東海ツアーズ　人気ランキング</title>
+    <link>http://www.jrtours.co.jp/</link>
+    <description></description>
+    <language>ja</language>
+
+    <item>
+        <title>日帰り１ｄａｙ京都（首都圏発）</title>
+        <link><![CDATA[http://www.jrtours.co.jp/domestic/tour/TourDetail.aspx?sc=1&cn=A09338&csk=91&rp=0001&snf=&sbf=&lqs=sc:1.cn:A09338]]></link>
+        <description><![CDATA[<img border="0" width="38" height="36" src="http://www.jrtours.co.jp/domestic/tour/images/prize01.gif"/><br />
+        新幹線とお食事などが楽しめる「セレクトクーポン」がセットになった日帰りプラン]]></description>
+    </item>
+    <item>
+        <title>お得だ値京都新・都ホテル </title>
+        <link><![CDATA[http://www.jrtours.co.jp/domestic/tour/TourDetail.aspx?sc=1&cn=A02740&csk=92&rp=0001&snf=&sbf=&lqs=sc:1.cn:A02740]]></link>
+        <description><![CDATA[<img border="0" width="38" height="36" src="http://www.jrtours.co.jp/domestic/tour/images/prize02.gif"/><br />
+        新幹線とホテルがセットになったお値打ち１泊プラン！]]></description>
+    </item>
+    <item>
+        <title>	旅の通販デスク限定大阪２泊 ホテルプラザオーサカ </title>
+        <link><![CDATA[http://www.jrtours.co.jp/domestic/tour/TourDetail.aspx?sc=1&cn=A17418&csk=93&rp=0001&snf=&sbf=&lqs=sc:1.cn:A17418]]></link>
+        <description><![CDATA[<img border="0" width="38" height="36" src="http://www.jrtours.co.jp/domestic/tour/images/prize03.gif"/><br />
+        新幹線とホテルがセットになったお値打ち２泊プラン！さらに！チケット送料無料！]]></description>
+    </item>
+    <item>
+        <title>旅の通販デスク限定大阪２泊　ＡＮＡクラウンプラザホテル大阪</title>
+        <link><![CDATA[http://www.jrtours.co.jp/domestic/tour/TourDetail.aspx?sc=1&cn=A17417&csk=93&rp=0001&snf=&sbf=&lqs=sc:1.cn:A17417]]></link>
+        <description><![CDATA[<img border="0" width="38" height="36" src="http://www.jrtours.co.jp/domestic/tour/images/prize04.gif"/><br />
+        新幹線とホテルがセットになったお値打ち２泊プラン！さらに！チケット送料無料！]]></description>
+    </item>
+    <item>
+        <title>	お得だ値京都　京都ロイヤルホテル＆スパ </title>
+        <link><![CDATA[http://www.jrtours.co.jp/domestic/tour/TourDetail.aspx?sc=1&cn=A02754&csk=92&rp=0001&snf=&sbf=&lqs=sc:1.cn:A02754]]></link>
+        <description><![CDATA[<img border="0" width="38" height="36" src="http://www.jrtours.co.jp/domestic/tour/images/prize05.gif"/><br />
+        新幹線とホテルがセットになったお値打ち１泊プラン！]]></description>
+    </item>
+
+    </channel>
+</rss>

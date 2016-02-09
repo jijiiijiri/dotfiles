@@ -1,0 +1,108 @@
+.container-go-top {
+	position: fixed;
+	right: 4rem;
+	bottom: 4rem;
+    z-index: 100;
+    #go-top {
+    	display: block;
+    	width: 32px;
+    	img{
+    		width: 100%;
+    	}
+    }
+}
+
+.footer-site {
+    width: 100%;
+    background-color: #2e3031;
+}
+
+.container-footer-site {
+    max-width: 1000px;
+    margin: 0 auto;
+    background: url(/common/img/img_footer_globe.png) no-repeat 66rem 2.5rem;
+    background-size: 31.4%;
+    padding-top: 2.3rem;
+    padding-bottom: 11rem;
+    padding-left: 6rem;
+    @include tab {
+        margin: 0 auto;
+        background-position: center;
+        padding-top: 2.3rem;
+        padding-bottom: 2rem;
+        padding-left: 2%;
+        background-position: 95% 2rem;
+    }
+    @include sp {
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+        background-position: center;
+        padding-top: 2.3rem;
+        padding-bottom: 2rem;
+        padding-left: 0;
+        background-size: 50%;
+    }
+    a:hover {
+        opacity: 0.7;
+    }
+}
+
+.block-footer-site {
+    float: left;
+    width: 110px;
+    margin-left: 1.1%;
+    margin-right: 1.1%;
+    @include tab-sp {
+        max-width: 31%;
+    }
+    li {
+        font-size: 1rem;
+        line-height: 2.1;
+        vertical-align: bottom;
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
+    }
+    .size-en {
+        font-size: 1.25rem;
+        line-height: 1.6;
+    }
+    .drop-cap-medium {
+        border-bottom: 1px solid rgba(#669d44, 0.5);
+        margin-bottom: 10px;
+        line-height: 1.4;
+        color: #669d44;
+        font-weight: 300;
+        font-size: 1.6rem;
+        @include tab-sp {
+            text-shadow: 1px 1px 0.5px #2e3031;
+        }
+        &:first-letter {
+            font-size: 2rem;
+        }
+        a {
+            color: #669d44;
+        }
+    }
+}
+
+.container-copyright {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 2.4rem;
+    a {
+        color: #669d44;
+        text-decoration: none;
+        margin-left: 5px;
+    }
+    .copyright {
+        font-size: 1rem;
+    }
+    .size-en {
+        font-size: 1.3rem;
+        letter-spacing: 0.1rem;
+        margin-right: 5px;
+    }
+}

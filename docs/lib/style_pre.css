@@ -1,0 +1,102 @@
+@charset "utf-8";
+@import url("reset.css");
+
+body {
+	*font-size:small; /* モダンブラウザ向け */
+	*font: x-small;  /* IE 6以下 */
+	font:12px/1.22 "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic", "ＭＳ Ｐゴシック", sans-serif;
+	line-height:1.0;
+	text-align:center;
+	background-color:#D91A83;
+	background-image:url("../images/Bg.gif");
+	/*background-position:left bottom;*/
+	background-repeat:repeat-x;
+
+/*
+	-moz-background-clip:border;
+	-webkit-background-clip:border-box;
+	-o-background-clip:border-box;
+	-ms-background-clip:border-box;
+*/
+	
+}
+
+
+#container_inner:not(\*|*) { 123.1% }/* Opera9 */
+/*
+body:first-of-type #container_inner { 
+	font-size:93%;
+}
+html:first-child #container_inner { 
+	font-size:85%;
+}
+*/
+
+
+
+
+.clearfix:after {
+clear:both;
+content:".";
+display:block;
+height:0;
+visibility:hidden;
+}
+.clearfix {
+display:inline-table;
+}
+* html .clearfix {
+height:1%;
+}
+.clearfix {
+display:block;
+}
+
+
+
+
+
+
+/*　ページ全体の幅、レイアウトをセンタリング　*/
+#container {
+
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:860px;
+	height:490px;
+	margin-top:-245px;
+	margin-left:-460px;
+
+/*
+	width:860px;
+	margin:10% auto 18% auto;
+	text-align:left;
+*/
+	}
+#container_inner {
+	padding:0px;
+	border-radius: 5px;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+	background-color:#FFF;
+	/*height:490px;*/
+}
+
+.main {
+	text-align:center;
+	padding:0px;
+}
+
+.copy {
+	text-align:center;
+	font-size:85%;
+}
+
+.copy img {
+	vertical-align:middle;
+}
+
+#logo p {
+	padding:160px 0px;
+}

@@ -1,0 +1,15 @@
+#benefit {
+    .container-main-visual-mod {
+	    span {
+	        width: 55rem;
+	        @include tab {
+	            width: 31rem;
+	        }
+	    }
+        .head-main-visual {
+            @include sp {
+                width: 20rem;
+            }
+        }
+    }
+}

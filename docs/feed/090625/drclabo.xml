@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>国産BBクリーム　ドクターシーラボBBシリーズ</title>
+    <link>http://www.ci-labo.com/b-labo/main.html</link>
+    <description></description>
+    <language>ja</language>
+
+    <item>
+        <title>BBパーフェクトクリーム</title>
+        <link>http://www.ci-labo.com/b-labo/product_cream.html</link>
+        <description><![CDATA[<img border="0" width="175" height="118" src="http://www.ci-labo.com/b-labo/common/images/other_item_01.jpg"/><br />
+        ファンデーションひとつに、肌の保護や機能改善など、できるだけ多くの機能を持たせることで、塗布する際の肌への負担を最小限に。]]></description>
+    </item>
+    <item>
+        <title>BBミネラルパウダー</title>
+        <link>http://www.ci-labo.com/b-labo/product_powder.html</link>
+        <description><![CDATA[<img border="0" width="175" height="119" src="http://www.ci-labo.com/b-labo/common/images/other_item_02.jpg"/><br />
+        BBミネラルパウダーは、ドクターズコスメだからこそできるスキンケア感覚のフェイスパウダー。]]></description>
+    </item>
+    <item>
+        <title>シーラボ メイクブラシ</title>
+        <link>http://www.ci-labo.com/b-labo/product_powder.html#powder</link>
+        <description><![CDATA[<img border="0" width="175" height="119" src="http://www.ci-labo.com/b-labo/common/images/other_item_03.jpg"/><br />
+        なめらかな肌触りと粉含みの良さが自慢。]]></description>
+    </item>
+    <item>
+        <title>BBパーフェクトファンデーションコンパクトケース 　［専用ケース］</title>
+        <link>http://www.ci-labo.com/b-labo/product_foundation.html#case</link>
+        <description><![CDATA[<img border="0" width="175" height="119" src="http://www.ci-labo.com/b-labo/common/images/other_item_05.jpg"/><br />
+        手の平に乗るくらいの可愛いコンパクトは、持ち運びにも便利です。]]></description>
+    </item>
+    <item>
+        <title>BBパーフェクトファンデーション </title>
+        <link>http://www.ci-labo.com/b-labo/product_foundation.html</link>
+        <description><![CDATA[<img border="0" width="175" height="119" src="http://www.ci-labo.com/b-labo/common/images/other_item_04.jpg"/><br />
+        ふわっとした軽いつけ心地の、BBパーフェクトクリーム専用ファンデーションが登場。]]></description>
+    </item>
+
+    </channel>
+</rss>

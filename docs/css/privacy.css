@@ -1,0 +1,57 @@
+.pp_wrapper {
+	margin: 20px 0 0 20px;
+}.ppol {
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+.ppli {
+	padding-bottom: 5px;
+}
+.ppliinner {
+	margin-top: 10px;
+	margin-left: 30px;
+	margin-bottom: 4px;
+}
+.right_text {
+	text-align: right;
+	margin-right: 30px;
+}
+
+.pp_wrapper div h2{font-size:18px;
+padding:0px;
+border-bottom: 3px #dfdfdf solid;
+padding: 3px;
+}
+
+a a:link{
+	padding:0px;
+	color:#ccc;
+}
+/*‚±‚±‚©‚ç*/
+#submit2 {
+	display:block;
+	width: 212px;
+	height: 36px;
+	padding:0;
+	border:0;
+	background: url(../images/common/btn_optout.png) 0 0 no-repeat ;
+	text-indent:-9898px;
+	font-size: 0px;
+	line-height: 0px;
+	cursor:pointer;
+	margin-top:10px;
+}
+#submit2:hover,
+#submit2:focus {
+	background: url(../images/common/btn_optout.png) 0 -36px no-repeat ;
+}
+/*‚±‚±‚Ü‚Å*/
+
+div.leftinner_inner div {
+	color:#444;
+}
+
+div.leftinner_inner {
+	width:733px;
+}

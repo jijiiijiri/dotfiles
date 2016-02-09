@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>転職・求人情報サイトのマイナビ転職</title>
+    <link>http://tenshoku.mynavi.jp/</link>
+    <description></description>
+    <language>ja</language>
+
+    <item>
+        <title>株式会社NTTデータ　|　システムエンジニア</title>
+        <link><![CDATA[http://tenshoku.mynavi.jp/jobset/index.cfm?fuseaction=mrjt_NewJobinfo_form&client_id=94698&plan_id=1&contract_id=5&job_seq_no=1&ty=0&rm=0]]></link>
+        <description><![CDATA[<img border="0" width="240" height="180" src="http://tenshoku.mynavi.jp/job_img/main/94698/64436790-D16A-BFEC-0388B1AAD03E7028.jpg"/><br />
+        多様な領域・規模の開発を手掛ける日本最大のシステムインテグレーター・NTTデータで“やりたいこと”を実現してください。 ]]></description>
+    </item>
+    <item>
+        <title>東京都職員　|　【キャリア活用】 システム系</title>
+        <link><![CDATA[http://tenshoku.mynavi.jp/jobset/index.cfm?fuseaction=mrjt_Mesinfo_form&client_id=92430&plan_id=1&contract_id=11&job_seq_no=3&ty=0&rm=0]]></link>
+        <description><![CDATA[<img border="0" width="246" height="233" src="http://tenshoku.mynavi.jp/job_img/main/92430/80FC2EB2-C00B-53FE-BBCED953C156B24C.jpg"/><br />
+        「東京都職員」に対して、どんなイメージをお持ちですか。本当の姿と大きなやりがいをぜひ知ってください。]]></description>
+    </item>
+    <item>
+        <title>株式会社コナミデジタルエンタテインメント　|　【制作系】 プログラマー</title>
+        <link><![CDATA[http://tenshoku.mynavi.jp/jobset/index.cfm?fuseaction=mrjt_NewJobinfo_form&client_id=55321&plan_id=2&contract_id=14&job_seq_no=1&ty=0&rm=0]]></link>
+        <description><![CDATA[<img border="0" width="240" height="300" src="http://tenshoku.mynavi.jp/job_img/main/55321/65F390D4-DC0D-6315-A90EB3E6F6E6289C.jpg"/><br />
+        よりクオリティの高い表現を、世界に。コナミの制作をリードする技術スペシャリストを募集！]]></description>
+    </item>
+    <item>
+        <title>日本ヒューレット・パッカード 株式会社　|　フィールドサポートエンジニア </title>
+        <link><![CDATA[http://tenshoku.mynavi.jp/jobset/index.cfm?fuseaction=mrjt_NewJobinfo_form&client_id=42988&plan_id=2&contract_id=13&job_seq_no=1&ty=0]]></link>
+        <description><![CDATA[<img border="0" width="240" height="300" src="http://tenshoku.mynavi.jp/job_img/main/42988/84649305-CA4F-9CDA-2F747F974B0F08D2.jpg"/><br />
+        ※未経験者・第2新卒者歓迎！IT好き、メカ好きな若手へ。秋に向けてポテンシャル層の積極採用を実施します！]]></description>
+    </item>
+    <item>
+        <title>株式会社ワークスアプリケーションズ　|　問題解決能力発掘プログラム</title>
+        <link><![CDATA[http://tenshoku.mynavi.jp/jobset/index.cfm?fuseaction=mrjt_NewJobinfo_form&client_id=6764&plan_id=2&contract_id=14&job_seq_no=1&ty=0]]></link>
+        <description><![CDATA[<img border="0" width="240" height="300" src="http://tenshoku.mynavi.jp/job_img/main/6764/53651BED-A5D7-3283-A7119CC0F2D77108.jpg"/><br />
+        勉強で一番だったあなたは、仕事でも一番をとれるか？]]></description>
+    </item>
+
+    </channel>
+</rss>

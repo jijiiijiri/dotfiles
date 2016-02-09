@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>No.1夏祭り</title>
+        <link>http://www.trendmicro.co.jp/VB2009-NATSU/</link>
+        <description><![CDATA[<img border="0" src="http://jp.trendmicro.com/images/common/LogoTrendMicro_3d.gif"/><br />
+        毎日5名様に特選グルメが当たる！]]></description>
+    </item>
+    <item>
+        <title>アフィリエイトプログラム</title>
+        <link>http://jp.trendmicro.com/jp/products/personal/vb2009/affiliate/</link>
+        <description><![CDATA[<img border="0" src="http://jp.trendmicro.com/images/common/LogoTrendMicro_3d.gif"/><br />
+        ただ今キャンペーン期間中につき12％→15％に報酬UP!]]></description>
+    </item>
+    <item>
+        <title>店長ブログはこちら</title>
+        <link>http://www.vb-blog.jp/?WT.ac=JP_TMOS_Top-Blog</link>
+        <description><![CDATA[<img border="0" src="http://jp.trendmicro.com/images/common/LogoTrendMicro_3d.gif"/><br />
+        トレンドマイクロの店長ブログです。]]></description>
+    </item>
+    <item>
+        <title>キャンペーン情報！</title>
+        <link>http://www.vb-blog.jp/cat4/49801001/</link>
+        <description><![CDATA[<img border="0" src="http://jp.trendmicro.com/images/common/LogoTrendMicro_3d.gif"/><br />
+        4,980円相当☆無料体験版の利用で100人に1人ウイルスバスターが当たっちゃう！]]></description>
+    </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>Home Premium</title>
+        <link><![CDATA[http://www.microsoftstore.jp/Form/Product/ProductDetail.aspx?shop=0&cat=100002&swrd=&pid=WIN0000033]]></link>
+        <description><![CDATA[<img border="0" src="http://ecx.images-amazon.com/images/I/41CBPka%2B%2BYL._SL160_AA115_.jpg"/><br />
+        PC でのエンターテイメントを最大限に楽しめます]]></description>
+    </item>
+    <item>
+        <title>Professional</title>
+        <link><![CDATA[http://www.microsoftstore.jp/Form/Product/ProductDetail.aspx?shop=0&cat=100002&swrd=&pid=WIN0000034]]></link>
+        <description><![CDATA[<img border="0" src="http://ecx.images-amazon.com/images/I/41zv82vTOxL._SL160_AA115_.jpg"/><br />
+        仕事もプライベートも必要なものが全てあります]]></description>
+    </item>
+    <item>
+        <title>Ultimate</title>
+        <link><![CDATA[http://www.microsoftstore.jp/Form/Product/ProductDetail.aspx?shop=0&cat=100002&swrd=&pid=WIN0000032]]></link>
+        <description><![CDATA[<img border="0" src="http://ecx.images-amazon.com/images/I/41lnUagejdL._SL160_AA115_.jpg"/><br />
+        すべての機能をお望みの方が対象です。]]></description>
+    </item>
+    <item>
+        <title>マイクロソフトストア</title>
+        <link><![CDATA[http://www.microsoftstore.jp/?WT.mc_id=mccannsem_goog_brand_MSFTCombo&WT.src]]></link>
+        <description><![CDATA[<img border="0" src="http://media.microsoftstore.jp/Common/Images/logo.png"/><br />
+        マイクロソフトの最新のプロダクトはこちらから。]]></description>
+    </item>
+
+    </channel>
+</rss>

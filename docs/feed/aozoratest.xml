@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>一応タイトルを入力。</title>
+        <link>http://www.aozorabank.co.jp/</link>
+        <description><![CDATA[<img border="0" src="http://www.rssad.jp/feed/img/aozoranumber.gif"/><br />]]></description>
+    </item>
+    </channel>
+</rss>

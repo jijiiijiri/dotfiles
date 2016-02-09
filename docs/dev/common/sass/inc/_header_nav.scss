@@ -1,0 +1,234 @@
+// ヘッダー
+.header-site {
+    position: fixed;
+    z-index: 10;
+    top:0;
+    width: 100%;
+    height: 3.9rem;
+    background-color: rgba(#3a3d3e, 0.9);
+    border-bottom: 1px solid #669d44;
+}
+
+.container-header-site {
+    max-width: 1000px;
+    height: 3.9rem;
+    margin: 0 auto;
+    position: relative;
+    @include tab-sp {
+        width: 100%;
+    }
+}
+
+.header-site-logo {
+    padding-top: 0.9rem;
+    padding-left: 0.3rem;
+    margin-bottom: 0.8rem;
+    width: 30%;
+    cursor: none;
+    pointer-events: none;
+    img {
+        margin-left: 2%;
+        height: 2.3rem;
+    }
+}
+
+//ナビゲーション
+
+//ナビゲーション開閉ボタン
+#nav-site-btn {
+    display: none;
+    @include tab-sp {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 3.9rem;
+        height: 3.9rem;
+        text-align: left;
+        text-indent: -9999px;
+        background-color: rgba(#669d44, 0.9);
+        &:before {
+            position: absolute;
+            border: 2px solid #fff;
+            top: 35%;
+            left: 25%;
+            right: 25%;
+            content: '';
+        }
+        &:after {
+            position: absolute;
+            border: 2px solid #fff;
+            top: 35%;
+            left: 25%;
+            right: 25%;
+            content: '';
+            top: 60%;
+        }
+    }
+}
+
+#nav-site {
+    position: absolute;
+    top: 0;
+    right: 1rem;
+    @include tab-sp {
+        position: relative;
+        right: auto;
+    }
+}
+
+.nav-first-layer {
+    width: 100%;
+    @include tab-sp {
+        display: none;
+        position: relative;
+    }
+    //第一階層
+    > li {
+        float: left;
+        margin-left: 1.2rem;
+        line-height: 2.5;
+        height: 3.9rem;
+        @include tab-sp {
+            float: none;
+            width: 100%;
+            height: auto;
+            margin-left: 0;
+            background-color: rgba(#000, 0.9);
+        }
+    }
+    .txt-slash {
+        height: 100%;
+        font-size: 1.6rem;
+        color: #669d44;
+        text-align: center;
+        @include tab-sp {
+            display: none;
+        }
+    }
+}
+
+.nav-item-first-layer {
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    @include tab-sp {
+        border-bottom: 1px solid rgba(#fff, 0.1);
+        position: relative;
+    }
+    &:hover {
+        color: #669d44;
+        @include tab-sp {
+            color: #fff;
+        }
+    }
+    span {
+        @include tab-sp {
+            position: relative;
+            top: 2px;
+        }
+    }
+    &.btn-recruit {
+        &:hover {
+            color: #fff;
+            span {
+                background-color: rgba(#517d36, .7);
+                @include tab-sp{
+                    background: none;
+                }
+            }
+        }
+        span{
+            background-color: #517d36;
+            padding: 0.3rem 1.1rem 0.2rem;
+            margin-left: 1rem;
+            @include tab-sp {
+                background: none;
+                margin-left: 0;
+            }
+        }
+
+    }
+    .nav-icn-active {
+        @include tab-sp {
+          display:block;
+          position:absolute;
+          top: 2rem;
+          right: 2rem;
+          //overflow:hidden;
+          height:1rem;
+          width:1rem;
+        }
+        &:after {
+          @include tab-sp {
+          position:absolute;
+          top: 0;
+          right: 0.8rem;
+          content:'';
+          height:0.6rem;
+          width:0.6rem;
+          display:block;
+          border:1px solid #fdfdfd;
+          border-left-width:0;
+          border-bottom-width:0;
+          transform:rotate(-45deg);
+          transition: transform 0.2s ease-out;
+          }
+        }
+        &.active:after {
+            @include tab-sp {
+                margin-top: -0.4rem;
+                transform: translate(0, 50%);
+                transform: rotate(135deg);
+                transition: transform 0.2s ease-out;
+            }
+        }
+    }
+}
+
+.nav-second-layer {
+    display: none;
+    opacity: 0;
+    clear: both;
+    font-size: 1.2rem;
+    color: #000;
+    position: absolute;
+    top: 4.4rem;
+    @include tab-sp {
+        opacity: 1;
+        position: static;
+        text-align: center;
+        background-color: rgba(#3a3d3e, 0.8);
+    }
+    //第二階層
+    > li {
+        background-color: rgba(#3a3d3e, 0.9);
+        width: 16rem;
+        margin-left: -1.2rem;
+        @include tab-sp {
+            width: 100%;
+            margin-left: 0;
+        }
+        &:not(:last-child) {
+            border-bottom: 1px solid rgba(#fff, 0.1);
+        }
+    }
+    .size-en {
+        font-size: 1.4rem;
+    }
+    a {
+        line-height: 1;
+        padding-top: 1rem;
+        padding-bottom: 0.8rem;
+        padding-left: 1rem;
+        &:hover {
+            background-color: rgba(#669d44, 0.9);
+            @include tab-sp {
+                background: none;
+            }
+        }
+    }
+}

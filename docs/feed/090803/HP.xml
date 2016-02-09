@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>HP Officejet Pro 8000</title>
+        <link>http://h50146.www5.hp.com/products/printers/inkjet/single/ojp_8000/index.html</link>
+        <description><![CDATA[<img border="0" src="http://h50146.www5.hp.com/products/printers/inkjet/single/ojp_8000/images/product_8000.jpg"/><br />
+        超大容量の4色独立インクカートリッジ採用で、業界トップクラスの低ランニングコストを実現しました。]]></description>
+    </item>
+    <item>
+        <title>HP Photosmart Ｄ5460</title>
+        <link>http://h50146.www5.hp.com/products/printers/inkjet/single/ps_d5460/index.html</link>
+        <description><![CDATA[<img border="0" width="250" height="150" src="http://h50146.www5.hp.com/products/printers/inkjet/single/ps_d5460/images/5460_zoom_1.jpg"/><br />
+        DVD/CDレーベル印刷に対応だから、オリジナルDVD/CD作成で楽しく]]></description>
+    </item>
+    <item>
+        <title>HP Officejet Pro K8600dn</title>
+        <link>http://h50146.www5.hp.com/products/printers/inkjet/single/ojp_k8600dn/index.html</link>
+        <description><![CDATA[<img border="0" width="250" height="124" src="http://h50146.www5.hp.com/products/printers/inkjet/single/ojp_k8600dn/images/G7617037092007.jpg"/><br />
+        超低ランニングコスト＆自動両面対応のハイスペックA３プリンタ]]></description>
+    </item>
+    <item>
+        <title>HP Officejet H470</title>
+        <link>http://h50146.www5.hp.com/products/printers/inkjet/single/oj_h470/index.html</link>
+        <description><![CDATA[<img border="0" width="98" height="69" src="http://h50146.www5.hp.com/products/printers/inkjet/single/oj_h470/images/01.jpg"/><br />
+        高速&大容量インクのコンパクト・ビジネスモバイルプリンター]]></description>
+    </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>CommandCentral Storage</title>
+        <link>http://www.symantec.com/ja/jp/business/commandcentral-storage</link>
+        <description><![CDATA[<img border="0" src="https://jp-businessstore.symantec.com/qq2/symantec/cmn/h1_logo.gif"/><br />
+        Veritas CommandCentral Storage 5.0 は、トップクラスのストレージリソース管理ソリューションです。]]></description>
+    </item>
+    <item>
+        <title>Storage Foundation</title>
+        <link>http://www.symantec.com/ja/jp/business/storage-foundation</link>
+        <description><![CDATA[<img border="0" src="https://jp-businessstore.symantec.com/qq2/symantec/cmn/h1_logo.gif"/><br />
+        業界トップの Veritas Volume Manager と Veritas File System をベースとする統合ツールの標準セットを提供。]]></description>
+    </item>
+    <item>
+        <title>NetBackup PureDisk</title>
+        <link>http://www.symantec.com/ja/jp/business/netbackup-puredisk</link>
+        <description><![CDATA[<img border="0" src="https://jp-businessstore.symantec.com/qq2/symantec/cmn/h1_logo.gif"/><br />
+        データセンター、リモートオフィス、仮想環境に、効率的で、ストレージ効率の良いデータ保護を提供します。 ]]></description>
+    </item>
+    <item>
+        <title>Enterprise Vault</title>
+        <link>http://www.symantec.com/ja/jp/business/enterprise-vault</link>
+        <description><![CDATA[<img border="0" src="https://jp-businessstore.symantec.com/qq2/symantec/cmn/h1_logo.gif"/><br />
+        ユーザーは、組織の非構造化データを保存、管理、検出できるようになります。]]></description>
+    </item>
+
+    </channel>
+</rss>

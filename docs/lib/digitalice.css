@@ -1,0 +1,185 @@
+
+
+.maincontents_wrapper ol, .maincontents_wrapper ul, .maincontents_wrapper dl, .maincontents_wrapper div{zoom:1;}
+
+.maincontents_wrapper ol:after, .maincontents_wrapper ul:after, .maincontents_wrapper dl:after, .maincontents_wrapper div:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+.maincontents {
+	background-image:url(../images/common/main_top_1column.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+	float:left;
+	width:826px;
+}
+.maincontents_wrapper {
+	background-image:url(../images/common/main_bg_1column.gif);
+}
+
+.maincontents_frame {
+	padding-top: 22px;
+	padding-left: 19px;
+	padding-right: 19px;
+	line-height:1.4;
+	letter-spacing: 1px;
+	
+}
+
+.maincontents_frame h1 {
+	text-align:center;
+	} 
+.maincontents_frame h2 {
+	font-size:24px;
+	letter-spacing: 1px;
+	color:#555555;
+	border-bottom: 2px #24a651 solid;
+	padding-left:5px;
+
+}
+.maincontents_frame h3 {
+	font-size:16px;
+	letter-spacing: 1px;
+	color:#444;
+	line-height:1.4;
+
+}
+
+.maincontents_frame p {
+	font-size:14px;
+	letter-spacing: 1px;
+	line-height:1.4;
+	color:#444;
+}
+
+.pL {
+	font-size:16px;
+	letter-spacing: 1px;
+	line-height:1.4;
+	color:#444;
+}
+
+.maincontents_frame a {
+	text-decoration:none;
+}
+.maincontents_frame a:hover{  
+    filter:alpha(opacity=80);  /* IE7以下用 */
+    -ms-filter: "alpha(opacity=80)"; /* IE8用 */
+    -moz-opacity:0.8; /* Firefox 1.5未満, Netscape用 */
+    -khtml-opacity: 0.8;  /* Safari 1.x, 他khtmlに対応したブラウザ用  */
+    opacity: 0.8; /* Firefox 1.5以上, Opera, Safari用 */
+    }  
+	
+.digitalice_hover {
+	float:right;
+	padding-right:5px;
+}
+
+div.digitalice_hover a {
+	text-decoration:none;
+}
+div.digitalice_hover a:hover {
+    filter:alpha(opacity=80);  /* IE7以下用 */
+    -ms-filter: "alpha(opacity=80)"; /* IE8用 */
+    -moz-opacity:0.8; /* Firefox 1.5未満, Netscape用 */
+    -khtml-opacity: 0.8;  /* Safari 1.x, 他khtmlに対応したブラウザ用  */
+    opacity: 0.8; /* Firefox 1.5以上, Opera, Safari用 */
+} 
+.digitalice_hover2 {
+	float:right;
+	padding-right:5px;
+}
+
+.digitalice_hover2 a:hover {
+    filter:alpha(opacity=80);  /* IE7以下用 */
+    -ms-filter: "alpha(opacity=80)"; /* IE8用 */
+    -moz-opacity:0.8; /* Firefox 1.5未満, Netscape用 */
+    -khtml-opacity: 0.8;  /* Safari 1.x, 他khtmlに対応したブラウザ用  */
+    opacity: 0.8; /* Firefox 1.5以上, Opera, Safari用 */
+}  
+
+.naonao {
+	float:right;
+	padding-right:5px;
+}
+
+.naonao a:hover {
+    filter:alpha(opacity=80);  /* IE7以下用 */
+    -ms-filter: "alpha(opacity=80)"; /* IE8用 */
+    -moz-opacity:0.8; /* Firefox 1.5未満, Netscape用 */
+    -khtml-opacity: 0.8;  /* Safari 1.x, 他khtmlに対応したブラウザ用  */
+    opacity: 0.8; /* Firefox 1.5以上, Opera, Safari用 */
+}   
+
+
+.maincontents_frame h1, h2, h3, p, h3, dl, dt, dd{
+font-family: Arial, Helvetica, sans-serif, "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+}
+
+.digitalice_header {
+	width:100%;
+	margin:auto;
+	text-align:center;
+	padding:5px 0 10px 0;
+}
+
+.digitalice_towa {
+	background-image:url(../images/service/digitalice/digitaliceとは.png);
+	background-repeat:no-repeat;
+	width:788px;
+	height:305px;
+	padding-bottom:30px;
+	margin:auto;
+}
+
+.digitalice_merit{
+	padding:0;
+	margin:120px auto 10px;
+}
+
+.digitalice_merit h2{
+	text-align:left;
+	}
+	
+.digitalice_merit h3 {
+	background-image:url(../images/service/iogous_digitalice/iogous_digitalice_icon_orange.gif);
+	background-repeat:no-repeat;
+	width:100%;
+	font-size:16px;
+	letter-spacing: 1px;
+	color:#ff6100;
+	line-height:1.2;
+	padding:0 0 0 20px;
+	margin:20px 0 0 0;
+	
+	} 
+.digitalice_merit p {margin:0;
+padding:5px 0 0 0;
+}
+
+.digitalice_merit a {
+	color:#ff6100;
+}
+.digitalice_merit a:hover {
+	color:#111;
+}
+.digitalice_arrow {
+	margin:auto;
+	padding:0;
+	text-align:center;
+	}
+	
+.digitalice_arrow  img{
+	padding:10px;}
+	
+.digitalice_merit01 {
+	padding:0 20px 50px 20px ;
+	margin:0;
+}
+
+#PAGETOP {
+	padding:0 20px 0px 0px ;
+	margin:0;text-align:right;}

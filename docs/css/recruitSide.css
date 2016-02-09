@@ -1,0 +1,70 @@
+@charset "UTF-8";
+@media screen and (min-width: 800px) {
+.side-container{
+  float: left;
+  font-size: 0.65em;
+  padding-top: 20px;
+  margin-left:10px;
+  max-width:20%;
+  min-width:20%;
+  border-right: #dddddd 1px solid;
+}
+
+.side-container ul{
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+
+.side-container ul > li > ul.rectop_area{
+  border-left: solid 4px #3a3d3e;
+  border-bottom: solid 1px #ccc;
+  padding:10px 0;
+}
+
+.side-container ul > li > ul.info_area{
+  border-left: solid 4px #3a3d3e;
+  border-bottom: none;
+  padding:10px 0;
+}
+
+.side-container ul > li > ul.career_area,
+.side-container ul > li > ul.newgrads_area{
+  border-left: solid 4px #669d44;
+  border-bottom: solid 1px #ccc;
+  padding:10px 0;
+}
+
+.side-container ul.rectop_area > li,
+.side-container ul.info_area > li,
+.side-container ul.career_area > li,
+.side-container ul.newgrads_area > li{
+  padding:4px 11px;
+}
+
+.side-container ul.rectop_area > li a,
+.side-container ul.info_area > li > a,
+.side-container ul.career_area > li > a,
+.side-container ul.newgrads_area > li > a{
+  color:#424242;
+  text-decoration:none;
+  display:block;
+}
+
+.side-container ul.rectop_area > li > a:hover,
+.side-container ul.info_area > li > a:hover,
+.side-container ul.career_area > li > a:hover,
+.side-container ul.newgrads_area > li > a:hover{
+  color:#5b9031;
+}
+
+.side-container ul > li a.act{
+  color:#5b9031;
+}
+}
+
+@media screen and (max-width: 800px) {
+#sidebar{
+  display:none;
+}
+}

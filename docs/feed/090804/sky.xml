@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>愛媛県四国中央市様</title>
+        <link>http://www.skyseaclientview.net/case/case013.html</link>
+        <description><![CDATA[<img border="0" src="http://www.skyseaclientview.net/case/image/case13_pho_001.jpg"/><br />
+        「情報セキュリティ対策」と「コスト削減」を実現]]></description>
+    </item>
+    <item>
+        <title>千葉トヨペット株式会社様</title>
+        <link>http://www.skyseaclientview.net/case/case009.html</link>
+        <description><![CDATA[<img border="0" src="http://www.skyseaclientview.net/case/image/case09_pho_002.jpg"/><br />
+        PC利用状況を把握し、社内のガイドライン作成に活用]]></description>
+    </item>
+    <item>
+        <title>名古屋掖済会病院様</title>
+        <link>http://www.skyseaclientview.net/case/case011.html</link>
+        <description><![CDATA[<img border="0" src="http://www.skyseaclientview.net/case/image/case11_pho_004.jpg"/><br />
+        正しい運用管理で健康なコンピュータを維持]]></description>
+    </item>
+    <item>
+        <title>学校法人河合塾様</title>
+        <link>http://www.skyseaclientview.net/case/case007.html</link>
+        <description><![CDATA[<img border="0" src="http://www.skyseaclientview.net/case/image/case07_pho_002.jpg"/><br />
+        ログ監視の効率化と個人情報保護のために]]></description>
+    </item>
+
+    </channel>
+</rss>

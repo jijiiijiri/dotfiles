@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<rss version="0.91">
+    <channel>
+    <title>Nissen夏のオトクな特集情報</title> 
+    <link>http://www.nissen.co.jp/event_list/index.htm?2nd=ntop_2_spe01</link> 
+    <description> トレンドアイテムのコーディネート提案や、季節のオススメ、お買得アイテムの特集をご紹介!</description> 
+    <language>ja</language> 
+
+    <item>
+        <title>夏のマストアイテム大集合</title> 
+        <link>http://www.nissen.co.jp/cate008/event/PL09SU125_001_summer/index.htm?eve=nba01</link> 
+        <description><![CDATA[ <img border="0" width="205" height="90" src="http://www.nissen.co.jp/event_list/images/090529/cate001_090423.jpg" /><br />
+        夏のマストアイテム大集合 夏を思いっきり楽しむための必須アイテムがいっぱい★今のうちに揃えて、最高の夏にそなえよう！]]></description>
+    </item>
+    <item>
+        <title>トラベルキャリーバッグ全20色 ￥4,980～</title> 
+        <link>http://www.nissen.co.jp/cate017/event/PL08WI055_001_carrybag/index.htm?eve=nba01</link> 
+        <description><![CDATA[ <img border="0" width="205" height="90" src="http://www.nissen.co.jp/event_list/images/090529/travel.jpg" /><br />
+        旅行にも！ビジネスにも！トラベルキャリーバッグ]]></description>
+    </item>
+    <item>
+        <title>SOFA特集　￥3,990～</title> 
+        <link>http://www.nissen.co.jp/cate009/event/HF09SU201_001_sofa/index.htm?eve=nba01</link> 
+        <description><![CDATA[ <img border="0" width="205" height="90" src="http://www.nissen.co.jp/event_list/images/090529/sofa.jpg" /><br />
+        わたしにぴったりのソファーをみつける！SOFA特集♪]]></description>
+    </item>
+    <item>
+        <title>Tシャツコレクション127 ￥990(税込)～</title> 
+        <link>http://www.nissen.co.jp/cate001/event/PL09SU101_001_tshirt/index.asp?eve=nba02</link> 
+        <description><![CDATA[ <img border="0" width="205" height="90" src="http://www.nissen.co.jp/event_list/images/090401/pl09su101.jpg" /><br />
+        Tシャツコレクション127 ￥990～ 黒 黄 ピンク グリーン 白丈で選ぶ!ロングT ポロシャツ 大人Tシャツ]]></description>
+    </item>
+    <item>
+        <title>サンダルコレクション55 ￥1,590(税込)～</title> 
+        <link>http://www.nissen.co.jp/cate004/event/PL09SU102_001_sandal/index.htm?eve=nba02</link> 
+        <description><![CDATA[ <img border="0" width="205" height="90" src="http://www.nissen.co.jp/event_list/images/090401/pl09su102.jpg" /><br />
+        サンダルコレクション　トレンドサンダルから定番プチプラサンダルまで★70足以上！]]></description>
+    </item>
+    </channel>
+</rss>

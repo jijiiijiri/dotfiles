@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>第15回 イーオンTOEIC(R)テスト コンテスト結果発表</title>
+        <link>http://www.aeonnetcampus.com/aeonnews/kyoumu/toeic_15th.html</link>
+        <description><![CDATA[<img border="0" src="http://www.aeonet.co.jp/img/topics_img7.gif"/><br />
+        イーオンでは、TOEIC(R)テストのハイスコア記録に挑戦する「ハイスコアコンテスト」と、2回の受験でスコアをどれだけ伸ばせるかに挑戦する「のびのびコンテスト」を実施しています。]]></description>
+    </item>
+    <item>
+        <title>大杉先生が英語の悩みを解決</title>
+        <link>http://www.5minutes.co.jp/top_osugi_q_and_a/top_osugi_q_and_a.asp</link>
+        <description><![CDATA[<img border="0" src="http://www.aeonet.co.jp/img/topics_img8.gif"/><br />
+        海外の文化や生活、英語学習者としての常識に関わる質問を大杉先生がお答えします。今週の質問は「come と go を上手に使い分けよう！」]]></description>
+    </item>
+    <item>
+        <title>英語の筋トレ「書き取りドットコム」</title>
+        <link>http://www.kakitori.com/</link>
+        <description><![CDATA[<img border="0" src="http://www.aeonet.co.jp/img/topics_img7.gif"/><br />
+        通常の英語学習とは比較にならないハードトレーニングで英語力を鍛える英会話スクールAEONの学習サイト。]]></description>
+    </item>
+    <item>
+        <title>スキル別メルマガ講座</title>
+        <link>http://www.aeon-english.com/</link>
+        <description><![CDATA[<img border="0"src="http://www.aeonet.co.jp/img/topics_img7.gif"/><br />
+        英語を携帯やパソコンで毎日学べるスキル別メルマガ講座『AEON ENGLISH WORLD』を英会話教室AEONから配信中！]]></description>
+    </item>
+
+    </channel>
+</rss>

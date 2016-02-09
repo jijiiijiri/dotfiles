@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://www.rssad.jp</link>
+    <description>demodemo</description>
+    <language>ja</language>
+
+    <item>
+        <title>口コミサンプル１</title>
+        <link>http://www.family.co.jp/goods/cafe/</link>
+        <description><![CDATA[<img border="0" src="http://www.family.co.jp/goods/cafe/hc0g74000001bfx3-img/hc0g74000001bfz5.jpg"/><br />
+        カスタードタイプの飲むプリン！とろーりとした食感が楽しめるデザート飲料です。]]></description>
+    </item>
+    <item>
+        <title>口コミサンプル2</title>
+        <link>http://www.family.co.jp/goods/cafe/</link>
+        <description><![CDATA[<img border="0" src="http://www.family.co.jp/goods/cafe/hc0g74000001bfx3-img/hc0g74000001bfz5.jpg"/><br />
+        レインフォレストアライアンス認証コーヒーを使用し、コーヒーの味わいを大切にしたカフェラテです]]></description>
+    </item>
+    <item>
+        <title>口コミサンプル3</title>
+        <link>http://www.family.co.jp/goods/cafe/</link>
+        <description><![CDATA[<img border="0" src="http://www.family.co.jp/goods/cafe/hc0g74000001bfx3-img/hc0g74000001bfz5.jpg"/><br />
+        香り高い抹茶とまろやかなミルクが調和した爽やかな風味の抹茶ラテです。]]></description>
+    </item>
+    <item>
+        <title>口コミサンプル4</title>
+        <link>http://www.family.co.jp/goods/cafe/</link>
+        <description><![CDATA[<img border="0" src="http://www.family.co.jp/goods/cafe/hc0g74000001bfx3-img/hc0g74000001bfz5.jpg"/><br />
+        カロリーが気になる女性にうれしい、カロリーゼロのゼリー飲料です。さわやかなぶどう味ですっきりした味わいが特徴です。]]></description>
+    </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,479 @@
+@charset "UTF-8";
+@media screen and (min-width: 801px) {
+    .wrapperAll {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+    .wrapperAll:after {
+        content: ".";
+        display: block;
+        height: 0;
+        font-size: 0;
+        clear: both;
+        visibility: hidden;
+    }
+    .titleWrap {
+        width: 100%;
+    }
+    .titleWrap h1 {
+        color: #424242;
+        font-size: 1.2em;
+        margin-top: 20px;
+        margin-bottom: 0;
+        font-weight: normal;
+        padding: 0 0 5px 10px;
+        border-bottom: #dddddd 1px solid;
+    }
+    .titleWrap h1 a {
+        color: #424242;
+    }
+    .titleWrap h1 a:hover {
+        color: #424242;
+        text-decoration: none;
+    }
+    .main h2 {
+        color: #424242;
+        font-size: 1.2em;
+        border-bottom: #669d44 1px solid;
+        font-weight: normal;
+        padding-top: 3%;
+        margin-bottom: 3%;
+    }
+    .inner h3 {
+        font-size: 0.8em;
+        font-weight: normal;
+    }
+    .inner p {
+        font-size: 0.8em;
+    }
+    .main {
+        max-width: 78%;
+        min-width: 78%;
+        float: left;
+    }
+    .inner {
+        width: 96%;
+        margin: 3%;
+    }
+    .contentNavi {
+        clear: both;
+        overflow: hidden;
+        *zoom: 1;
+        margin-bottom: 3%;
+    }
+    .contentNavi a {
+        box-sizing: border-box;
+        color: #fff;
+        display: block;
+        height: 155px;
+        padding: 53px 30px;
+        font-size: 23px;
+        line-height: 1.1;
+        text-decoration: none;
+        text-shadow: 1px 1px 1px #4a4a4a;
+        -moz-text-shadow: 1px 1px 1px #4a4a4a;
+        -webkit-text-shadow: 1px 1px 1px #4a4a4a;
+    }
+    .contentNavi a span {
+        font-size: 12px;
+    }
+    .contentNavi a.career {
+        background: url("../images/nc/btn_rec_career.jpg") no-repeat left top;
+        background-size: cover;
+        text-align: left;
+    }
+    .contentNavi a.newgrads {
+        background: url("../images/nc/btn_rec_newgrads.jpg") no-repeat right top;
+        background-size: cover;
+        text-align: right;
+    }
+    .contentNavi a.history {
+        background: url("../images/nc/btn_rec_history.jpg") no-repeat right top;
+        background-size: cover;
+        text-align: center;
+        width: 49%;
+        float: left;
+    }
+    .contentNavi a.member {
+        background: url("../images/nc/btn_rec_member.jpg") no-repeat right top;
+        background-size: cover;
+        text-align: center;
+        width: 49%;
+        float: right;
+    }
+    .contentNavi a.culture {
+        background: url("../images/nc/btn_rec_culture.jpg") no-repeat left top;
+        background-size: cover;
+        text-align: center;
+    }
+    .contentNavi a:hover {
+        text-decoration: none;
+        opacity: 0.8;
+    }
+    .img-recruit-event {
+      width: 100%;
+    }
+    .img-recruit-event img {
+      width: 100%;
+    }
+    .img-recruit-event a:hover{
+      opacity: 0.8;
+    }
+    .info ul {
+        list-style: none;
+        font-size: 0.7em;
+        margin: 0;
+        padding: 0 3%;
+    }
+    .info ul li {
+        padding-top: 8px;
+        color: #424242;
+    }
+    .info ul li time {
+        margin-right: 3em;
+    }
+    .info ul li a {
+        color: #424242;
+        text-decoration: none;
+    }
+    .info ul li a:hover {
+        color: #669d44;
+        text-decoration: none;
+    }
+    .about_f81 {
+        margin-bottom: 3%;
+        width: 100%;
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
+    }
+    .about_f81 iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 800px) {
+    .wrapperAll {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .wrapperAll:after {
+        content: ".";
+        display: block;
+        height: 0;
+        font-size: 0;
+        clear: both;
+        visibility: hidden;
+    }
+    .titleWrap {
+        width: 100%;
+    }
+    .titleWrap h1 {
+        font-size: 1.2em;
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-weight: normal;
+        padding: 20px 0 5px 10px;
+        border-bottom: #dddddd 1px solid;
+        text-align: center;
+    }
+    .titleWrap h1 a {
+        color: #424242;
+    }
+    .titleWrap h1 a:hover {
+        color: #669d44;
+        text-decoration: none;
+    }
+    .main h2 {
+        color: #424242;
+        font-size: 1em;
+        border-bottom: #669d44 1px solid;
+        font-weight: normal;
+        padding-top: 3%;
+        margin-bottom: 3%;
+    }
+    .inner h3 {
+        font-size: 0.8em;
+        font-weight: normal;
+    }
+    .main {
+        width: 100%;
+    }
+    .inner {
+        width: 100%;
+    }
+    .inner p {
+        font-size: 0.8em;
+    }
+    .contentNavi {
+        clear: both;
+        overflow: hidden;
+        *zoom: 1;
+        margin-bottom: 3%;
+    }
+    .contentNavi a {
+        box-sizing: border-box;
+        color: #fff;
+        display: block;
+        height: 155px;
+        padding: 58px 30px;
+        font-size: 20px;
+        line-height: 1.1;
+        text-decoration: none;
+        text-shadow: 1px 1px 1px #4a4a4a;
+        -moz-text-shadow: 1px 1px 1px #4a4a4a;
+        -webkit-text-shadow: 1px 1px 1px #4a4a4a;
+    }
+    .contentNavi a span {
+        font-size: 12px;
+    }
+    .contentNavi a.career {
+        background: url("../images/nc/btn_rec_career.jpg") no-repeat left top;
+        background-size: cover;
+        text-align: left;
+    }
+    .contentNavi a.newgrads {
+        background: url("../images/nc/btn_rec_newgrads.jpg") no-repeat right top;
+        background-size: cover;
+        text-align: right;
+    }
+    .contentNavi a.history {
+        background: url("../images/nc/btn_rec_history_s.jpg") no-repeat right top;
+        background-size: cover;
+        text-align: center;
+        width: 49%;
+        float: left;
+    }
+    .contentNavi a.member {
+        background: url("../images/nc/btn_rec_member_s.jpg") no-repeat center top;
+        background-size: cover;
+        text-align: center;
+        width: 49%;
+        float: right;
+    }
+    .contentNavi a.culture {
+        background: url("../images/nc/btn_rec_culture.jpg") no-repeat left top;
+        background-size: cover;
+        text-align: center;
+    }
+    .contentNavi a:hover {
+        text-decoration: none;
+        opacity: 0.8;
+    }
+    .img-recruit-event {
+      width: 100%;
+    }
+    .img-recruit-event img {
+      width: 100%;
+    }
+    .img-recruit-event a:hover{
+      opacity: 0.8;
+    }
+    .info ul {
+        list-style: none;
+        font-size: 0.7em;
+        margin: 0;
+        padding: 0;
+    }
+    .info ul li {
+        padding: 8px;
+        color: #424242;
+        border-bottom: #eee 1px solid;
+        line-height: 1.4;
+    }
+    .info ul li time {
+        margin-right: 0;
+        margin-bottom: 0.5em;
+        display: block;
+        width: 100%;
+    }
+    .info ul li a {
+        color: #424242;
+        text-decoration: none;
+        display: block;
+        width: 100%;
+    }
+    .info ul li a:hover {
+        color: #669d44;
+        text-decoration: none;
+    }
+    .about_f81 {
+        margin-bottom: 3%;
+        width: 100%;
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
+    }
+    .about_f81 iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .wrapperAll {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .wrapperAll:after {
+        content: ".";
+        display: block;
+        height: 0;
+        font-size: 0;
+        clear: both;
+        visibility: hidden;
+    }
+    .titleWrap {
+        width: 100%;
+    }
+    .titleWrap h1 {
+        font-size: 1.2em;
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-weight: normal;
+        padding: 20px 0 5px 10px;
+        border-bottom: #dddddd 1px solid;
+        text-align: center;
+    }
+    .titleWrap h1 a {
+        color: #424242;
+    }
+    .titleWrap h1 a:hover {
+        color: #669d44;
+        text-decoration: none;
+    }
+    .main h2 {
+        color: #424242;
+        font-size: 1em;
+        border-bottom: #669d44 1px solid;
+        font-weight: normal;
+        padding-top: 3%;
+        margin-bottom: 3%;
+    }
+    .inner h3 {
+        font-size: 0.8em;
+        font-weight: normal;
+    }
+    .main {
+        width: 100%;
+    }
+    .inner {
+        width: 100%;
+    }
+    .inner p {
+        font-size: 0.8em;
+    }
+    .contentNavi {
+        clear: both;
+        overflow: hidden;
+        *zoom: 1;
+        margin-bottom: 3%;
+    }
+    .contentNavi a {
+        box-sizing: border-box;
+        color: #fff;
+        display: block;
+        max-height: 155px;
+        padding: 58px 30px;
+        font-size: 20px;
+        line-height: 1.1;
+        text-decoration: none;
+        text-shadow: 1px 1px 1px #4a4a4a;
+        -moz-text-shadow: 1px 1px 1px #4a4a4a;
+        -webkit-text-shadow: 1px 1px 1px #4a4a4a;
+    }
+    .contentNavi a span {
+        font-size: 12px;
+    }
+    .contentNavi a.career {
+        background: url("../images/nc/btn_rec_career.jpg") no-repeat left top;
+        background-size: cover;
+        text-align: left;
+    }
+    .contentNavi a.newgrads {
+        background: url("../images/nc/btn_rec_newgrads.jpg") no-repeat right top;
+        background-size: cover;
+        text-align: right;
+    }
+    .contentNavi a.history {
+        background: url("../images/nc/btn_rec_history_s.jpg") no-repeat right top;
+        background-size: cover;
+        text-align: center;
+        margin-bottom: 3%;
+    }
+    .contentNavi a.member {
+        background: url("../images/nc/btn_rec_member_s.jpg") no-repeat center top;
+        background-size: cover;
+        text-align: center;
+    }
+    .contentNavi a.culture {
+        background: url("../images/nc/btn_rec_culture.jpg") no-repeat left top;
+        background-size: cover;
+        text-align: center;
+    }
+    .contentNavi a:hover {
+        text-decoration: none;
+        opacity: 0.8;
+    }
+    .img-recruit-event {
+      width: 100%;
+    }
+    .img-recruit-event img {
+      width: 100%;
+    }
+    .info ul {
+        list-style: none;
+        font-size: 0.7em;
+        margin: 0;
+        padding: 0;
+    }
+    .info ul li {
+        padding: 8px;
+        color: #424242;
+        border-bottom: #eee 1px solid;
+        line-height: 1.4;
+    }
+    .info ul li time {
+        margin-right: 0;
+        margin-bottom: 0.5em;
+        display: block;
+        width: 100%;
+    }
+    .info ul li a {
+        color: #424242;
+        text-decoration: none;
+        display: block;
+        width: 100%;
+    }
+    .info ul li a:hover {
+        color: #669d44;
+        text-decoration: none;
+    }
+    .about_f81 {
+        margin-bottom: 3%;
+        width: 100%;
+        position: relative;
+        padding-bottom: 56.25%;
+        padding-top: 30px;
+        height: 0;
+        overflow: hidden;
+    }
+    .about_f81 iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}

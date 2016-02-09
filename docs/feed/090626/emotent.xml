@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+    <channel>
+    <title>demo</title>
+    <link>http://demo.jp/</link>
+    <description>demo</description>
+    <language>ja</language>
+
+    <item>
+        <title>結果を求め続ける戦闘化粧品</title>
+        <link>http://tryvic.emotent.jp/</link>
+        <description><![CDATA[<img border="0" width="140" height="72" src="http://tryvic.emotent.jp/common/img/logo.gif"/><br />
+        「お肌の弱い方にも、安心して使っていただける」など、全てを私達が納得するまでつきつめて、
+シャンプーが出来上がりました。]]></description>
+    </item>
+    <item>
+        <title>発売から４年で、80万本突破！</title>
+        <link>http://www.emotent.jp/shampoo/index.html</link>
+        <description><![CDATA[<img border="0" width="96" height="79" src="http://www.emotent.jp/img/topimg.jpg"/><br />
+        なぜ売れるこのシャンプー？？　商品開発部 堀本氏が「売れる秘密」を皆様にお伝え致します]]></description>
+    </item>
+    <item>
+        <title>第30回／体内毒素に気をつけて♪</title>
+        <link>http://www.emotent.jp/column/030.html</link>
+        <description><![CDATA[<img border="0" width="96" height="79" src="http://www.emotent.jp/img/images1.gif"/><br />
+        えもびーのコールセンター「ユア サイドセンター」のスタッフが、女性の視点からの男性への要望を楽しくお伝えします。]]></description>
+    </item>
+    <item>
+        <title>体臭防止　柿渋石けん</title>
+        <link>http://tryvicsk.emotent.jp/item/sorp/index.html</link>
+        <description><![CDATA[<img border="0" width="50" height="110" src="http://tryvicsk.emotent.jp/img/list/products2.jpg"/><br />
+        加齢臭の無い人に近づきたくなる体へ]]></description>
+    </item>
+
+    </channel>
+</rss>
